@@ -1,0 +1,2151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.5, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2565.07 7427.54" style="enable-background:new 0 0 2565.07 7427.54;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.05;clip-path:url(#SVGID_2_);}
+	.st1{fill:#686868;}
+	.st2{clip-path:url(#SVGID_2_);fill:#05A1E5;}
+	.st3{opacity:0.08;clip-path:url(#SVGID_2_);}
+	.st4{fill:#333333;}
+	.st5{clip-path:url(#SVGID_2_);fill:none;}
+	.st6{opacity:0.3;clip-path:url(#SVGID_2_);}
+	.st7{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#FEFEFF;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#FCFDFF;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#FBFDFE;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#FAFCFE;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#F8FBFE;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#F7FAFE;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#F6F9FE;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#F4F9FE;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#F3F8FD;stroke-miterlimit:10;}
+	.st17{fill:none;stroke:#F2F7FD;stroke-miterlimit:10;}
+	.st18{fill:none;stroke:#F0F6FD;stroke-miterlimit:10;}
+	.st19{fill:none;stroke:#EFF5FD;stroke-miterlimit:10;}
+	.st20{fill:none;stroke:#EDF4FD;stroke-miterlimit:10;}
+	.st21{fill:none;stroke:#ECF4FD;stroke-miterlimit:10;}
+	.st22{fill:none;stroke:#EBF3FC;stroke-miterlimit:10;}
+	.st23{fill:none;stroke:#E9F2FC;stroke-miterlimit:10;}
+	.st24{fill:none;stroke:#E8F1FC;stroke-miterlimit:10;}
+	.st25{fill:none;stroke:#E7F0FC;stroke-miterlimit:10;}
+	.st26{fill:none;stroke:#E5F0FC;stroke-miterlimit:10;}
+	.st27{fill:none;stroke:#E4EFFC;stroke-miterlimit:10;}
+	.st28{fill:none;stroke:#E3EEFB;stroke-miterlimit:10;}
+	.st29{fill:none;stroke:#E1EDFB;stroke-miterlimit:10;}
+	.st30{fill:none;stroke:#E0ECFB;stroke-miterlimit:10;}
+	.st31{fill:none;stroke:#DFECFB;stroke-miterlimit:10;}
+	.st32{fill:none;stroke:#DDEBFB;stroke-miterlimit:10;}
+	.st33{fill:none;stroke:#DCEAFA;stroke-miterlimit:10;}
+	.st34{fill:none;stroke:#DBE9FA;stroke-miterlimit:10;}
+	.st35{fill:none;stroke:#D9E8FA;stroke-miterlimit:10;}
+	.st36{fill:none;stroke:#D8E8FA;stroke-miterlimit:10;}
+	.st37{fill:none;stroke:#D7E7FA;stroke-miterlimit:10;}
+	.st38{fill:none;stroke:#D5E6FA;stroke-miterlimit:10;}
+	.st39{fill:none;stroke:#D4E5F9;stroke-miterlimit:10;}
+	.st40{fill:none;stroke:#D3E4F9;stroke-miterlimit:10;}
+	.st41{fill:none;stroke:#D1E3F9;stroke-miterlimit:10;}
+	.st42{fill:none;stroke:#D0E3F9;stroke-miterlimit:10;}
+	.st43{fill:none;stroke:#CFE2F9;stroke-miterlimit:10;}
+	.st44{fill:none;stroke:#CDE1F9;stroke-miterlimit:10;}
+	.st45{fill:none;stroke:#CCE0F8;stroke-miterlimit:10;}
+	.st46{fill:none;stroke:#CADFF8;stroke-miterlimit:10;}
+	.st47{fill:none;stroke:#C9DFF8;stroke-miterlimit:10;}
+	.st48{fill:none;stroke:#C8DEF8;stroke-miterlimit:10;}
+	.st49{fill:none;stroke:#C6DDF8;stroke-miterlimit:10;}
+	.st50{fill:none;stroke:#C5DCF8;stroke-miterlimit:10;}
+	.st51{fill:none;stroke:#C4DBF7;stroke-miterlimit:10;}
+	.st52{fill:none;stroke:#C2DBF7;stroke-miterlimit:10;}
+	.st53{fill:none;stroke:#C1DAF7;stroke-miterlimit:10;}
+	.st54{fill:none;stroke:#C0D9F7;stroke-miterlimit:10;}
+	.st55{fill:none;stroke:#BED8F7;stroke-miterlimit:10;}
+	.st56{fill:none;stroke:#BDD7F6;stroke-miterlimit:10;}
+	.st57{fill:none;stroke:#BCD7F6;stroke-miterlimit:10;}
+	.st58{fill:none;stroke:#BAD6F6;stroke-miterlimit:10;}
+	.st59{fill:none;stroke:#B9D5F6;stroke-miterlimit:10;}
+	.st60{fill:none;stroke:#B8D4F6;stroke-miterlimit:10;}
+	.st61{fill:none;stroke:#B6D3F6;stroke-miterlimit:10;}
+	.st62{fill:none;stroke:#B5D2F5;stroke-miterlimit:10;}
+	.st63{fill:none;stroke:#B4D2F5;stroke-miterlimit:10;}
+	.st64{fill:none;stroke:#B2D1F5;stroke-miterlimit:10;}
+	.st65{fill:none;stroke:#B1D0F5;stroke-miterlimit:10;}
+	.st66{fill:none;stroke:#B0CFF5;stroke-miterlimit:10;}
+	.st67{fill:none;stroke:#AECEF5;stroke-miterlimit:10;}
+	.st68{fill:none;stroke:#ADCEF4;stroke-miterlimit:10;}
+	.st69{fill:none;stroke:#ABCDF4;stroke-miterlimit:10;}
+	.st70{fill:none;stroke:#AACCF4;stroke-miterlimit:10;}
+	.st71{fill:none;stroke:#A9CBF4;stroke-miterlimit:10;}
+	.st72{fill:none;stroke:#A7CAF4;stroke-miterlimit:10;}
+	.st73{fill:none;stroke:#A6CAF4;stroke-miterlimit:10;}
+	.st74{fill:none;stroke:#A5C9F3;stroke-miterlimit:10;}
+	.st75{fill:none;stroke:#A3C8F3;stroke-miterlimit:10;}
+	.st76{fill:none;stroke:#A2C7F3;stroke-miterlimit:10;}
+	.st77{fill:none;stroke:#A1C6F3;stroke-miterlimit:10;}
+	.st78{fill:none;stroke:#9FC5F3;stroke-miterlimit:10;}
+	.st79{fill:none;stroke:#9EC5F3;stroke-miterlimit:10;}
+	.st80{fill:none;stroke:#9DC4F2;stroke-miterlimit:10;}
+	.st81{fill:none;stroke:#9BC3F2;stroke-miterlimit:10;}
+	.st82{fill:none;stroke:#9AC2F2;stroke-miterlimit:10;}
+	.st83{fill:none;stroke:#99C1F2;stroke-miterlimit:10;}
+	.st84{fill:none;stroke:#97C1F2;stroke-miterlimit:10;}
+	.st85{fill:none;stroke:#96C0F1;stroke-miterlimit:10;}
+	.st86{fill:none;stroke:#95BFF1;stroke-miterlimit:10;}
+	.st87{fill:none;stroke:#93BEF1;stroke-miterlimit:10;}
+	.st88{fill:none;stroke:#92BDF1;stroke-miterlimit:10;}
+	.st89{fill:none;stroke:#91BDF1;stroke-miterlimit:10;}
+	.st90{fill:none;stroke:#8FBCF1;stroke-miterlimit:10;}
+	.st91{fill:none;stroke:#8EBBF0;stroke-miterlimit:10;}
+	.st92{fill:none;stroke:#8CBAF0;stroke-miterlimit:10;}
+	.st93{fill:none;stroke:#8BB9F0;stroke-miterlimit:10;}
+	.st94{fill:none;stroke:#8AB9F0;stroke-miterlimit:10;}
+	.st95{fill:none;stroke:#88B8F0;stroke-miterlimit:10;}
+	.st96{fill:none;stroke:#87B7F0;stroke-miterlimit:10;}
+	.st97{fill:none;stroke:#86B6EF;stroke-miterlimit:10;}
+	.st98{fill:none;stroke:#84B5EF;stroke-miterlimit:10;}
+	.st99{fill:none;stroke:#83B4EF;stroke-miterlimit:10;}
+	.st100{fill:none;stroke:#82B4EF;stroke-miterlimit:10;}
+	.st101{fill:none;stroke:#80B3EF;stroke-miterlimit:10;}
+	.st102{fill:none;stroke:#7FB2EF;stroke-miterlimit:10;}
+	.st103{fill:none;stroke:#7EB1EE;stroke-miterlimit:10;}
+	.st104{fill:none;stroke:#7CB0EE;stroke-miterlimit:10;}
+	.st105{fill:none;stroke:#7BB0EE;stroke-miterlimit:10;}
+	.st106{fill:none;stroke:#7AAFEE;stroke-miterlimit:10;}
+	.st107{fill:none;stroke:#78AEEE;stroke-miterlimit:10;}
+	.st108{fill:none;stroke:#77ADED;stroke-miterlimit:10;}
+	.st109{fill:none;stroke:#76ACED;stroke-miterlimit:10;}
+	.st110{fill:none;stroke:#74ACED;stroke-miterlimit:10;}
+	.st111{fill:none;stroke:#73ABED;stroke-miterlimit:10;}
+	.st112{fill:none;stroke:#72AAED;stroke-miterlimit:10;}
+	.st113{fill:none;stroke:#70A9ED;stroke-miterlimit:10;}
+	.st114{fill:none;stroke:#6FA8EC;stroke-miterlimit:10;}
+	.st115{fill:none;stroke:#6EA8EC;stroke-miterlimit:10;}
+	.st116{fill:none;stroke:#6CA7EC;stroke-miterlimit:10;}
+	.st117{fill:none;stroke:#6BA6EC;stroke-miterlimit:10;}
+	.st118{fill:none;stroke:#69A5EC;stroke-miterlimit:10;}
+	.st119{fill:none;stroke:#68A4EC;stroke-miterlimit:10;}
+	.st120{fill:none;stroke:#67A3EB;stroke-miterlimit:10;}
+	.st121{fill:none;stroke:#65A3EB;stroke-miterlimit:10;}
+	.st122{fill:none;stroke:#64A2EB;stroke-miterlimit:10;}
+	.st123{fill:none;stroke:#63A1EB;stroke-miterlimit:10;}
+	.st124{fill:none;stroke:#61A0EB;stroke-miterlimit:10;}
+	.st125{fill:none;stroke:#609FEB;stroke-miterlimit:10;}
+	.st126{fill:none;stroke:#5F9FEA;stroke-miterlimit:10;}
+	.st127{fill:none;stroke:#5D9EEA;stroke-miterlimit:10;}
+	.st128{fill:none;stroke:#5C9DEA;stroke-miterlimit:10;}
+	.st129{fill:none;stroke:#999999;stroke-width:1.5;stroke-miterlimit:10;}
+	.st130{fill:#FFFFFF;}
+	.st131{fill:#020600;}
+	.st132{opacity:0.95;fill:#191818;}
+	.st133{fill:#05A1E5;}
+	.st134{fill:#0741E2;}
+	.st135{opacity:0.1;}
+	.st136{opacity:0.05;}
+	.st137{fill:#191818;}
+	.st138{opacity:0.24;}
+	.st139{fill:none;}
+	.st140{opacity:0.13;}
+	.st141{clip-path:url(#SVGID_4_);fill:#191818;}
+	.st142{opacity:0.24;clip-path:url(#SVGID_4_);}
+	.st143{clip-path:url(#SVGID_4_);fill:none;}
+	.st144{opacity:0.3;clip-path:url(#SVGID_4_);}
+	.st145{opacity:0.13;clip-path:url(#SVGID_4_);}
+	.st146{clip-path:url(#SVGID_6_);fill:#191818;}
+	.st147{opacity:0.24;clip-path:url(#SVGID_6_);}
+	.st148{clip-path:url(#SVGID_6_);fill:none;}
+	.st149{opacity:0.3;clip-path:url(#SVGID_6_);}
+	.st150{opacity:0.13;clip-path:url(#SVGID_6_);}
+	.st151{clip-path:url(#SVGID_8_);}
+	.st152{clip-path:url(#SVGID_10_);fill:#191818;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st153{opacity:0.24;clip-path:url(#SVGID_10_);}
+	.st154{fill:#333333;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st155{clip-path:url(#SVGID_10_);fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st156{opacity:0.3;clip-path:url(#SVGID_10_);}
+	.st157{opacity:0.13;clip-path:url(#SVGID_10_);}
+	.st158{fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st159{fill:#30ACEB;}
+	.st160{fill:#05A1E5;stroke:#05A1E5;stroke-width:0.5;stroke-miterlimit:10;}
+	.st161{fill:#FFFFFF;stroke:#05A1E5;stroke-width:0.5;stroke-miterlimit:10;}
+	.st162{opacity:0.95;fill:#191818;stroke:#05A1E5;stroke-width:0.5;stroke-miterlimit:10;}
+	.st163{clip-path:url(#SVGID_12_);}
+	.st164{clip-path:url(#SVGID_14_);fill:#191818;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st165{opacity:0.24;clip-path:url(#SVGID_14_);}
+	.st166{clip-path:url(#SVGID_14_);fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st167{opacity:0.3;clip-path:url(#SVGID_14_);}
+	.st168{opacity:0.13;clip-path:url(#SVGID_14_);}
+	.st169{clip-path:url(#SVGID_16_);}
+	.st170{clip-path:url(#SVGID_18_);fill:#191818;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st171{opacity:0.24;clip-path:url(#SVGID_18_);}
+	.st172{clip-path:url(#SVGID_18_);fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st173{opacity:0.3;clip-path:url(#SVGID_18_);}
+	.st174{opacity:0.13;clip-path:url(#SVGID_18_);}
+	.st175{clip-path:url(#SVGID_20_);}
+	.st176{clip-path:url(#SVGID_22_);fill:#191818;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st177{opacity:0.24;clip-path:url(#SVGID_22_);}
+	.st178{clip-path:url(#SVGID_22_);fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st179{opacity:0.3;clip-path:url(#SVGID_22_);}
+	.st180{opacity:0.13;clip-path:url(#SVGID_22_);}
+	.st181{clip-path:url(#SVGID_24_);}
+	.st182{clip-path:url(#SVGID_26_);fill:#191818;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st183{opacity:0.24;clip-path:url(#SVGID_26_);}
+	.st184{clip-path:url(#SVGID_26_);fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st185{opacity:0.3;clip-path:url(#SVGID_26_);}
+	.st186{opacity:0.13;clip-path:url(#SVGID_26_);}
+	.st187{clip-path:url(#SVGID_28_);}
+	.st188{clip-path:url(#SVGID_30_);fill:#191818;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st189{opacity:0.24;clip-path:url(#SVGID_30_);}
+	.st190{clip-path:url(#SVGID_30_);fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st191{opacity:0.3;clip-path:url(#SVGID_30_);}
+	.st192{opacity:0.13;clip-path:url(#SVGID_30_);}
+	.st193{fill:none;stroke:#05A1E5;stroke-width:4;stroke-miterlimit:10;}
+	.st194{opacity:0.5;fill:#191818;}
+	.st195{fill:none;stroke:#05A1E5;stroke-width:3;stroke-miterlimit:10;}
+	.st196{opacity:0.95;}
+	.st197{opacity:0.1;clip-path:url(#SVGID_32_);}
+	.st198{opacity:0.1;clip-path:url(#SVGID_34_);}
+	.st199{opacity:0.1;clip-path:url(#SVGID_36_);}
+	.st200{opacity:0.1;clip-path:url(#SVGID_38_);}
+	.st201{opacity:0.1;clip-path:url(#SVGID_40_);}
+	.st202{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
+	.st203{opacity:0.1;clip-path:url(#SVGID_42_);}
+	.st204{fill:#FA7D18;}
+	.st205{fill:#1C0A00;}
+	.st206{opacity:0.25;}
+	.st207{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:1.4447;stroke-miterlimit:10;}
+	.st208{fill:url(#SVGID_43_);stroke:#FFFFFF;stroke-width:1.4447;stroke-miterlimit:10;}
+	.st209{opacity:0.84;}
+	.st210{fill:#DDCDB3;}
+	.st211{opacity:0.1;clip-path:url(#SVGID_47_);}
+	.st212{opacity:0.1;clip-path:url(#SVGID_49_);}
+	.st213{opacity:0.1;clip-path:url(#SVGID_51_);}
+	.st214{opacity:0.76;}
+	.st215{opacity:0.1;clip-path:url(#SVGID_53_);}
+	.st216{fill:#05A1E5;stroke:#191818;stroke-miterlimit:10;}
+	.st217{fill:#FFFFFF;stroke:#191818;stroke-width:0.75;stroke-miterlimit:10;}
+	.st218{opacity:0.95;fill:#191818;stroke:#191818;stroke-miterlimit:10;}
+	.st219{opacity:0.1;clip-path:url(#SVGID_55_);}
+	.st220{fill:none;stroke:#191818;stroke-width:5;stroke-miterlimit:10;}
+	.st221{fill:#F9599F;}
+	.st222{fill:#330112;}
+	.st223{fill:#06C7FD;}
+	.st224{fill:#001D26;}
+	.st225{fill:#E977FE;}
+	.st226{fill:#2A0034;}
+	.st227{fill:#D190FE;}
+	.st228{fill:#1F0040;}
+	.st229{fill:#FC2BC0;}
+	.st230{fill:#2E001E;}
+	.st231{fill:#B0A2FE;}
+	.st232{fill:#10124C;}
+	.st233{fill:#00E5BC;}
+	.st234{fill:#00241F;}
+	.st235{fill:#EF6529;}
+	.st236{fill:#E24D26;}
+	.st237{fill:#FEFEFE;}
+	.st238{fill:#274DE1;}
+	.st239{fill:#2965F0;}
+	.st240{fill:#CBCBCC;}
+	.st241{fill:#FDD63A;}
+	.st242{fill:#D8B82E;}
+	.st243{fill:#5D618C;}
+	.st244{fill:#777BB2;}
+	.st245{fill:#FBFBFB;}
+	.st246{fill:#220B23;}
+	.st247{fill:#351235;}
+	.st248{fill:#21759C;}
+	.st249{fill:#EBEBEB;}
+	.st250{fill:#F24E1E;}
+	.st251{fill:#E87D0D;}
+	.st252{fill:#265787;}
+	.st253{fill:#4CB648;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st254{fill:url(#SVGID_60_);stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st255{fill:#0866FE;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st256{stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st257{fill:#0166C8;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st258{fill:#252424;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st259{fill:#262525;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st260{fill:#FFFFFF;stroke:#05A1E5;stroke-width:3;stroke-miterlimit:10;}
+	.st261{opacity:0.1;clip-path:url(#SVGID_62_);}
+	.st262{fill:#191818;stroke:#191818;stroke-miterlimit:10;}
+	.st263{fill:#30ACEB;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st264{opacity:0.1;clip-path:url(#SVGID_64_);}
+	.st265{fill:#05A1E5;stroke:#05A1E5;stroke-miterlimit:10;}
+	.st266{fill:#FFFFFF;stroke:#05A1E5;stroke-miterlimit:10;}
+	.st267{opacity:0.95;fill:#191818;stroke:#05A1E5;stroke-miterlimit:10;}
+	.st268{fill:#8E107C;}
+	.st269{fill:#F44800;}
+	.st270{fill:#D61A1A;}
+	.st271{fill:#345FEA;}
+	.st272{fill:#731184;}
+	.st273{fill:#E20000;}
+	.st274{fill:#0671D8;}
+	.st275{fill:#200049;}
+	.st276{clip-path:url(#SVGID_70_);}
+	.st277{clip-path:url(#SVGID_78_);}
+	.st278{fill:url(#SVGID_81_);}
+	.st279{fill-rule:evenodd;clip-rule:evenodd;fill:#3D3D3D;}
+	.st280{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_82_);}
+	.st281{opacity:0.5;fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_83_);}
+	.st282{opacity:0.2;fill:url(#SVGID_84_);}
+	.st283{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_85_);}
+	.st284{opacity:0.2;fill:url(#SVGID_86_);}
+	.st285{fill:url(#SVGID_87_);}
+	.st286{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_88_);}
+	.st287{opacity:0.5;fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_89_);}
+	.st288{opacity:0.2;fill:url(#SVGID_90_);}
+	.st289{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_91_);}
+	.st290{opacity:0.2;fill:url(#SVGID_92_);}
+	.st291{clip-path:url(#SVGID_94_);}
+	.st292{clip-path:url(#SVGID_98_);}
+	.st293{clip-path:url(#SVGID_102_);}
+	.st294{clip-path:url(#SVGID_108_);}
+	.st295{clip-path:url(#SVGID_114_);}
+	.st296{clip-path:url(#SVGID_118_);}
+	.st297{clip-path:url(#SVGID_124_);}
+</style>
+<g id="BACKGROUND">
+	<g class="st136">
+		<polygon class="st1" points="965.63,-43.32 876.85,-43.32 832.47,33.56 876.85,110.44 965.63,110.44 1010.02,33.56 		"/>
+		<polygon class="st1" points="965.63,264.21 876.85,264.21 832.47,341.09 876.85,417.97 965.63,417.97 1010.02,341.09 		"/>
+		<polygon class="st1" points="32.48,341.09 -56.3,341.09 -100.69,417.97 -56.3,494.85 32.48,494.85 76.86,417.97 		"/>
+		<polygon class="st1" points="299.08,341.09 210.31,341.09 165.92,417.97 210.31,494.85 299.08,494.85 343.47,417.97 		"/>
+		<polygon class="st1" points="699.02,417.97 610.25,417.97 565.86,494.85 610.25,571.74 699.02,571.74 743.41,494.85 		"/>
+		<polygon class="st1" points="432.42,571.74 343.64,571.74 299.25,648.62 343.64,725.5 432.42,725.5 476.81,648.62 		"/>
+		<polygon class="st1" points="832.29,802.38 743.52,802.38 699.13,879.26 743.52,956.15 832.29,956.15 876.68,879.26 		"/>
+		<polygon class="st1" points="299.08,956.15 210.31,956.15 165.92,1033.03 210.31,1109.91 299.08,1109.91 343.47,1033.03 		"/>
+		<polygon class="st1" points="699.02,1033.03 610.25,1033.03 565.86,1109.91 610.25,1186.79 699.02,1186.79 743.41,1109.91 		"/>
+		<polygon class="st1" points="965.63,1033.03 876.85,1033.03 832.47,1109.91 876.85,1186.79 965.63,1186.79 1010.02,1109.91 		"/>
+		<polygon class="st1" points="165.81,1186.79 77.04,1186.79 32.65,1263.68 77.04,1340.56 165.81,1340.56 210.2,1263.68 		"/>
+		<polygon class="st1" points="432.42,1186.79 343.64,1186.79 299.25,1263.68 343.64,1340.56 432.42,1340.56 476.81,1263.68 		"/>
+		<polygon class="st1" points="1232.47,-43.32 1143.69,-43.32 1099.3,33.56 1143.69,110.44 1232.47,110.44 1276.85,33.56 		"/>
+		<polygon class="st1" points="1232.47,417.97 1143.69,417.97 1099.3,494.85 1143.69,571.74 1232.47,571.74 1276.85,494.85 		"/>
+		<polygon class="st1" points="1232.47,879.26 1143.69,879.26 1099.3,956.15 1143.69,1033.03 1232.47,1033.03 1276.85,956.15 		"/>
+		<polygon class="st1" points="1365.74,1109.91 1276.96,1109.91 1232.57,1186.79 1276.96,1263.68 1365.74,1263.68 1410.12,1186.79 
+					"/>
+	</g>
+	<rect x="-469.74" y="-26.87" class="st137" width="3051.05" height="7601.41"/>
+	<g class="st138">
+		<polygon class="st4" points="517.02,9.64 455.42,9.64 424.62,62.99 455.42,116.33 517.02,116.33 547.82,62.99 		"/>
+		<polygon class="st4" points="1164.51,-43.71 1102.91,-43.71 1072.11,9.64 1102.91,62.99 1164.51,62.99 1195.31,9.64 		"/>
+		<polygon class="st4" points="979.52,62.99 917.92,62.99 887.12,116.33 917.92,169.68 979.52,169.68 1010.32,116.33 		"/>
+		<polygon class="st4" points="1256.98,9.64 1195.38,9.64 1164.58,62.99 1195.38,116.33 1256.98,116.33 1287.78,62.99 		"/>
+		<polygon class="st4" points="332.03,116.33 270.43,116.33 239.63,169.68 270.43,223.03 332.03,223.03 362.83,169.68 		"/>
+		<polygon class="st4" points="239.56,169.68 177.96,169.68 147.16,223.03 177.96,276.37 239.56,276.37 270.36,223.03 		"/>
+		<polygon class="st4" points="147.52,116.33 85.92,116.33 55.12,169.68 85.92,223.03 147.52,223.03 178.32,169.68 		"/>
+		<polygon class="st4" points="979.52,276.37 917.92,276.37 887.12,329.72 917.92,383.06 979.52,383.06 1010.32,329.72 		"/>
+		<polygon class="st4" points="794.53,917.06 732.93,917.06 702.13,970.41 732.93,1023.76 794.53,1023.76 825.33,970.41 		"/>
+		<polygon class="st4" points="1164.51,169.68 1102.91,169.68 1072.11,223.03 1102.91,276.37 1164.51,276.37 1195.31,223.03 		"/>
+		<polygon class="st4" points="424.55,276.37 362.95,276.37 332.15,329.72 362.95,383.06 424.55,383.06 455.35,329.72 		"/>
+		<polygon class="st4" points="239.56,383.06 177.96,383.06 147.16,436.41 177.96,489.76 239.56,489.76 270.36,436.41 		"/>
+		<polygon class="st4" points="147.52,436.41 85.92,436.41 55.12,489.76 85.92,543.1 147.52,543.1 178.32,489.76 		"/>
+		<polygon class="st4" points="609.54,383.06 547.94,383.06 517.14,436.41 547.94,489.76 609.54,489.76 640.34,436.41 		"/>
+		<polygon class="st4" points="1256.98,329.72 1195.38,329.72 1164.58,383.06 1195.38,436.41 1256.98,436.41 1287.78,383.06 		"/>
+		<polygon class="st4" points="332.03,649.8 270.43,649.8 239.63,703.14 270.43,756.49 332.03,756.49 362.83,703.14 		"/>
+		<polygon class="st4" points="794.53,383.06 732.93,383.06 702.13,436.41 732.93,489.76 794.53,489.76 825.33,436.41 		"/>
+		<polygon class="st4" points="609.54,169.68 547.94,169.68 517.14,223.03 547.94,276.37 609.54,276.37 640.34,223.03 		"/>
+		<polygon class="st4" points="239.56,703.14 177.96,703.14 147.16,756.49 177.96,809.83 239.56,809.83 270.36,756.49 		"/>
+		<polygon class="st4" points="1256.98,543.1 1195.38,543.1 1164.58,596.45 1195.38,649.8 1256.98,649.8 1287.78,596.45 		"/>
+		<polygon class="st4" points="239.56,809.83 177.96,809.83 147.16,863.18 177.96,916.53 239.56,916.53 270.36,863.18 		"/>
+		<polygon class="st4" points="609.54,809.83 547.94,809.83 517.14,863.18 547.94,916.53 609.54,916.53 640.34,863.18 		"/>
+		<polygon class="st4" points="1442.13,116.33 1380.53,116.33 1349.73,169.68 1380.53,223.03 1442.13,223.03 1472.93,169.68 		"/>
+		<polygon class="st4" points="1533.55,62.99 1471.95,62.99 1441.16,116.33 1471.95,169.68 1533.55,169.68 1564.35,116.33 		"/>
+		<polygon class="st4" points="1442.13,436.41 1380.53,436.41 1349.73,489.76 1380.53,543.1 1442.13,543.1 1472.93,489.76 		"/>
+		<polygon class="st4" points="1533.55,489.76 1471.95,489.76 1441.16,543.1 1471.95,596.45 1533.55,596.45 1564.35,543.1 		"/>
+		<polygon class="st4" points="1442.13,649.8 1380.53,649.8 1349.73,703.14 1380.53,756.49 1442.13,756.49 1472.93,703.14 		"/>
+		<polygon class="st4" points="1442.13,756.49 1380.53,756.49 1349.73,809.83 1380.53,863.18 1442.13,863.18 1472.93,809.83 		"/>
+		<polygon class="st4" points="887,755.57 825.4,755.57 794.6,808.91 825.4,862.26 887,862.26 917.8,808.91 		"/>
+		<polygon class="st4" points="1164.51,809.83 1102.91,809.83 1072.11,863.18 1102.91,916.53 1164.51,916.53 1195.31,863.18 		"/>
+		<polygon class="st4" points="1256.98,863.72 1195.38,863.72 1164.58,917.06 1195.38,970.41 1256.98,970.41 1287.78,917.06 		"/>
+		<polygon class="st4" points="794.53,596.45 732.93,596.45 702.13,649.8 732.93,703.14 794.53,703.14 825.33,649.8 		"/>
+		<polygon class="st4" points="1164.51,703.14 1102.91,703.14 1072.11,756.49 1102.91,809.83 1164.51,809.83 1195.31,756.49 		"/>
+		<polygon class="st4" points="979.52,489.76 917.92,489.76 887.12,543.1 917.92,596.45 979.52,596.45 1010.32,543.1 		"/>
+		<polygon class="st4" points="517.02,543.1 455.42,543.1 424.62,596.45 455.42,649.8 517.02,649.8 547.82,596.45 		"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="479.04,1067.3 421,1067.3 391.98,1117.57 421,1167.83 479.04,1167.83 508.07,1117.57 		"/>
+		<polygon class="st4" points="1089.14,1017.04 1031.1,1017.04 1002.08,1067.3 1031.1,1117.57 1089.14,1117.57 1118.16,1067.3 		"/>
+		<polygon class="st4" points="914.83,1117.57 856.79,1117.57 827.77,1167.83 856.79,1218.1 914.83,1218.1 943.86,1167.83 		"/>
+		<polygon class="st4" points="1176.27,1067.3 1118.23,1067.3 1089.21,1117.57 1118.23,1167.83 1176.27,1167.83 1205.3,1117.57 		
+			"/>
+		<polygon class="st4" points="304.74,1167.83 246.69,1167.83 217.67,1218.1 246.69,1268.37 304.74,1268.37 333.76,1218.1 		"/>
+		<polygon class="st4" points="217.6,1218.1 159.56,1218.1 130.54,1268.37 159.56,1318.63 217.6,1318.63 246.63,1268.37 		"/>
+		<polygon class="st4" points="130.88,1167.83 72.84,1167.83 43.82,1218.1 72.84,1268.37 130.88,1268.37 159.9,1218.1 		"/>
+		<polygon class="st4" points="914.83,1318.63 856.79,1318.63 827.77,1368.9 856.79,1419.16 914.83,1419.16 943.86,1368.9 		"/>
+		<polygon class="st4" points="740.53,1922.33 682.49,1922.33 653.46,1972.59 682.49,2022.86 740.53,2022.86 769.55,1972.59 		"/>
+		<polygon class="st4" points="1089.14,1218.1 1031.1,1218.1 1002.08,1268.37 1031.1,1318.63 1089.14,1318.63 1118.16,1268.37 		"/>
+		<polygon class="st4" points="391.91,1318.63 333.87,1318.63 304.85,1368.9 333.87,1419.16 391.91,1419.16 420.93,1368.9 		"/>
+		<polygon class="st4" points="217.6,1419.16 159.56,1419.16 130.54,1469.43 159.56,1519.7 217.6,1519.7 246.63,1469.43 		"/>
+		<polygon class="st4" points="130.88,1469.43 72.84,1469.43 43.82,1519.7 72.84,1569.96 130.88,1569.96 159.9,1519.7 		"/>
+		<polygon class="st4" points="566.22,1419.16 508.18,1419.16 479.16,1469.43 508.18,1519.7 566.22,1519.7 595.24,1469.43 		"/>
+		<polygon class="st4" points="1176.27,1368.9 1118.23,1368.9 1089.21,1419.16 1118.23,1469.43 1176.27,1469.43 1205.3,1419.16 		
+			"/>
+		<polygon class="st4" points="304.74,1670.49 246.69,1670.49 217.67,1720.76 246.69,1771.02 304.74,1771.02 333.76,1720.76 		"/>
+		<polygon class="st4" points="740.53,1419.16 682.49,1419.16 653.46,1469.43 682.49,1519.7 740.53,1519.7 769.55,1469.43 		"/>
+		<polygon class="st4" points="566.22,1218.1 508.18,1218.1 479.16,1268.37 508.18,1318.63 566.22,1318.63 595.24,1268.37 		"/>
+		<polygon class="st4" points="217.6,1720.76 159.56,1720.76 130.54,1771.02 159.56,1821.29 217.6,1821.29 246.63,1771.02 		"/>
+		<polygon class="st4" points="1176.27,1569.96 1118.23,1569.96 1089.21,1620.23 1118.23,1670.49 1176.27,1670.49 1205.3,1620.23 		
+			"/>
+		<polygon class="st4" points="217.6,1821.29 159.56,1821.29 130.54,1871.56 159.56,1921.82 217.6,1921.82 246.63,1871.56 		"/>
+		<polygon class="st4" points="566.22,1821.29 508.18,1821.29 479.16,1871.56 508.18,1921.82 566.22,1921.82 595.24,1871.56 		"/>
+		<polygon class="st4" points="1350.73,1167.83 1292.69,1167.83 1263.67,1218.1 1292.69,1268.37 1350.73,1268.37 1379.75,1218.1 		
+			"/>
+		<polygon class="st4" points="1436.88,1117.57 1378.84,1117.57 1349.82,1167.83 1378.84,1218.1 1436.88,1218.1 1465.9,1167.83 		
+			"/>
+		<polygon class="st4" points="1350.73,1469.43 1292.69,1469.43 1263.67,1519.7 1292.69,1569.96 1350.73,1569.96 1379.75,1519.7 		
+			"/>
+		<polygon class="st4" points="1436.88,1519.7 1378.84,1519.7 1349.82,1569.96 1378.84,1620.23 1436.88,1620.23 1465.9,1569.96 		
+			"/>
+		<polygon class="st4" points="1350.73,1670.49 1292.69,1670.49 1263.67,1720.76 1292.69,1771.02 1350.73,1771.02 1379.75,1720.76 
+					"/>
+		<polygon class="st4" points="1350.73,1771.02 1292.69,1771.02 1263.67,1821.29 1292.69,1871.56 1350.73,1871.56 1379.75,1821.29 
+					"/>
+		<polygon class="st4" points="827.66,1770.16 769.62,1770.16 740.6,1820.42 769.62,1870.69 827.66,1870.69 856.68,1820.42 		"/>
+		<polygon class="st4" points="1089.14,1821.29 1031.1,1821.29 1002.08,1871.56 1031.1,1921.82 1089.14,1921.82 1118.16,1871.56 		
+			"/>
+		<polygon class="st4" points="1176.27,1872.06 1118.23,1872.06 1089.21,1922.33 1118.23,1972.59 1176.27,1972.59 1205.3,1922.33 		
+			"/>
+		<polygon class="st4" points="740.53,1620.23 682.49,1620.23 653.46,1670.49 682.49,1720.76 740.53,1720.76 769.55,1670.49 		"/>
+		<polygon class="st4" points="1089.14,1720.76 1031.1,1720.76 1002.08,1771.02 1031.1,1821.29 1089.14,1821.29 1118.16,1771.02 		
+			"/>
+		<polygon class="st4" points="914.83,1519.7 856.79,1519.7 827.77,1569.96 856.79,1620.23 914.83,1620.23 943.86,1569.96 		"/>
+		<polygon class="st4" points="479.04,1569.96 421,1569.96 391.98,1620.23 421,1670.49 479.04,1670.49 508.07,1620.23 		"/>
+	</g>
+	<g class="st140">
+		<polygon class="st129" points="229.55,-18.19 167.17,-18.19 135.98,35.82 167.17,89.84 229.55,89.84 260.73,35.82 		"/>
+		<polygon class="st129" points="1072.47,35.82 1010.09,35.82 978.9,89.84 1010.09,143.86 1072.47,143.86 1103.66,89.84 		"/>
+		<polygon class="st129" points="416.87,89.84 354.49,89.84 323.31,143.86 354.49,197.88 416.87,197.88 448.06,143.86 		"/>
+		<polygon class="st129" points="510.5,251.9 448.13,251.9 416.94,305.92 448.13,359.93 510.5,359.93 541.69,305.92 		"/>
+		<polygon class="st129" points="791.51,197.88 729.13,197.88 697.95,251.9 729.13,305.92 791.51,305.92 822.7,251.9 		"/>
+		<polygon class="st129" points="697.83,143.86 635.45,143.86 604.26,197.88 635.45,251.9 697.83,251.9 729.01,197.88 		"/>
+		<polygon class="st129" points="697.83,359.93 635.45,359.93 604.26,413.95 635.45,467.97 697.83,467.97 729.01,413.95 		"/>
+		<polygon class="st129" points="697.83,792.08 635.45,792.08 604.26,846.1 635.45,900.12 697.83,900.12 729.01,846.1 		"/>
+		<polygon class="st129" points="1072.47,359.93 1010.09,359.93 978.9,413.95 1010.09,467.97 1072.47,467.97 1103.66,413.95 		"/>
+		<polygon class="st129" points="1166.15,197.88 1103.78,197.88 1072.59,251.9 1103.78,305.92 1166.15,305.92 1197.34,251.9 		"/>
+		<polygon class="st129" points="1072.47,35.82 1010.09,35.82 978.9,89.84 1010.09,143.86 1072.47,143.86 1103.66,89.84 		"/>
+		<polygon class="st129" points="1072.47,792.08 1010.09,792.08 978.9,846.1 1010.09,900.12 1072.47,900.12 1103.66,846.1 		"/>
+		<polygon class="st129" points="697.83,900.12 635.45,900.12 604.26,954.14 635.45,1008.16 697.83,1008.16 729.01,954.14 		"/>
+		<polygon class="st129" points="229.55,305.92 167.17,305.92 135.98,359.93 167.17,413.95 229.55,413.95 260.73,359.93 		"/>
+		<polygon class="st129" points="1259.79,143.86 1197.41,143.86 1166.23,197.88 1197.41,251.9 1259.79,251.9 1290.98,197.88 		"/>
+		<polygon class="st129" points="135.86,359.93 73.49,359.93 42.3,413.95 73.49,467.97 135.86,467.97 167.05,413.95 		"/>
+		<polygon class="st129" points="416.87,413.95 354.49,413.95 323.31,467.97 354.49,521.99 416.87,521.99 448.06,467.97 		"/>
+		<polygon class="st129" points="885.15,359.93 822.77,359.93 791.58,413.95 822.77,467.97 885.15,467.97 916.33,413.95 		"/>
+		<polygon class="st129" points="603.91,413.95 541.54,413.95 510.35,467.97 541.54,521.99 603.91,521.99 635.1,467.97 		"/>
+		<polygon class="st129" points="230.34,521.99 167.97,521.99 136.78,576.01 167.97,630.03 230.34,630.03 261.53,576.01 		"/>
+		<polygon class="st129" points="323.98,576.01 261.61,576.01 230.42,630.03 261.61,684.05 323.98,684.05 355.17,630.03 		"/>
+		<polygon class="st129" points="603.91,630.03 541.54,630.03 510.35,684.05 541.54,738.06 603.91,738.06 635.1,684.05 		"/>
+		<polygon class="st129" points="790.5,521.99 728.12,521.99 696.93,576.01 728.12,630.03 790.5,630.03 821.68,576.01 		"/>
+		<polygon class="st129" points="1259.79,467.97 1197.41,467.97 1166.23,521.99 1197.41,576.01 1259.79,576.01 1290.98,521.99 		"/>
+		<polygon class="st129" points="135.86,576.01 73.49,576.01 42.3,630.03 73.49,684.05 135.86,684.05 167.05,630.03 		"/>
+		<polygon class="st129" points="416.87,738.06 354.49,738.06 323.31,792.08 354.49,846.1 416.87,846.1 448.06,792.08 		"/>
+		<polygon class="st129" points="323.18,900.12 260.81,900.12 229.62,954.14 260.81,1008.16 323.18,1008.16 354.37,954.14 		"/>
+		<polygon class="st129" points="510.5,900.12 448.13,900.12 416.94,954.14 448.13,1008.16 510.5,1008.16 541.69,954.14 		"/>
+		<polygon class="st129" points="791.51,846.1 729.13,846.1 697.95,900.12 729.13,954.14 791.51,954.14 822.7,900.12 		"/>
+		<polygon class="st129" points="1166.15,954.14 1103.78,954.14 1072.59,1008.16 1103.78,1062.17 1166.15,1062.17 1197.34,1008.16 
+					"/>
+		<polygon class="st129" points="1447.27,35.82 1384.9,35.82 1353.71,89.84 1384.9,143.86 1447.27,143.86 1478.46,89.84 		"/>
+		<polygon class="st129" points="1447.27,251.9 1384.9,251.9 1353.71,305.92 1384.9,359.93 1447.27,359.93 1478.46,305.92 		"/>
+		<polygon class="st129" points="1447.27,467.97 1384.9,467.97 1353.71,521.99 1384.9,576.01 1447.27,576.01 1478.46,521.99 		"/>
+		<polygon class="st129" points="1541.53,521.99 1479.15,521.99 1447.97,576.01 1479.15,630.03 1541.53,630.03 1572.72,576.01 		"/>
+		<polygon class="st129" points="1353.63,846.1 1291.26,846.1 1260.07,900.12 1291.26,954.14 1353.63,954.14 1384.82,900.12 		"/>
+		<polygon class="st129" points="1540.96,846.1 1478.58,846.1 1447.39,900.12 1478.58,954.14 1540.96,954.14 1572.14,900.12 		"/>
+		<polygon class="st129" points="977.71,521.99 915.34,521.99 884.15,576.01 915.34,630.03 977.71,630.03 1008.9,576.01 		"/>
+		<polygon class="st129" points="977.71,630.03 915.34,630.03 884.15,684.05 915.34,738.06 977.71,738.06 1008.9,684.05 		"/>
+		<polygon class="st129" points="1258.21,576.01 1195.84,576.01 1164.65,630.03 1195.84,684.05 1258.21,684.05 1289.4,630.03 		"/>
+		<polygon class="st129" points="1164.3,521.99 1101.92,521.99 1070.73,576.01 1101.92,630.03 1164.3,630.03 1195.48,576.01 		"/>
+	</g>
+	<g class="st140">
+		<polygon class="st129" points="73.88,967.91 11.38,967.91 -19.87,1022.04 11.38,1076.16 73.88,1076.16 105.13,1022.04 		"/>
+		<polygon class="st129" points="918.45,1022.04 855.95,1022.04 824.7,1076.16 855.95,1130.29 918.45,1130.29 949.7,1076.16 		"/>
+		<polygon class="st129" points="261.57,1076.16 199.07,1076.16 167.82,1130.29 199.07,1184.41 261.57,1184.41 292.81,1130.29 		"/>
+		<polygon class="st129" points="355.39,1238.54 292.89,1238.54 261.64,1292.66 292.89,1346.78 355.39,1346.78 386.63,1292.66 		"/>
+		<polygon class="st129" points="636.94,1184.41 574.44,1184.41 543.2,1238.54 574.44,1292.66 636.94,1292.66 668.19,1238.54 		"/>
+		<polygon class="st129" points="543.07,1130.29 480.58,1130.29 449.33,1184.41 480.58,1238.54 543.07,1238.54 574.32,1184.41 		"/>
+		<polygon class="st129" points="543.07,1346.78 480.58,1346.78 449.33,1400.91 480.58,1455.03 543.07,1455.03 574.32,1400.91 		"/>
+		<polygon class="st129" points="543.07,1779.78 480.58,1779.78 449.33,1833.9 480.58,1888.03 543.07,1888.03 574.32,1833.9 		"/>
+		<polygon class="st129" points="918.45,1346.78 855.95,1346.78 824.7,1400.91 855.95,1455.03 918.45,1455.03 949.7,1400.91 		"/>
+		<polygon class="st129" points="1012.32,1184.41 949.82,1184.41 918.57,1238.54 949.82,1292.66 1012.32,1292.66 1043.57,1238.54 		
+			"/>
+		<polygon class="st129" points="918.45,1022.04 855.95,1022.04 824.7,1076.16 855.95,1130.29 918.45,1130.29 949.7,1076.16 		"/>
+		<polygon class="st129" points="918.45,1779.78 855.95,1779.78 824.7,1833.9 855.95,1888.03 918.45,1888.03 949.7,1833.9 		"/>
+		<polygon class="st129" points="543.07,1888.03 480.58,1888.03 449.33,1942.15 480.58,1996.28 543.07,1996.28 574.32,1942.15 		"/>
+		<polygon class="st129" points="73.88,1292.66 11.38,1292.66 -19.87,1346.78 11.38,1400.91 73.88,1400.91 105.13,1346.78 		"/>
+		<polygon class="st129" points="1106.14,1130.29 1043.64,1130.29 1012.39,1184.41 1043.64,1238.54 1106.14,1238.54 
+			1137.39,1184.41 		"/>
+		<polygon class="st129" points="-19.99,1346.78 -82.49,1346.78 -113.74,1400.91 -82.49,1455.03 -19.99,1455.03 11.26,1400.91 		"/>
+		<polygon class="st129" points="261.57,1400.91 199.07,1400.91 167.82,1455.03 199.07,1509.16 261.57,1509.16 292.81,1455.03 		"/>
+		<polygon class="st129" points="730.76,1346.78 668.27,1346.78 637.02,1400.91 668.27,1455.03 730.76,1455.03 762.01,1400.91 		"/>
+		<polygon class="st129" points="448.98,1400.91 386.48,1400.91 355.23,1455.03 386.48,1509.16 448.98,1509.16 480.22,1455.03 		"/>
+		<polygon class="st129" points="74.68,1509.16 12.18,1509.16 -19.07,1563.28 12.18,1617.41 74.68,1617.41 105.92,1563.28 		"/>
+		<polygon class="st129" points="168.5,1563.28 106,1563.28 74.75,1617.41 106,1671.53 168.5,1671.53 199.74,1617.41 		"/>
+		<polygon class="st129" points="448.98,1617.41 386.48,1617.41 355.23,1671.53 386.48,1725.65 448.98,1725.65 480.22,1671.53 		"/>
+		<polygon class="st129" points="635.93,1509.16 573.43,1509.16 542.18,1563.28 573.43,1617.41 635.93,1617.41 667.17,1563.28 		"/>
+		<polygon class="st129" points="1106.14,1455.03 1043.64,1455.03 1012.39,1509.16 1043.64,1563.28 1106.14,1563.28 
+			1137.39,1509.16 		"/>
+		<polygon class="st129" points="-19.99,1563.28 -82.49,1563.28 -113.74,1617.41 -82.49,1671.53 -19.99,1671.53 11.26,1617.41 		"/>
+		<polygon class="st129" points="261.57,1725.65 199.07,1725.65 167.82,1779.78 199.07,1833.9 261.57,1833.9 292.81,1779.78 		"/>
+		<polygon class="st129" points="167.7,1888.03 105.2,1888.03 73.95,1942.15 105.2,1996.28 167.7,1996.28 198.95,1942.15 		"/>
+		<polygon class="st129" points="355.39,1888.03 292.89,1888.03 261.64,1942.15 292.89,1996.28 355.39,1996.28 386.63,1942.15 		"/>
+		<polygon class="st129" points="636.94,1833.9 574.44,1833.9 543.2,1888.03 574.44,1942.15 636.94,1942.15 668.19,1888.03 		"/>
+		<polygon class="st129" points="1012.32,1942.15 949.82,1942.15 918.57,1996.28 949.82,2050.4 1012.32,2050.4 1043.57,1996.28 		
+			"/>
+		<polygon class="st129" points="1293.99,1022.04 1231.49,1022.04 1200.24,1076.16 1231.49,1130.29 1293.99,1130.29 
+			1325.24,1076.16 		"/>
+		<polygon class="st129" points="1293.99,1238.54 1231.49,1238.54 1200.24,1292.66 1231.49,1346.78 1293.99,1346.78 
+			1325.24,1292.66 		"/>
+		<polygon class="st129" points="1293.99,1455.03 1231.49,1455.03 1200.24,1509.16 1231.49,1563.28 1293.99,1563.28 
+			1325.24,1509.16 		"/>
+		<polygon class="st129" points="1388.43,1509.16 1325.93,1509.16 1294.69,1563.28 1325.93,1617.41 1388.43,1617.41 
+			1419.68,1563.28 		"/>
+		<polygon class="st129" points="1200.17,1833.9 1137.67,1833.9 1106.42,1888.03 1137.67,1942.15 1200.17,1942.15 1231.42,1888.03 
+					"/>
+		<polygon class="st129" points="1387.86,1833.9 1325.36,1833.9 1294.11,1888.03 1325.36,1942.15 1387.86,1942.15 1419.11,1888.03 
+					"/>
+		<polygon class="st129" points="823.51,1509.16 761.01,1509.16 729.76,1563.28 761.01,1617.41 823.51,1617.41 854.76,1563.28 		"/>
+		<polygon class="st129" points="823.51,1617.41 761.01,1617.41 729.76,1671.53 761.01,1725.65 823.51,1725.65 854.76,1671.53 		"/>
+		<polygon class="st129" points="1104.56,1563.28 1042.06,1563.28 1010.81,1617.41 1042.06,1671.53 1104.56,1671.53 
+			1135.81,1617.41 		"/>
+		<polygon class="st129" points="1010.46,1509.16 947.96,1509.16 916.71,1563.28 947.96,1617.41 1010.46,1617.41 1041.71,1563.28 		
+			"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="466.05,3009.8 408.01,3009.8 378.98,3060.07 408.01,3110.33 466.05,3110.33 495.07,3060.07 		"/>
+		<polygon class="st4" points="1076.15,2959.54 1018.1,2959.54 989.08,3009.8 1018.1,3060.07 1076.15,3060.07 1105.17,3009.8 		"/>
+		<polygon class="st4" points="901.84,3060.07 843.8,3060.07 814.77,3110.33 843.8,3160.6 901.84,3160.6 930.86,3110.33 		"/>
+		<polygon class="st4" points="1163.28,3009.8 1105.24,3009.8 1076.21,3060.07 1105.24,3110.33 1163.28,3110.33 1192.3,3060.07 		
+			"/>
+		<polygon class="st4" points="291.74,3110.33 233.7,3110.33 204.68,3160.6 233.7,3210.87 291.74,3210.87 320.76,3160.6 		"/>
+		<polygon class="st4" points="204.61,3160.6 146.57,3160.6 117.54,3210.87 146.57,3261.13 204.61,3261.13 233.63,3210.87 		"/>
+		<polygon class="st4" points="117.88,3110.33 59.84,3110.33 30.82,3160.6 59.84,3210.87 117.88,3210.87 146.9,3160.6 		"/>
+		<polygon class="st4" points="901.84,3261.13 843.8,3261.13 814.77,3311.4 843.8,3361.66 901.84,3361.66 930.86,3311.4 		"/>
+		<polygon class="st4" points="727.53,3864.83 669.49,3864.83 640.47,3915.09 669.49,3965.36 727.53,3965.36 756.55,3915.09 		"/>
+		<polygon class="st4" points="1076.15,3160.6 1018.1,3160.6 989.08,3210.87 1018.1,3261.13 1076.15,3261.13 1105.17,3210.87 		"/>
+		<polygon class="st4" points="378.91,3261.13 320.87,3261.13 291.85,3311.4 320.87,3361.66 378.91,3361.66 407.94,3311.4 		"/>
+		<polygon class="st4" points="204.61,3361.66 146.57,3361.66 117.54,3411.93 146.57,3462.2 204.61,3462.2 233.63,3411.93 		"/>
+		<polygon class="st4" points="117.88,3411.93 59.84,3411.93 30.82,3462.2 59.84,3512.46 117.88,3512.46 146.9,3462.2 		"/>
+		<polygon class="st4" points="553.22,3361.66 495.18,3361.66 466.16,3411.93 495.18,3462.2 553.22,3462.2 582.24,3411.93 		"/>
+		<polygon class="st4" points="1163.28,3311.4 1105.24,3311.4 1076.21,3361.66 1105.24,3411.93 1163.28,3411.93 1192.3,3361.66 		
+			"/>
+		<polygon class="st4" points="291.74,3612.99 233.7,3612.99 204.68,3663.26 233.7,3713.52 291.74,3713.52 320.76,3663.26 		"/>
+		<polygon class="st4" points="727.53,3361.66 669.49,3361.66 640.47,3411.93 669.49,3462.2 727.53,3462.2 756.55,3411.93 		"/>
+		<polygon class="st4" points="553.22,3160.6 495.18,3160.6 466.16,3210.87 495.18,3261.13 553.22,3261.13 582.24,3210.87 		"/>
+		<polygon class="st4" points="204.61,3663.26 146.57,3663.26 117.54,3713.52 146.57,3763.79 204.61,3763.79 233.63,3713.52 		"/>
+		<polygon class="st4" points="1163.28,3512.46 1105.24,3512.46 1076.21,3562.73 1105.24,3612.99 1163.28,3612.99 1192.3,3562.73 		
+			"/>
+		<polygon class="st4" points="204.61,3763.79 146.57,3763.79 117.54,3814.06 146.57,3864.32 204.61,3864.32 233.63,3814.06 		"/>
+		<polygon class="st4" points="553.22,3763.79 495.18,3763.79 466.16,3814.06 495.18,3864.32 553.22,3864.32 582.24,3814.06 		"/>
+		<polygon class="st4" points="1337.74,3110.33 1279.69,3110.33 1250.67,3160.6 1279.69,3210.87 1337.74,3210.87 1366.76,3160.6 		
+			"/>
+		<polygon class="st4" points="1423.88,3060.07 1365.84,3060.07 1336.82,3110.33 1365.84,3160.6 1423.88,3160.6 1452.9,3110.33 		
+			"/>
+		<polygon class="st4" points="1337.74,3411.93 1279.69,3411.93 1250.67,3462.2 1279.69,3512.46 1337.74,3512.46 1366.76,3462.2 		
+			"/>
+		<polygon class="st4" points="1423.88,3462.2 1365.84,3462.2 1336.82,3512.46 1365.84,3562.73 1423.88,3562.73 1452.9,3512.46 		
+			"/>
+		<polygon class="st4" points="1337.74,3612.99 1279.69,3612.99 1250.67,3663.26 1279.69,3713.52 1337.74,3713.52 1366.76,3663.26 
+					"/>
+		<polygon class="st4" points="1337.74,3713.52 1279.69,3713.52 1250.67,3763.79 1279.69,3814.06 1337.74,3814.06 1366.76,3763.79 
+					"/>
+		<polygon class="st4" points="814.66,3712.66 756.62,3712.66 727.6,3762.92 756.62,3813.19 814.66,3813.19 843.68,3762.92 		"/>
+		<polygon class="st4" points="1076.15,3763.79 1018.1,3763.79 989.08,3814.06 1018.1,3864.32 1076.15,3864.32 1105.17,3814.06 		
+			"/>
+		<polygon class="st4" points="1163.28,3814.56 1105.24,3814.56 1076.21,3864.83 1105.24,3915.09 1163.28,3915.09 1192.3,3864.83 		
+			"/>
+		<polygon class="st4" points="727.53,3562.73 669.49,3562.73 640.47,3612.99 669.49,3663.26 727.53,3663.26 756.55,3612.99 		"/>
+		<polygon class="st4" points="1076.15,3663.26 1018.1,3663.26 989.08,3713.52 1018.1,3763.79 1076.15,3763.79 1105.17,3713.52 		
+			"/>
+		<polygon class="st4" points="901.84,3462.2 843.8,3462.2 814.77,3512.46 843.8,3562.73 901.84,3562.73 930.86,3512.46 		"/>
+		<polygon class="st4" points="466.05,3512.46 408.01,3512.46 378.98,3562.73 408.01,3612.99 466.05,3612.99 495.07,3562.73 		"/>
+	</g>
+	<g class="st140">
+		<polygon class="st129" points="135.65,2848.63 73.15,2848.63 41.9,2902.76 73.15,2956.88 135.65,2956.88 166.9,2902.76 		"/>
+		<polygon class="st129" points="980.22,2902.76 917.72,2902.76 886.48,2956.88 917.72,3011.01 980.22,3011.01 1011.47,2956.88 		
+			"/>
+		<polygon class="st129" points="323.34,2956.88 260.84,2956.88 229.59,3011.01 260.84,3065.13 323.34,3065.13 354.59,3011.01 		"/>
+		<polygon class="st129" points="417.16,3119.26 354.66,3119.26 323.41,3173.38 354.66,3227.5 417.16,3227.5 448.41,3173.38 		"/>
+		<polygon class="st129" points="698.71,3065.13 636.22,3065.13 604.97,3119.26 636.22,3173.38 698.71,3173.38 729.96,3119.26 		"/>
+		<polygon class="st129" points="604.85,3011.01 542.35,3011.01 511.1,3065.13 542.35,3119.26 604.85,3119.26 636.09,3065.13 		"/>
+		<polygon class="st129" points="604.85,3227.5 542.35,3227.5 511.1,3281.63 542.35,3335.75 604.85,3335.75 636.09,3281.63 		"/>
+		<polygon class="st129" points="604.85,3660.5 542.35,3660.5 511.1,3714.62 542.35,3768.75 604.85,3768.75 636.09,3714.62 		"/>
+		<polygon class="st129" points="980.22,3227.5 917.72,3227.5 886.48,3281.63 917.72,3335.75 980.22,3335.75 1011.47,3281.63 		"/>
+		<polygon class="st129" points="1074.09,3065.13 1011.59,3065.13 980.34,3119.26 1011.59,3173.38 1074.09,3173.38 1105.34,3119.26 
+					"/>
+		<polygon class="st129" points="980.22,2902.76 917.72,2902.76 886.48,2956.88 917.72,3011.01 980.22,3011.01 1011.47,2956.88 		
+			"/>
+		<polygon class="st129" points="980.22,3660.5 917.72,3660.5 886.48,3714.62 917.72,3768.75 980.22,3768.75 1011.47,3714.62 		"/>
+		<polygon class="st129" points="604.85,3768.75 542.35,3768.75 511.1,3822.87 542.35,3877 604.85,3877 636.09,3822.87 		"/>
+		<polygon class="st129" points="135.65,3173.38 73.15,3173.38 41.9,3227.5 73.15,3281.63 135.65,3281.63 166.9,3227.5 		"/>
+		<polygon class="st129" points="1167.91,3011.01 1105.41,3011.01 1074.16,3065.13 1105.41,3119.26 1167.91,3119.26 
+			1199.16,3065.13 		"/>
+		<polygon class="st129" points="41.78,3227.5 -20.72,3227.5 -51.97,3281.63 -20.72,3335.75 41.78,3335.75 73.03,3281.63 		"/>
+		<polygon class="st129" points="323.34,3281.63 260.84,3281.63 229.59,3335.75 260.84,3389.88 323.34,3389.88 354.59,3335.75 		"/>
+		<polygon class="st129" points="792.53,3227.5 730.04,3227.5 698.79,3281.63 730.04,3335.75 792.53,3335.75 823.78,3281.63 		"/>
+		<polygon class="st129" points="510.75,3281.63 448.25,3281.63 417,3335.75 448.25,3389.88 510.75,3389.88 542,3335.75 		"/>
+		<polygon class="st129" points="136.45,3389.88 73.95,3389.88 42.7,3444 73.95,3498.13 136.45,3498.13 167.7,3444 		"/>
+		<polygon class="st129" points="230.27,3444 167.77,3444 136.52,3498.13 167.77,3552.25 230.27,3552.25 261.52,3498.13 		"/>
+		<polygon class="st129" points="510.75,3498.13 448.25,3498.13 417,3552.25 448.25,3606.38 510.75,3606.38 542,3552.25 		"/>
+		<polygon class="st129" points="697.7,3389.88 635.2,3389.88 603.95,3444 635.2,3498.13 697.7,3498.13 728.95,3444 		"/>
+		<polygon class="st129" points="1167.91,3335.75 1105.41,3335.75 1074.16,3389.88 1105.41,3444 1167.91,3444 1199.16,3389.88 		"/>
+		<polygon class="st129" points="41.78,3444 -20.72,3444 -51.97,3498.13 -20.72,3552.25 41.78,3552.25 73.03,3498.13 		"/>
+		<polygon class="st129" points="323.34,3606.38 260.84,3606.38 229.59,3660.5 260.84,3714.62 323.34,3714.62 354.59,3660.5 		"/>
+		<polygon class="st129" points="229.47,3768.75 166.97,3768.75 135.72,3822.87 166.97,3877 229.47,3877 260.72,3822.87 		"/>
+		<polygon class="st129" points="417.16,3768.75 354.66,3768.75 323.41,3822.87 354.66,3877 417.16,3877 448.41,3822.87 		"/>
+		<polygon class="st129" points="698.71,3714.62 636.22,3714.62 604.97,3768.75 636.22,3822.87 698.71,3822.87 729.96,3768.75 		"/>
+		<polygon class="st129" points="1074.09,3822.87 1011.59,3822.87 980.34,3877 1011.59,3931.12 1074.09,3931.12 1105.34,3877 		"/>
+		<polygon class="st129" points="1355.76,2902.76 1293.26,2902.76 1262.02,2956.88 1293.26,3011.01 1355.76,3011.01 
+			1387.01,2956.88 		"/>
+		<polygon class="st129" points="1355.76,3119.26 1293.26,3119.26 1262.02,3173.38 1293.26,3227.5 1355.76,3227.5 1387.01,3173.38 
+					"/>
+		<polygon class="st129" points="1355.76,3335.75 1293.26,3335.75 1262.02,3389.88 1293.26,3444 1355.76,3444 1387.01,3389.88 		"/>
+		<polygon class="st129" points="1450.2,3389.88 1387.71,3389.88 1356.46,3444 1387.71,3498.13 1450.2,3498.13 1481.45,3444 		"/>
+		<polygon class="st129" points="1261.94,3714.62 1199.44,3714.62 1168.19,3768.75 1199.44,3822.87 1261.94,3822.87 
+			1293.19,3768.75 		"/>
+		<polygon class="st129" points="1449.63,3714.62 1387.13,3714.62 1355.88,3768.75 1387.13,3822.87 1449.63,3822.87 
+			1480.88,3768.75 		"/>
+		<polygon class="st129" points="885.28,3389.88 822.78,3389.88 791.54,3444 822.78,3498.13 885.28,3498.13 916.53,3444 		"/>
+		<polygon class="st129" points="885.28,3498.13 822.78,3498.13 791.54,3552.25 822.78,3606.38 885.28,3606.38 916.53,3552.25 		"/>
+		<polygon class="st129" points="1166.33,3444 1103.83,3444 1072.58,3498.13 1103.83,3552.25 1166.33,3552.25 1197.58,3498.13 		"/>
+		<polygon class="st129" points="1072.23,3389.88 1009.73,3389.88 978.49,3444 1009.73,3498.13 1072.23,3498.13 1103.48,3444 		"/>
+	</g>
+	<g class="st140">
+		<polygon class="st129" points="644.46,5013.11 581.97,5013.11 550.72,5067.23 581.97,5121.36 644.46,5121.36 675.71,5067.23 		"/>
+		<polygon class="st129" points="-12.42,5067.23 -74.92,5067.23 -106.17,5121.36 -74.92,5175.48 -12.42,5175.48 18.83,5121.36 		"/>
+		<polygon class="st129" points="81.4,5229.61 18.9,5229.61 -12.35,5283.73 18.9,5337.86 81.4,5337.86 112.65,5283.73 		"/>
+		<polygon class="st129" points="362.95,5175.48 300.46,5175.48 269.21,5229.61 300.46,5283.73 362.95,5283.73 394.2,5229.61 		"/>
+		<polygon class="st129" points="269.09,5121.36 206.59,5121.36 175.34,5175.48 206.59,5229.61 269.09,5229.61 300.34,5175.48 		"/>
+		<polygon class="st129" points="269.09,5337.86 206.59,5337.86 175.34,5391.98 206.59,5446.1 269.09,5446.1 300.34,5391.98 		"/>
+		<polygon class="st129" points="269.09,5770.85 206.59,5770.85 175.34,5824.98 206.59,5879.1 269.09,5879.1 300.34,5824.98 		"/>
+		<polygon class="st129" points="644.46,5337.86 581.97,5337.86 550.72,5391.98 581.97,5446.1 644.46,5446.1 675.71,5391.98 		"/>
+		<polygon class="st129" points="738.33,5175.48 675.83,5175.48 644.58,5229.61 675.83,5283.73 738.33,5283.73 769.58,5229.61 		"/>
+		<polygon class="st129" points="644.46,5013.11 581.97,5013.11 550.72,5067.23 581.97,5121.36 644.46,5121.36 675.71,5067.23 		"/>
+		<polygon class="st129" points="644.46,5770.85 581.97,5770.85 550.72,5824.98 581.97,5879.1 644.46,5879.1 675.71,5824.98 		"/>
+		<polygon class="st129" points="269.09,5879.1 206.59,5879.1 175.34,5933.22 206.59,5987.35 269.09,5987.35 300.34,5933.22 		"/>
+		<polygon class="st129" points="832.15,5121.36 769.65,5121.36 738.41,5175.48 769.65,5229.61 832.15,5229.61 863.4,5175.48 		"/>
+		<polygon class="st129" points="-12.42,5391.98 -74.92,5391.98 -106.17,5446.1 -74.92,5500.23 -12.42,5500.23 18.83,5446.1 		"/>
+		<polygon class="st129" points="456.77,5337.86 394.28,5337.86 363.03,5391.98 394.28,5446.1 456.77,5446.1 488.02,5391.98 		"/>
+		<polygon class="st129" points="174.99,5391.98 112.49,5391.98 81.24,5446.1 112.49,5500.23 174.99,5500.23 206.24,5446.1 		"/>
+		<polygon class="st129" points="174.99,5608.48 112.49,5608.48 81.24,5662.6 112.49,5716.73 174.99,5716.73 206.24,5662.6 		"/>
+		<polygon class="st129" points="361.94,5500.23 299.44,5500.23 268.19,5554.35 299.44,5608.48 361.94,5608.48 393.19,5554.35 		"/>
+		<polygon class="st129" points="832.15,5446.1 769.65,5446.1 738.41,5500.23 769.65,5554.35 832.15,5554.35 863.4,5500.23 		"/>
+		<polygon class="st129" points="-12.42,5716.73 -74.92,5716.73 -106.17,5770.85 -74.92,5824.98 -12.42,5824.98 18.83,5770.85 		"/>
+		<polygon class="st129" points="81.4,5879.1 18.9,5879.1 -12.35,5933.22 18.9,5987.35 81.4,5987.35 112.65,5933.22 		"/>
+		<polygon class="st129" points="362.95,5824.98 300.46,5824.98 269.21,5879.1 300.46,5933.22 362.95,5933.22 394.2,5879.1 		"/>
+		<polygon class="st129" points="738.33,5933.22 675.83,5933.22 644.58,5987.35 675.83,6041.47 738.33,6041.47 769.58,5987.35 		"/>
+		<polygon class="st129" points="1020,5013.11 957.5,5013.11 926.26,5067.23 957.5,5121.36 1020,5121.36 1051.25,5067.23 		"/>
+		<polygon class="st129" points="1020,5229.61 957.5,5229.61 926.26,5283.73 957.5,5337.86 1020,5337.86 1051.25,5283.73 		"/>
+		<polygon class="st129" points="1020,5446.1 957.5,5446.1 926.26,5500.23 957.5,5554.35 1020,5554.35 1051.25,5500.23 		"/>
+		<polygon class="st129" points="1114.44,5500.23 1051.95,5500.23 1020.7,5554.35 1051.95,5608.48 1114.44,5608.48 1145.69,5554.35 
+					"/>
+		<polygon class="st129" points="926.18,5824.98 863.68,5824.98 832.44,5879.1 863.68,5933.22 926.18,5933.22 957.43,5879.1 		"/>
+		<polygon class="st129" points="1113.87,5824.98 1051.37,5824.98 1020.12,5879.1 1051.37,5933.22 1113.87,5933.22 1145.12,5879.1 
+					"/>
+		<polygon class="st129" points="549.52,5500.23 487.02,5500.23 455.78,5554.35 487.02,5608.48 549.52,5608.48 580.77,5554.35 		"/>
+		<polygon class="st129" points="549.52,5608.48 487.02,5608.48 455.78,5662.6 487.02,5716.73 549.52,5716.73 580.77,5662.6 		"/>
+		<polygon class="st129" points="830.57,5554.35 768.07,5554.35 736.82,5608.48 768.07,5662.6 830.57,5662.6 861.82,5608.48 		"/>
+		<polygon class="st129" points="736.47,5500.23 673.97,5500.23 642.73,5554.35 673.97,5608.48 736.47,5608.48 767.72,5554.35 		"/>
+	</g>
+	<g class="st140">
+		<polygon class="st129" points="1446.1,4776.06 1383.61,4776.06 1352.36,4830.19 1383.61,4884.31 1446.1,4884.31 1477.35,4830.19 
+					"/>
+		<polygon class="st129" points="2290.68,4830.19 2228.18,4830.19 2196.93,4884.31 2228.18,4938.44 2290.68,4938.44 
+			2321.93,4884.31 		"/>
+		<polygon class="st129" points="1633.79,4884.31 1571.29,4884.31 1540.05,4938.44 1571.29,4992.56 1633.79,4992.56 
+			1665.04,4938.44 		"/>
+		<polygon class="st129" points="1727.61,5046.69 1665.12,5046.69 1633.87,5100.81 1665.12,5154.94 1727.61,5154.94 
+			1758.86,5100.81 		"/>
+		<polygon class="st129" points="2009.17,4992.56 1946.67,4992.56 1915.42,5046.69 1946.67,5100.81 2009.17,5100.81 
+			2040.42,5046.69 		"/>
+		<polygon class="st129" points="1915.3,4938.44 1852.8,4938.44 1821.55,4992.56 1852.8,5046.69 1915.3,5046.69 1946.55,4992.56 		
+			"/>
+		<polygon class="st129" points="1915.3,5154.94 1852.8,5154.94 1821.55,5209.06 1852.8,5263.18 1915.3,5263.18 1946.55,5209.06 		
+			"/>
+		<polygon class="st129" points="1915.3,5587.93 1852.8,5587.93 1821.55,5642.06 1852.8,5696.18 1915.3,5696.18 1946.55,5642.06 		
+			"/>
+		<polygon class="st129" points="2290.68,5154.94 2228.18,5154.94 2196.93,5209.06 2228.18,5263.18 2290.68,5263.18 
+			2321.93,5209.06 		"/>
+		<polygon class="st129" points="2384.54,4992.56 2322.05,4992.56 2290.8,5046.69 2322.05,5100.81 2384.54,5100.81 2415.79,5046.69 
+					"/>
+		<polygon class="st129" points="2290.68,4830.19 2228.18,4830.19 2196.93,4884.31 2228.18,4938.44 2290.68,4938.44 
+			2321.93,4884.31 		"/>
+		<polygon class="st129" points="2290.68,5587.93 2228.18,5587.93 2196.93,5642.06 2228.18,5696.18 2290.68,5696.18 
+			2321.93,5642.06 		"/>
+		<polygon class="st129" points="1915.3,5696.18 1852.8,5696.18 1821.55,5750.3 1852.8,5804.43 1915.3,5804.43 1946.55,5750.3 		"/>
+		<polygon class="st129" points="1446.1,5100.81 1383.61,5100.81 1352.36,5154.94 1383.61,5209.06 1446.1,5209.06 1477.35,5154.94 
+					"/>
+		<polygon class="st129" points="2478.37,4938.44 2415.87,4938.44 2384.62,4992.56 2415.87,5046.69 2478.37,5046.69 
+			2509.61,4992.56 		"/>
+		<polygon class="st129" points="1352.24,5154.94 1289.74,5154.94 1258.49,5209.06 1289.74,5263.18 1352.24,5263.18 
+			1383.48,5209.06 		"/>
+		<polygon class="st129" points="1633.79,5209.06 1571.29,5209.06 1540.05,5263.18 1571.29,5317.31 1633.79,5317.31 
+			1665.04,5263.18 		"/>
+		<polygon class="st129" points="2102.99,5154.94 2040.49,5154.94 2009.24,5209.06 2040.49,5263.18 2102.99,5263.18 
+			2134.24,5209.06 		"/>
+		<polygon class="st129" points="1821.2,5209.06 1758.7,5209.06 1727.46,5263.18 1758.7,5317.31 1821.2,5317.31 1852.45,5263.18 		
+			"/>
+		<polygon class="st129" points="1446.9,5317.31 1384.4,5317.31 1353.16,5371.43 1384.4,5425.56 1446.9,5425.56 1478.15,5371.43 		
+			"/>
+		<polygon class="st129" points="1540.72,5371.43 1478.23,5371.43 1446.98,5425.56 1478.23,5479.68 1540.72,5479.68 
+			1571.97,5425.56 		"/>
+		<polygon class="st129" points="1821.2,5425.56 1758.7,5425.56 1727.46,5479.68 1758.7,5533.81 1821.2,5533.81 1852.45,5479.68 		
+			"/>
+		<polygon class="st129" points="2008.15,5317.31 1945.66,5317.31 1914.41,5371.43 1945.66,5425.56 2008.15,5425.56 2039.4,5371.43 
+					"/>
+		<polygon class="st129" points="2478.37,5263.18 2415.87,5263.18 2384.62,5317.31 2415.87,5371.43 2478.37,5371.43 
+			2509.61,5317.31 		"/>
+		<polygon class="st129" points="1352.24,5371.43 1289.74,5371.43 1258.49,5425.56 1289.74,5479.68 1352.24,5479.68 
+			1383.48,5425.56 		"/>
+		<polygon class="st129" points="1633.79,5533.81 1571.29,5533.81 1540.05,5587.93 1571.29,5642.06 1633.79,5642.06 
+			1665.04,5587.93 		"/>
+		<polygon class="st129" points="1539.92,5696.18 1477.43,5696.18 1446.18,5750.3 1477.43,5804.43 1539.92,5804.43 1571.17,5750.3 
+					"/>
+		<polygon class="st129" points="1727.61,5696.18 1665.12,5696.18 1633.87,5750.3 1665.12,5804.43 1727.61,5804.43 1758.86,5750.3 
+					"/>
+		<polygon class="st129" points="2009.17,5642.06 1946.67,5642.06 1915.42,5696.18 1946.67,5750.3 2009.17,5750.3 2040.42,5696.18 
+					"/>
+		<polygon class="st129" points="2384.54,5750.3 2322.05,5750.3 2290.8,5804.43 2322.05,5858.55 2384.54,5858.55 2415.79,5804.43 		
+			"/>
+		<polygon class="st129" points="2572.4,5642.06 2509.9,5642.06 2478.65,5696.18 2509.9,5750.3 2572.4,5750.3 2603.65,5696.18 		"/>
+		<polygon class="st129" points="2195.74,5317.31 2133.24,5317.31 2101.99,5371.43 2133.24,5425.56 2195.74,5425.56 
+			2226.99,5371.43 		"/>
+		<polygon class="st129" points="2195.74,5425.56 2133.24,5425.56 2101.99,5479.68 2133.24,5533.81 2195.74,5533.81 
+			2226.99,5479.68 		"/>
+		<polygon class="st129" points="2476.79,5371.43 2414.29,5371.43 2383.04,5425.56 2414.29,5479.68 2476.79,5479.68 
+			2508.03,5425.56 		"/>
+		<polygon class="st129" points="2382.69,5317.31 2320.19,5317.31 2288.94,5371.43 2320.19,5425.56 2382.69,5425.56 
+			2413.94,5371.43 		"/>
+	</g>
+	<g class="st140">
+		<polygon class="st129" points="968.82,5533.81 906.32,5533.81 875.07,5587.93 906.32,5642.06 968.82,5642.06 1000.07,5587.93 		
+			"/>
+		<polygon class="st129" points="1813.39,5587.93 1750.89,5587.93 1719.65,5642.06 1750.89,5696.18 1813.39,5696.18 
+			1844.64,5642.06 		"/>
+		<polygon class="st129" points="1156.51,5642.06 1094.01,5642.06 1062.76,5696.18 1094.01,5750.3 1156.51,5750.3 1187.75,5696.18 
+					"/>
+		<polygon class="st129" points="1250.33,5804.43 1187.83,5804.43 1156.58,5858.55 1187.83,5912.68 1250.33,5912.68 
+			1281.58,5858.55 		"/>
+		<polygon class="st129" points="1531.88,5750.3 1469.39,5750.3 1438.14,5804.43 1469.39,5858.55 1531.88,5858.55 1563.13,5804.43 
+					"/>
+		<polygon class="st129" points="1438.02,5696.18 1375.52,5696.18 1344.27,5750.3 1375.52,5804.43 1438.02,5804.43 1469.26,5750.3 
+					"/>
+		<polygon class="st129" points="1438.02,5912.68 1375.52,5912.68 1344.27,5966.8 1375.52,6020.93 1438.02,6020.93 1469.26,5966.8 
+					"/>
+		<polygon class="st129" points="1438.02,6345.67 1375.52,6345.67 1344.27,6399.8 1375.52,6453.92 1438.02,6453.92 1469.26,6399.8 
+					"/>
+		<polygon class="st129" points="1813.39,5912.68 1750.89,5912.68 1719.65,5966.8 1750.89,6020.93 1813.39,6020.93 1844.64,5966.8 
+					"/>
+		<polygon class="st129" points="1907.26,5750.3 1844.76,5750.3 1813.51,5804.43 1844.76,5858.55 1907.26,5858.55 1938.51,5804.43 
+					"/>
+		<polygon class="st129" points="1813.39,5587.93 1750.89,5587.93 1719.65,5642.06 1750.89,5696.18 1813.39,5696.18 
+			1844.64,5642.06 		"/>
+		<polygon class="st129" points="1813.39,6345.67 1750.89,6345.67 1719.65,6399.8 1750.89,6453.92 1813.39,6453.92 1844.64,6399.8 
+					"/>
+		<polygon class="st129" points="1438.02,6453.92 1375.52,6453.92 1344.27,6508.05 1375.52,6562.17 1438.02,6562.17 
+			1469.26,6508.05 		"/>
+		<polygon class="st129" points="968.82,5858.55 906.32,5858.55 875.07,5912.68 906.32,5966.8 968.82,5966.8 1000.07,5912.68 		"/>
+		<polygon class="st129" points="2001.08,5696.18 1938.58,5696.18 1907.33,5750.3 1938.58,5804.43 2001.08,5804.43 2032.33,5750.3 
+					"/>
+		<polygon class="st129" points="874.95,5912.68 812.45,5912.68 781.2,5966.8 812.45,6020.93 874.95,6020.93 906.2,5966.8 		"/>
+		<polygon class="st129" points="1156.51,5966.8 1094.01,5966.8 1062.76,6020.93 1094.01,6075.05 1156.51,6075.05 1187.75,6020.93 
+					"/>
+		<polygon class="st129" points="1625.7,5912.68 1563.21,5912.68 1531.96,5966.8 1563.21,6020.93 1625.7,6020.93 1656.95,5966.8 		
+			"/>
+		<polygon class="st129" points="1343.92,5966.8 1281.42,5966.8 1250.17,6020.93 1281.42,6075.05 1343.92,6075.05 1375.17,6020.93 
+					"/>
+		<polygon class="st129" points="969.62,6075.05 907.12,6075.05 875.87,6129.17 907.12,6183.3 969.62,6183.3 1000.86,6129.17 		"/>
+		<polygon class="st129" points="1063.44,6129.17 1000.94,6129.17 969.69,6183.3 1000.94,6237.42 1063.44,6237.42 1094.69,6183.3 		
+			"/>
+		<polygon class="st129" points="1343.92,6183.3 1281.42,6183.3 1250.17,6237.42 1281.42,6291.55 1343.92,6291.55 1375.17,6237.42 
+					"/>
+		<polygon class="st129" points="1530.87,6075.05 1468.37,6075.05 1437.12,6129.17 1468.37,6183.3 1530.87,6183.3 1562.12,6129.17 
+					"/>
+		<polygon class="st129" points="2001.08,6020.93 1938.58,6020.93 1907.33,6075.05 1938.58,6129.17 2001.08,6129.17 
+			2032.33,6075.05 		"/>
+		<polygon class="st129" points="874.95,6129.17 812.45,6129.17 781.2,6183.3 812.45,6237.42 874.95,6237.42 906.2,6183.3 		"/>
+		<polygon class="st129" points="1156.51,6291.55 1094.01,6291.55 1062.76,6345.67 1094.01,6399.8 1156.51,6399.8 1187.75,6345.67 
+					"/>
+		<polygon class="st129" points="1062.64,6453.92 1000.14,6453.92 968.89,6508.05 1000.14,6562.17 1062.64,6562.17 1093.89,6508.05 
+					"/>
+		<polygon class="st129" points="1250.33,6453.92 1187.83,6453.92 1156.58,6508.05 1187.83,6562.17 1250.33,6562.17 
+			1281.58,6508.05 		"/>
+		<polygon class="st129" points="1531.88,6399.8 1469.39,6399.8 1438.14,6453.92 1469.39,6508.05 1531.88,6508.05 1563.13,6453.92 
+					"/>
+		<polygon class="st129" points="1907.26,6508.05 1844.76,6508.05 1813.51,6562.17 1844.76,6616.29 1907.26,6616.29 
+			1938.51,6562.17 		"/>
+		<polygon class="st129" points="2188.93,5587.93 2126.43,5587.93 2095.18,5642.06 2126.43,5696.18 2188.93,5696.18 
+			2220.18,5642.06 		"/>
+		<polygon class="st129" points="2188.93,5804.43 2126.43,5804.43 2095.18,5858.55 2126.43,5912.68 2188.93,5912.68 
+			2220.18,5858.55 		"/>
+		<polygon class="st129" points="2188.93,6020.93 2126.43,6020.93 2095.18,6075.05 2126.43,6129.17 2188.93,6129.17 
+			2220.18,6075.05 		"/>
+		<polygon class="st129" points="2283.37,6075.05 2220.88,6075.05 2189.63,6129.17 2220.88,6183.3 2283.37,6183.3 2314.62,6129.17 
+					"/>
+		<polygon class="st129" points="2095.11,6399.8 2032.61,6399.8 2001.36,6453.92 2032.61,6508.05 2095.11,6508.05 2126.36,6453.92 
+					"/>
+		<polygon class="st129" points="2282.8,6399.8 2220.3,6399.8 2189.05,6453.92 2220.3,6508.05 2282.8,6508.05 2314.05,6453.92 		"/>
+		<polygon class="st129" points="1718.45,6075.05 1655.95,6075.05 1624.7,6129.17 1655.95,6183.3 1718.45,6183.3 1749.7,6129.17 		
+			"/>
+		<polygon class="st129" points="1718.45,6183.3 1655.95,6183.3 1624.7,6237.42 1655.95,6291.55 1718.45,6291.55 1749.7,6237.42 		
+			"/>
+		<polygon class="st129" points="1999.5,6129.17 1937,6129.17 1905.75,6183.3 1937,6237.42 1999.5,6237.42 2030.75,6183.3 		"/>
+		<polygon class="st129" points="1905.4,6075.05 1842.9,6075.05 1811.65,6129.17 1842.9,6183.3 1905.4,6183.3 1936.65,6129.17 		"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="74.08,4056.77 16.04,4056.77 -12.98,4107.03 16.04,4157.3 74.08,4157.3 103.1,4107.03 		"/>
+		<polygon class="st4" points="684.18,4006.5 626.14,4006.5 597.12,4056.77 626.14,4107.03 684.18,4107.03 713.2,4056.77 		"/>
+		<polygon class="st4" points="509.87,4107.03 451.83,4107.03 422.81,4157.3 451.83,4207.56 509.87,4207.56 538.89,4157.3 		"/>
+		<polygon class="st4" points="771.31,4056.77 713.27,4056.77 684.25,4107.03 713.27,4157.3 771.31,4157.3 800.33,4107.03 		"/>
+		<polygon class="st4" points="509.87,4308.09 451.83,4308.09 422.81,4358.36 451.83,4408.63 509.87,4408.63 538.89,4358.36 		"/>
+		<polygon class="st4" points="335.56,4911.79 277.52,4911.79 248.5,4962.05 277.52,5012.32 335.56,5012.32 364.58,4962.05 		"/>
+		<polygon class="st4" points="684.18,4207.56 626.14,4207.56 597.12,4257.83 626.14,4308.09 684.18,4308.09 713.2,4257.83 		"/>
+		<polygon class="st4" points="-13.05,4308.09 -71.09,4308.09 -100.11,4358.36 -71.09,4408.63 -13.05,4408.63 15.97,4358.36 		"/>
+		<polygon class="st4" points="161.26,4408.63 103.21,4408.63 74.19,4458.89 103.21,4509.16 161.26,4509.16 190.28,4458.89 		"/>
+		<polygon class="st4" points="771.31,4358.36 713.27,4358.36 684.25,4408.63 713.27,4458.89 771.31,4458.89 800.33,4408.63 		"/>
+		<polygon class="st4" points="335.56,4408.63 277.52,4408.63 248.5,4458.89 277.52,4509.16 335.56,4509.16 364.58,4458.89 		"/>
+		<polygon class="st4" points="161.26,4207.56 103.21,4207.56 74.19,4257.83 103.21,4308.09 161.26,4308.09 190.28,4257.83 		"/>
+		<polygon class="st4" points="771.31,4559.42 713.27,4559.42 684.25,4609.69 713.27,4659.96 771.31,4659.96 800.33,4609.69 		"/>
+		<polygon class="st4" points="161.26,4810.75 103.21,4810.75 74.19,4861.02 103.21,4911.28 161.26,4911.28 190.28,4861.02 		"/>
+		<polygon class="st4" points="945.77,4157.3 887.73,4157.3 858.71,4207.56 887.73,4257.83 945.77,4257.83 974.79,4207.56 		"/>
+		<polygon class="st4" points="1031.91,4107.03 973.87,4107.03 944.85,4157.3 973.87,4207.56 1031.91,4207.56 1060.94,4157.3 		"/>
+		<polygon class="st4" points="945.77,4458.89 887.73,4458.89 858.71,4509.16 887.73,4559.42 945.77,4559.42 974.79,4509.16 		"/>
+		<polygon class="st4" points="1031.91,4509.16 973.87,4509.16 944.85,4559.42 973.87,4609.69 1031.91,4609.69 1060.94,4559.42 		
+			"/>
+		<polygon class="st4" points="945.77,4659.96 887.73,4659.96 858.71,4710.22 887.73,4760.49 945.77,4760.49 974.79,4710.22 		"/>
+		<polygon class="st4" points="945.77,4760.49 887.73,4760.49 858.71,4810.75 887.73,4861.02 945.77,4861.02 974.79,4810.75 		"/>
+		<polygon class="st4" points="422.7,4759.62 364.65,4759.62 335.63,4809.88 364.65,4860.15 422.7,4860.15 451.72,4809.88 		"/>
+		<polygon class="st4" points="684.18,4810.75 626.14,4810.75 597.12,4861.02 626.14,4911.28 684.18,4911.28 713.2,4861.02 		"/>
+		<polygon class="st4" points="771.31,4861.52 713.27,4861.52 684.25,4911.79 713.27,4962.05 771.31,4962.05 800.33,4911.79 		"/>
+		<polygon class="st4" points="335.56,4609.69 277.52,4609.69 248.5,4659.96 277.52,4710.22 335.56,4710.22 364.58,4659.96 		"/>
+		<polygon class="st4" points="684.18,4710.22 626.14,4710.22 597.12,4760.49 626.14,4810.75 684.18,4810.75 713.2,4760.49 		"/>
+		<polygon class="st4" points="509.87,4509.16 451.83,4509.16 422.81,4559.42 451.83,4609.69 509.87,4609.69 538.89,4559.42 		"/>
+		<polygon class="st4" points="74.08,4559.42 16.04,4559.42 -12.98,4609.69 16.04,4659.96 74.08,4659.96 103.1,4609.69 		"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="57.07,5086.11 -0.97,5086.11 -29.99,5136.38 -0.97,5186.65 57.07,5186.65 86.09,5136.38 		"/>
+		<polygon class="st4" points="667.17,5035.85 609.13,5035.85 580.11,5086.11 609.13,5136.38 667.17,5136.38 696.19,5086.11 		"/>
+		<polygon class="st4" points="492.86,5136.38 434.82,5136.38 405.8,5186.65 434.82,5236.91 492.86,5236.91 521.88,5186.65 		"/>
+		<polygon class="st4" points="754.3,5086.11 696.26,5086.11 667.24,5136.38 696.26,5186.65 754.3,5186.65 783.32,5136.38 		"/>
+		<polygon class="st4" points="492.86,5337.44 434.82,5337.44 405.8,5387.71 434.82,5437.97 492.86,5437.97 521.88,5387.71 		"/>
+		<polygon class="st4" points="318.55,5941.14 260.51,5941.14 231.49,5991.4 260.51,6041.67 318.55,6041.67 347.57,5991.4 		"/>
+		<polygon class="st4" points="667.17,5236.91 609.13,5236.91 580.11,5287.18 609.13,5337.44 667.17,5337.44 696.19,5287.18 		"/>
+		<polygon class="st4" points="144.25,5437.97 86.2,5437.97 57.18,5488.24 86.2,5538.51 144.25,5538.51 173.27,5488.24 		"/>
+		<polygon class="st4" points="754.3,5387.71 696.26,5387.71 667.24,5437.97 696.26,5488.24 754.3,5488.24 783.32,5437.97 		"/>
+		<polygon class="st4" points="318.55,5437.97 260.51,5437.97 231.49,5488.24 260.51,5538.51 318.55,5538.51 347.57,5488.24 		"/>
+		<polygon class="st4" points="144.25,5236.91 86.2,5236.91 57.18,5287.18 86.2,5337.44 144.25,5337.44 173.27,5287.18 		"/>
+		<polygon class="st4" points="754.3,5588.77 696.26,5588.77 667.24,5639.04 696.26,5689.3 754.3,5689.3 783.32,5639.04 		"/>
+		<polygon class="st4" points="144.25,5840.1 86.2,5840.1 57.18,5890.37 86.2,5940.63 144.25,5940.63 173.27,5890.37 		"/>
+		<polygon class="st4" points="928.76,5186.65 870.72,5186.65 841.7,5236.91 870.72,5287.18 928.76,5287.18 957.78,5236.91 		"/>
+		<polygon class="st4" points="1014.9,5136.38 956.86,5136.38 927.84,5186.65 956.86,5236.91 1014.9,5236.91 1043.93,5186.65 		"/>
+		<polygon class="st4" points="928.76,5488.24 870.72,5488.24 841.7,5538.51 870.72,5588.77 928.76,5588.77 957.78,5538.51 		"/>
+		<polygon class="st4" points="1014.9,5538.51 956.86,5538.51 927.84,5588.77 956.86,5639.04 1014.9,5639.04 1043.93,5588.77 		"/>
+		<polygon class="st4" points="928.76,5689.3 870.72,5689.3 841.7,5739.57 870.72,5789.83 928.76,5789.83 957.78,5739.57 		"/>
+		<polygon class="st4" points="928.76,5789.83 870.72,5789.83 841.7,5840.1 870.72,5890.37 928.76,5890.37 957.78,5840.1 		"/>
+		<polygon class="st4" points="405.69,5788.97 347.64,5788.97 318.62,5839.23 347.64,5889.5 405.69,5889.5 434.71,5839.23 		"/>
+		<polygon class="st4" points="667.17,5840.1 609.13,5840.1 580.11,5890.37 609.13,5940.63 667.17,5940.63 696.19,5890.37 		"/>
+		<polygon class="st4" points="754.3,5890.87 696.26,5890.87 667.24,5941.14 696.26,5991.4 754.3,5991.4 783.32,5941.14 		"/>
+		<polygon class="st4" points="318.55,5639.04 260.51,5639.04 231.49,5689.3 260.51,5739.57 318.55,5739.57 347.57,5689.3 		"/>
+		<polygon class="st4" points="667.17,5739.57 609.13,5739.57 580.11,5789.83 609.13,5840.1 667.17,5840.1 696.19,5789.83 		"/>
+		<polygon class="st4" points="492.86,5538.51 434.82,5538.51 405.8,5588.77 434.82,5639.04 492.86,5639.04 521.88,5588.77 		"/>
+		<polygon class="st4" points="57.07,5588.77 -0.97,5588.77 -29.99,5639.04 -0.97,5689.3 57.07,5689.3 86.09,5639.04 		"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="1473.89,4784.27 1415.84,4784.27 1386.82,4834.53 1415.84,4884.8 1473.89,4884.8 1502.91,4834.53 		
+			"/>
+		<polygon class="st4" points="2083.98,4734 2025.94,4734 1996.92,4784.27 2025.94,4834.53 2083.98,4834.53 2113.01,4784.27 		"/>
+		<polygon class="st4" points="1909.68,4834.53 1851.63,4834.53 1822.61,4884.8 1851.63,4935.06 1909.68,4935.06 1938.7,4884.8 		
+			"/>
+		<polygon class="st4" points="2171.12,4784.27 2113.07,4784.27 2084.05,4834.53 2113.07,4884.8 2171.12,4884.8 2200.14,4834.53 		
+			"/>
+		<polygon class="st4" points="1299.58,4884.8 1241.54,4884.8 1212.52,4935.06 1241.54,4985.33 1299.58,4985.33 1328.6,4935.06 		
+			"/>
+		<polygon class="st4" points="1212.45,4935.06 1154.4,4935.06 1125.38,4985.33 1154.4,5035.6 1212.45,5035.6 1241.47,4985.33 		"/>
+		<polygon class="st4" points="1125.72,4884.8 1067.68,4884.8 1038.66,4935.06 1067.68,4985.33 1125.72,4985.33 1154.74,4935.06 		
+			"/>
+		<polygon class="st4" points="1909.68,5035.6 1851.63,5035.6 1822.61,5085.86 1851.63,5136.13 1909.68,5136.13 1938.7,5085.86 		
+			"/>
+		<polygon class="st4" points="1735.37,5639.29 1677.33,5639.29 1648.31,5689.56 1677.33,5739.82 1735.37,5739.82 1764.39,5689.56 
+					"/>
+		<polygon class="st4" points="2083.98,4935.06 2025.94,4935.06 1996.92,4985.33 2025.94,5035.6 2083.98,5035.6 2113.01,4985.33 		
+			"/>
+		<polygon class="st4" points="1386.75,5035.6 1328.71,5035.6 1299.69,5085.86 1328.71,5136.13 1386.75,5136.13 1415.77,5085.86 		
+			"/>
+		<polygon class="st4" points="1212.45,5136.13 1154.4,5136.13 1125.38,5186.39 1154.4,5236.66 1212.45,5236.66 1241.47,5186.39 		
+			"/>
+		<polygon class="st4" points="1125.72,5186.39 1067.68,5186.39 1038.66,5236.66 1067.68,5286.92 1125.72,5286.92 1154.74,5236.66 
+					"/>
+		<polygon class="st4" points="1561.06,5136.13 1503.02,5136.13 1474,5186.39 1503.02,5236.66 1561.06,5236.66 1590.08,5186.39 		
+			"/>
+		<polygon class="st4" points="2171.12,5085.86 2113.07,5085.86 2084.05,5136.13 2113.07,5186.39 2171.12,5186.39 2200.14,5136.13 
+					"/>
+		<polygon class="st4" points="1299.58,5387.46 1241.54,5387.46 1212.52,5437.72 1241.54,5487.99 1299.58,5487.99 1328.6,5437.72 		
+			"/>
+		<polygon class="st4" points="1735.37,5136.13 1677.33,5136.13 1648.31,5186.39 1677.33,5236.66 1735.37,5236.66 1764.39,5186.39 
+					"/>
+		<polygon class="st4" points="1561.06,4935.06 1503.02,4935.06 1474,4985.33 1503.02,5035.6 1561.06,5035.6 1590.08,4985.33 		"/>
+		<polygon class="st4" points="1212.45,5437.72 1154.4,5437.72 1125.38,5487.99 1154.4,5538.25 1212.45,5538.25 1241.47,5487.99 		
+			"/>
+		<polygon class="st4" points="2171.12,5286.92 2113.07,5286.92 2084.05,5337.19 2113.07,5387.46 2171.12,5387.46 2200.14,5337.19 
+					"/>
+		<polygon class="st4" points="1212.45,5538.25 1154.4,5538.25 1125.38,5588.52 1154.4,5638.79 1212.45,5638.79 1241.47,5588.52 		
+			"/>
+		<polygon class="st4" points="1561.06,5538.25 1503.02,5538.25 1474,5588.52 1503.02,5638.79 1561.06,5638.79 1590.08,5588.52 		
+			"/>
+		<polygon class="st4" points="2345.57,4884.8 2287.53,4884.8 2258.51,4935.06 2287.53,4985.33 2345.57,4985.33 2374.6,4935.06 		
+			"/>
+		<polygon class="st4" points="2431.72,4834.53 2373.68,4834.53 2344.66,4884.8 2373.68,4935.06 2431.72,4935.06 2460.74,4884.8 		
+			"/>
+		<polygon class="st4" points="2345.57,5186.39 2287.53,5186.39 2258.51,5236.66 2287.53,5286.92 2345.57,5286.92 2374.6,5236.66 		
+			"/>
+		<polygon class="st4" points="2431.72,5236.66 2373.68,5236.66 2344.66,5286.92 2373.68,5337.19 2431.72,5337.19 2460.74,5286.92 
+					"/>
+		<polygon class="st4" points="2345.57,5387.46 2287.53,5387.46 2258.51,5437.72 2287.53,5487.99 2345.57,5487.99 2374.6,5437.72 		
+			"/>
+		<polygon class="st4" points="2345.57,5487.99 2287.53,5487.99 2258.51,5538.25 2287.53,5588.52 2345.57,5588.52 2374.6,5538.25 		
+			"/>
+		<polygon class="st4" points="1822.5,5487.12 1764.46,5487.12 1735.44,5537.38 1764.46,5587.65 1822.5,5587.65 1851.52,5537.38 		
+			"/>
+		<polygon class="st4" points="2083.98,5538.25 2025.94,5538.25 1996.92,5588.52 2025.94,5638.79 2083.98,5638.79 2113.01,5588.52 
+					"/>
+		<polygon class="st4" points="2171.12,5589.02 2113.07,5589.02 2084.05,5639.29 2113.07,5689.56 2171.12,5689.56 2200.14,5639.29 
+					"/>
+		<polygon class="st4" points="1735.37,5337.19 1677.33,5337.19 1648.31,5387.46 1677.33,5437.72 1735.37,5437.72 1764.39,5387.46 
+					"/>
+		<polygon class="st4" points="2083.98,5437.72 2025.94,5437.72 1996.92,5487.99 2025.94,5538.25 2083.98,5538.25 2113.01,5487.99 
+					"/>
+		<polygon class="st4" points="1909.68,5236.66 1851.63,5236.66 1822.61,5286.92 1851.63,5337.19 1909.68,5337.19 1938.7,5286.92 		
+			"/>
+		<polygon class="st4" points="1473.89,5286.92 1415.84,5286.92 1386.82,5337.19 1415.84,5387.46 1473.89,5387.46 1502.91,5337.19 
+					"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="1614.86,5662.64 1556.82,5662.64 1527.8,5712.91 1556.82,5763.17 1614.86,5763.17 1643.88,5712.91 		
+			"/>
+		<polygon class="st4" points="2224.96,5612.38 2166.92,5612.38 2137.9,5662.64 2166.92,5712.91 2224.96,5712.91 2253.98,5662.64 		
+			"/>
+		<polygon class="st4" points="2050.65,5712.91 1992.61,5712.91 1963.59,5763.17 1992.61,5813.44 2050.65,5813.44 2079.67,5763.17 
+					"/>
+		<polygon class="st4" points="2312.09,5662.64 2254.05,5662.64 2225.03,5712.91 2254.05,5763.17 2312.09,5763.17 2341.11,5712.91 
+					"/>
+		<polygon class="st4" points="1440.55,5763.17 1382.51,5763.17 1353.49,5813.44 1382.51,5863.71 1440.55,5863.71 1469.57,5813.44 
+					"/>
+		<polygon class="st4" points="1353.42,5813.44 1295.38,5813.44 1266.36,5863.71 1295.38,5913.97 1353.42,5913.97 1382.44,5863.71 
+					"/>
+		<polygon class="st4" points="1266.7,5763.17 1208.65,5763.17 1179.63,5813.44 1208.65,5863.71 1266.7,5863.71 1295.72,5813.44 		
+			"/>
+		<polygon class="st4" points="2050.65,5913.97 1992.61,5913.97 1963.59,5964.24 1992.61,6014.5 2050.65,6014.5 2079.67,5964.24 		
+			"/>
+		<polygon class="st4" points="1876.34,6517.66 1818.3,6517.66 1789.28,6567.93 1818.3,6618.2 1876.34,6618.2 1905.37,6567.93 		"/>
+		<polygon class="st4" points="2224.96,5813.44 2166.92,5813.44 2137.9,5863.71 2166.92,5913.97 2224.96,5913.97 2253.98,5863.71 		
+			"/>
+		<polygon class="st4" points="1527.73,5913.97 1469.69,5913.97 1440.67,5964.24 1469.69,6014.5 1527.73,6014.5 1556.75,5964.24 		
+			"/>
+		<polygon class="st4" points="1353.42,6014.5 1295.38,6014.5 1266.36,6064.77 1295.38,6115.03 1353.42,6115.03 1382.44,6064.77 		
+			"/>
+		<polygon class="st4" points="1266.7,6064.77 1208.65,6064.77 1179.63,6115.03 1208.65,6165.3 1266.7,6165.3 1295.72,6115.03 		"/>
+		<polygon class="st4" points="1702.04,6014.5 1643.99,6014.5 1614.97,6064.77 1643.99,6115.03 1702.04,6115.03 1731.06,6064.77 		
+			"/>
+		<polygon class="st4" points="2312.09,5964.24 2254.05,5964.24 2225.03,6014.5 2254.05,6064.77 2312.09,6064.77 2341.11,6014.5 		
+			"/>
+		<polygon class="st4" points="1440.55,6265.83 1382.51,6265.83 1353.49,6316.1 1382.51,6366.36 1440.55,6366.36 1469.57,6316.1 		
+			"/>
+		<polygon class="st4" points="1876.34,6014.5 1818.3,6014.5 1789.28,6064.77 1818.3,6115.03 1876.34,6115.03 1905.37,6064.77 		"/>
+		<polygon class="st4" points="1702.04,5813.44 1643.99,5813.44 1614.97,5863.71 1643.99,5913.97 1702.04,5913.97 1731.06,5863.71 
+					"/>
+		<polygon class="st4" points="1353.42,6316.1 1295.38,6316.1 1266.36,6366.36 1295.38,6416.63 1353.42,6416.63 1382.44,6366.36 		
+			"/>
+		<polygon class="st4" points="2312.09,6165.3 2254.05,6165.3 2225.03,6215.57 2254.05,6265.83 2312.09,6265.83 2341.11,6215.57 		
+			"/>
+		<polygon class="st4" points="1353.42,6416.63 1295.38,6416.63 1266.36,6466.89 1295.38,6517.16 1353.42,6517.16 1382.44,6466.89 
+					"/>
+		<polygon class="st4" points="1702.04,6416.63 1643.99,6416.63 1614.97,6466.89 1643.99,6517.16 1702.04,6517.16 1731.06,6466.89 
+					"/>
+		<polygon class="st4" points="2486.55,5763.17 2428.51,5763.17 2399.49,5813.44 2428.51,5863.71 2486.55,5863.71 2515.57,5813.44 
+					"/>
+		<polygon class="st4" points="2572.7,5712.91 2514.65,5712.91 2485.63,5763.17 2514.65,5813.44 2572.7,5813.44 2601.72,5763.17 		
+			"/>
+		<polygon class="st4" points="2486.55,6064.77 2428.51,6064.77 2399.49,6115.03 2428.51,6165.3 2486.55,6165.3 2515.57,6115.03 		
+			"/>
+		<polygon class="st4" points="2572.7,6115.03 2514.65,6115.03 2485.63,6165.3 2514.65,6215.57 2572.7,6215.57 2601.72,6165.3 		"/>
+		<polygon class="st4" points="2486.55,6265.83 2428.51,6265.83 2399.49,6316.1 2428.51,6366.36 2486.55,6366.36 2515.57,6316.1 		
+			"/>
+		<polygon class="st4" points="2486.55,6366.36 2428.51,6366.36 2399.49,6416.63 2428.51,6466.89 2486.55,6466.89 2515.57,6416.63 
+					"/>
+		<polygon class="st4" points="1963.48,6365.49 1905.43,6365.49 1876.41,6415.76 1905.43,6466.03 1963.48,6466.03 1992.5,6415.76 		
+			"/>
+		<polygon class="st4" points="2224.96,6416.63 2166.92,6416.63 2137.9,6466.89 2166.92,6517.16 2224.96,6517.16 2253.98,6466.89 		
+			"/>
+		<polygon class="st4" points="2312.09,6467.4 2254.05,6467.4 2225.03,6517.66 2254.05,6567.93 2312.09,6567.93 2341.11,6517.66 		
+			"/>
+		<polygon class="st4" points="1876.34,6215.57 1818.3,6215.57 1789.28,6265.83 1818.3,6316.1 1876.34,6316.1 1905.37,6265.83 		"/>
+		<polygon class="st4" points="2224.96,6316.1 2166.92,6316.1 2137.9,6366.36 2166.92,6416.63 2224.96,6416.63 2253.98,6366.36 		
+			"/>
+		<polygon class="st4" points="2050.65,6115.03 1992.61,6115.03 1963.59,6165.3 1992.61,6215.57 2050.65,6215.57 2079.67,6165.3 		
+			"/>
+		<polygon class="st4" points="1614.86,6165.3 1556.82,6165.3 1527.8,6215.57 1556.82,6265.83 1614.86,6265.83 1643.88,6215.57 		
+			"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="513.64,5676.53 455.6,5676.53 426.58,5726.8 455.6,5777.06 513.64,5777.06 542.66,5726.8 		"/>
+		<polygon class="st4" points="1123.74,5626.27 1065.7,5626.27 1036.68,5676.53 1065.7,5726.8 1123.74,5726.8 1152.76,5676.53 		"/>
+		<polygon class="st4" points="949.43,5726.8 891.39,5726.8 862.37,5777.06 891.39,5827.33 949.43,5827.33 978.45,5777.06 		"/>
+		<polygon class="st4" points="1210.87,5676.53 1152.83,5676.53 1123.81,5726.8 1152.83,5777.06 1210.87,5777.06 1239.89,5726.8 		
+			"/>
+		<polygon class="st4" points="339.33,5777.06 281.29,5777.06 252.27,5827.33 281.29,5877.59 339.33,5877.59 368.36,5827.33 		"/>
+		<polygon class="st4" points="252.2,5827.33 194.16,5827.33 165.14,5877.59 194.16,5927.86 252.2,5927.86 281.22,5877.59 		"/>
+		<polygon class="st4" points="165.48,5777.06 107.43,5777.06 78.41,5827.33 107.43,5877.59 165.48,5877.59 194.5,5827.33 		"/>
+		<polygon class="st4" points="949.43,5927.86 891.39,5927.86 862.37,5978.13 891.39,6028.39 949.43,6028.39 978.45,5978.13 		"/>
+		<polygon class="st4" points="775.12,6531.55 717.08,6531.55 688.06,6581.82 717.08,6632.08 775.12,6632.08 804.15,6581.82 		"/>
+		<polygon class="st4" points="1123.74,5827.33 1065.7,5827.33 1036.68,5877.59 1065.7,5927.86 1123.74,5927.86 1152.76,5877.59 		
+			"/>
+		<polygon class="st4" points="426.51,5927.86 368.47,5927.86 339.45,5978.13 368.47,6028.39 426.51,6028.39 455.53,5978.13 		"/>
+		<polygon class="st4" points="252.2,6028.39 194.16,6028.39 165.14,6078.66 194.16,6128.92 252.2,6128.92 281.22,6078.66 		"/>
+		<polygon class="st4" points="165.48,6078.66 107.43,6078.66 78.41,6128.92 107.43,6179.19 165.48,6179.19 194.5,6128.92 		"/>
+		<polygon class="st4" points="600.82,6028.39 542.78,6028.39 513.75,6078.66 542.78,6128.92 600.82,6128.92 629.84,6078.66 		"/>
+		<polygon class="st4" points="1210.87,5978.13 1152.83,5978.13 1123.81,6028.39 1152.83,6078.66 1210.87,6078.66 1239.89,6028.39 
+					"/>
+		<polygon class="st4" points="339.33,6279.72 281.29,6279.72 252.27,6329.99 281.29,6380.25 339.33,6380.25 368.36,6329.99 		"/>
+		<polygon class="st4" points="775.12,6028.39 717.08,6028.39 688.06,6078.66 717.08,6128.92 775.12,6128.92 804.15,6078.66 		"/>
+		<polygon class="st4" points="600.82,5827.33 542.78,5827.33 513.75,5877.59 542.78,5927.86 600.82,5927.86 629.84,5877.59 		"/>
+		<polygon class="st4" points="252.2,6329.99 194.16,6329.99 165.14,6380.25 194.16,6430.52 252.2,6430.52 281.22,6380.25 		"/>
+		<polygon class="st4" points="1210.87,6179.19 1152.83,6179.19 1123.81,6229.45 1152.83,6279.72 1210.87,6279.72 1239.89,6229.45 
+					"/>
+		<polygon class="st4" points="252.2,6430.52 194.16,6430.52 165.14,6480.78 194.16,6531.05 252.2,6531.05 281.22,6480.78 		"/>
+		<polygon class="st4" points="600.82,6430.52 542.78,6430.52 513.75,6480.78 542.78,6531.05 600.82,6531.05 629.84,6480.78 		"/>
+		<polygon class="st4" points="1385.33,5777.06 1327.29,5777.06 1298.27,5827.33 1327.29,5877.59 1385.33,5877.59 1414.35,5827.33 
+					"/>
+		<polygon class="st4" points="1471.48,5726.8 1413.43,5726.8 1384.41,5777.06 1413.43,5827.33 1471.48,5827.33 1500.5,5777.06 		
+			"/>
+		<polygon class="st4" points="1385.33,6078.66 1327.29,6078.66 1298.27,6128.92 1327.29,6179.19 1385.33,6179.19 1414.35,6128.92 
+					"/>
+		<polygon class="st4" points="1471.48,6128.92 1413.43,6128.92 1384.41,6179.19 1413.43,6229.45 1471.48,6229.45 1500.5,6179.19 		
+			"/>
+		<polygon class="st4" points="1385.33,6279.72 1327.29,6279.72 1298.27,6329.99 1327.29,6380.25 1385.33,6380.25 1414.35,6329.99 
+					"/>
+		<polygon class="st4" points="1385.33,6380.25 1327.29,6380.25 1298.27,6430.52 1327.29,6480.78 1385.33,6480.78 1414.35,6430.52 
+					"/>
+		<polygon class="st4" points="862.26,6379.38 804.21,6379.38 775.19,6429.65 804.21,6479.91 862.26,6479.91 891.28,6429.65 		"/>
+		<polygon class="st4" points="1123.74,6430.52 1065.7,6430.52 1036.68,6480.78 1065.7,6531.05 1123.74,6531.05 1152.76,6480.78 		
+			"/>
+		<polygon class="st4" points="1210.87,6481.29 1152.83,6481.29 1123.81,6531.55 1152.83,6581.82 1210.87,6581.82 1239.89,6531.55 
+					"/>
+		<polygon class="st4" points="775.12,6229.45 717.08,6229.45 688.06,6279.72 717.08,6329.99 775.12,6329.99 804.15,6279.72 		"/>
+		<polygon class="st4" points="1123.74,6329.99 1065.7,6329.99 1036.68,6380.25 1065.7,6430.52 1123.74,6430.52 1152.76,6380.25 		
+			"/>
+		<polygon class="st4" points="949.43,6128.92 891.39,6128.92 862.37,6179.19 891.39,6229.45 949.43,6229.45 978.45,6179.19 		"/>
+		<polygon class="st4" points="513.64,6179.19 455.6,6179.19 426.58,6229.45 455.6,6279.72 513.64,6279.72 542.66,6229.45 		"/>
+	</g>
+	<g class="st140">
+		<polygon class="st129" points="340.21,3845.33 277.72,3845.33 246.47,3899.45 277.72,3953.58 340.21,3953.58 371.46,3899.45 		"/>
+		<polygon class="st129" points="1184.79,3899.45 1122.29,3899.45 1091.04,3953.58 1122.29,4007.7 1184.79,4007.7 1216.04,3953.58 
+					"/>
+		<polygon class="st129" points="527.9,3953.58 465.41,3953.58 434.16,4007.7 465.41,4061.83 527.9,4061.83 559.15,4007.7 		"/>
+		<polygon class="st129" points="621.72,4115.95 559.23,4115.95 527.98,4170.08 559.23,4224.2 621.72,4224.2 652.97,4170.08 		"/>
+		<polygon class="st129" points="903.28,4061.83 840.78,4061.83 809.53,4115.95 840.78,4170.08 903.28,4170.08 934.53,4115.95 		"/>
+		<polygon class="st129" points="809.41,4007.7 746.91,4007.7 715.67,4061.83 746.91,4115.95 809.41,4115.95 840.66,4061.83 		"/>
+		<polygon class="st129" points="809.41,4224.2 746.91,4224.2 715.67,4278.33 746.91,4332.45 809.41,4332.45 840.66,4278.33 		"/>
+		<polygon class="st129" points="809.41,4657.2 746.91,4657.2 715.67,4711.32 746.91,4765.45 809.41,4765.45 840.66,4711.32 		"/>
+		<polygon class="st129" points="1184.79,4224.2 1122.29,4224.2 1091.04,4278.33 1122.29,4332.45 1184.79,4332.45 1216.04,4278.33 
+					"/>
+		<polygon class="st129" points="1278.66,4061.83 1216.16,4061.83 1184.91,4115.95 1216.16,4170.08 1278.66,4170.08 1309.9,4115.95 
+					"/>
+		<polygon class="st129" points="1184.79,3899.45 1122.29,3899.45 1091.04,3953.58 1122.29,4007.7 1184.79,4007.7 1216.04,3953.58 
+					"/>
+		<polygon class="st129" points="1184.79,4657.2 1122.29,4657.2 1091.04,4711.32 1122.29,4765.45 1184.79,4765.45 1216.04,4711.32 
+					"/>
+		<polygon class="st129" points="809.41,4765.45 746.91,4765.45 715.67,4819.57 746.91,4873.69 809.41,4873.69 840.66,4819.57 		"/>
+		<polygon class="st129" points="340.21,4170.08 277.72,4170.08 246.47,4224.2 277.72,4278.33 340.21,4278.33 371.46,4224.2 		"/>
+		<polygon class="st129" points="1372.48,4007.7 1309.98,4007.7 1278.73,4061.83 1309.98,4115.95 1372.48,4115.95 1403.73,4061.83 
+					"/>
+		<polygon class="st129" points="246.35,4224.2 183.85,4224.2 152.6,4278.33 183.85,4332.45 246.35,4332.45 277.6,4278.33 		"/>
+		<polygon class="st129" points="527.9,4278.33 465.41,4278.33 434.16,4332.45 465.41,4386.57 527.9,4386.57 559.15,4332.45 		"/>
+		<polygon class="st129" points="997.1,4224.2 934.6,4224.2 903.35,4278.33 934.6,4332.45 997.1,4332.45 1028.35,4278.33 		"/>
+		<polygon class="st129" points="715.31,4278.33 652.82,4278.33 621.57,4332.45 652.82,4386.57 715.31,4386.57 746.56,4332.45 		"/>
+		<polygon class="st129" points="341.01,4386.57 278.51,4386.57 247.27,4440.7 278.51,4494.82 341.01,4494.82 372.26,4440.7 		"/>
+		<polygon class="st129" points="434.83,4440.7 372.34,4440.7 341.09,4494.82 372.34,4548.95 434.83,4548.95 466.08,4494.82 		"/>
+		<polygon class="st129" points="715.31,4494.82 652.82,4494.82 621.57,4548.95 652.82,4603.07 715.31,4603.07 746.56,4548.95 		"/>
+		<polygon class="st129" points="902.26,4386.57 839.77,4386.57 808.52,4440.7 839.77,4494.82 902.26,4494.82 933.51,4440.7 		"/>
+		<polygon class="st129" points="1372.48,4332.45 1309.98,4332.45 1278.73,4386.57 1309.98,4440.7 1372.48,4440.7 1403.73,4386.57 
+					"/>
+		<polygon class="st129" points="246.35,4440.7 183.85,4440.7 152.6,4494.82 183.85,4548.95 246.35,4548.95 277.6,4494.82 		"/>
+		<polygon class="st129" points="527.9,4603.07 465.41,4603.07 434.16,4657.2 465.41,4711.32 527.9,4711.32 559.15,4657.2 		"/>
+		<polygon class="st129" points="434.04,4765.45 371.54,4765.45 340.29,4819.57 371.54,4873.69 434.04,4873.69 465.28,4819.57 		"/>
+		<polygon class="st129" points="621.72,4765.45 559.23,4765.45 527.98,4819.57 559.23,4873.69 621.72,4873.69 652.97,4819.57 		"/>
+		<polygon class="st129" points="903.28,4711.32 840.78,4711.32 809.53,4765.45 840.78,4819.57 903.28,4819.57 934.53,4765.45 		"/>
+		<polygon class="st129" points="1278.66,4819.57 1216.16,4819.57 1184.91,4873.69 1216.16,4927.82 1278.66,4927.82 1309.9,4873.69 
+					"/>
+		<polygon class="st129" points="1560.33,3899.45 1497.83,3899.45 1466.58,3953.58 1497.83,4007.7 1560.33,4007.7 1591.58,3953.58 
+					"/>
+		<polygon class="st129" points="1560.33,4115.95 1497.83,4115.95 1466.58,4170.08 1497.83,4224.2 1560.33,4224.2 1591.58,4170.08 
+					"/>
+		<polygon class="st129" points="1560.33,4332.45 1497.83,4332.45 1466.58,4386.57 1497.83,4440.7 1560.33,4440.7 1591.58,4386.57 
+					"/>
+		<polygon class="st129" points="1654.77,4386.57 1592.27,4386.57 1561.02,4440.7 1592.27,4494.82 1654.77,4494.82 1686.02,4440.7 
+					"/>
+		<polygon class="st129" points="1466.51,4711.32 1404.01,4711.32 1372.76,4765.45 1404.01,4819.57 1466.51,4819.57 
+			1497.76,4765.45 		"/>
+		<polygon class="st129" points="1654.2,4711.32 1591.7,4711.32 1560.45,4765.45 1591.7,4819.57 1654.2,4819.57 1685.44,4765.45 		
+			"/>
+		<polygon class="st129" points="1089.85,4386.57 1027.35,4386.57 996.1,4440.7 1027.35,4494.82 1089.85,4494.82 1121.1,4440.7 		
+			"/>
+		<polygon class="st129" points="1089.85,4494.82 1027.35,4494.82 996.1,4548.95 1027.35,4603.07 1089.85,4603.07 1121.1,4548.95 		
+			"/>
+		<polygon class="st129" points="1370.9,4440.7 1308.4,4440.7 1277.15,4494.82 1308.4,4548.95 1370.9,4548.95 1402.14,4494.82 		"/>
+		<polygon class="st129" points="1276.8,4386.57 1214.3,4386.57 1183.05,4440.7 1214.3,4494.82 1276.8,4494.82 1308.05,4440.7 		"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="1567.78,4020.14 1524.26,4020.14 1502.51,4057.83 1524.26,4095.51 1567.78,4095.51 1589.53,4057.83 
+					"/>
+		<polygon class="st4" points="2025.15,3982.46 1981.63,3982.46 1959.88,4020.14 1981.63,4057.83 2025.15,4057.83 2046.9,4020.14 		
+			"/>
+		<polygon class="st4" points="1894.47,4057.83 1850.96,4057.83 1829.21,4095.51 1850.96,4133.19 1894.47,4133.19 1916.23,4095.51 
+					"/>
+		<polygon class="st4" points="2090.47,4020.14 2046.95,4020.14 2025.2,4057.83 2046.95,4095.51 2090.47,4095.51 2112.22,4057.83 		
+			"/>
+		<polygon class="st4" points="1437.1,4095.51 1393.59,4095.51 1371.83,4133.19 1393.59,4170.87 1437.1,4170.87 1458.86,4133.19 		
+			"/>
+		<polygon class="st4" points="1371.78,4133.19 1328.27,4133.19 1306.51,4170.87 1328.27,4208.56 1371.78,4208.56 1393.54,4170.87 
+					"/>
+		<polygon class="st4" points="1306.77,4095.51 1263.26,4095.51 1241.5,4133.19 1263.26,4170.87 1306.77,4170.87 1328.52,4133.19 		
+			"/>
+		<polygon class="st4" points="1894.47,4208.56 1850.96,4208.56 1829.21,4246.24 1850.96,4283.92 1894.47,4283.92 1916.23,4246.24 
+					"/>
+		<polygon class="st4" points="1763.8,4661.13 1720.29,4661.13 1698.53,4698.81 1720.29,4736.49 1763.8,4736.49 1785.56,4698.81 		
+			"/>
+		<polygon class="st4" points="2025.15,4133.19 1981.63,4133.19 1959.88,4170.87 1981.63,4208.56 2025.15,4208.56 2046.9,4170.87 		
+			"/>
+		<polygon class="st4" points="1502.46,4208.56 1458.94,4208.56 1437.19,4246.24 1458.94,4283.92 1502.46,4283.92 1524.21,4246.24 
+					"/>
+		<polygon class="st4" points="1371.78,4283.92 1328.27,4283.92 1306.51,4321.6 1328.27,4359.29 1371.78,4359.29 1393.54,4321.6 		
+			"/>
+		<polygon class="st4" points="1306.77,4321.6 1263.26,4321.6 1241.5,4359.29 1263.26,4396.97 1306.77,4396.97 1328.52,4359.29 		
+			"/>
+		<polygon class="st4" points="1633.13,4283.92 1589.62,4283.92 1567.86,4321.6 1589.62,4359.29 1633.13,4359.29 1654.88,4321.6 		
+			"/>
+		<polygon class="st4" points="2090.47,4246.24 2046.95,4246.24 2025.2,4283.92 2046.95,4321.6 2090.47,4321.6 2112.22,4283.92 		
+			"/>
+		<polygon class="st4" points="1437.1,4472.34 1393.59,4472.34 1371.83,4510.02 1393.59,4547.7 1437.1,4547.7 1458.86,4510.02 		"/>
+		<polygon class="st4" points="1763.8,4283.92 1720.29,4283.92 1698.53,4321.6 1720.29,4359.29 1763.8,4359.29 1785.56,4321.6 		"/>
+		<polygon class="st4" points="1633.13,4133.19 1589.62,4133.19 1567.86,4170.87 1589.62,4208.56 1633.13,4208.56 1654.88,4170.87 
+					"/>
+		<polygon class="st4" points="1371.78,4510.02 1328.27,4510.02 1306.51,4547.7 1328.27,4585.38 1371.78,4585.38 1393.54,4547.7 		
+			"/>
+		<polygon class="st4" points="2090.47,4396.97 2046.95,4396.97 2025.2,4434.65 2046.95,4472.34 2090.47,4472.34 2112.22,4434.65 		
+			"/>
+		<polygon class="st4" points="1371.78,4585.38 1328.27,4585.38 1306.51,4623.07 1328.27,4660.75 1371.78,4660.75 1393.54,4623.07 
+					"/>
+		<polygon class="st4" points="1633.13,4585.38 1589.62,4585.38 1567.86,4623.07 1589.62,4660.75 1633.13,4660.75 1654.88,4623.07 
+					"/>
+		<polygon class="st4" points="2221.25,4095.51 2177.74,4095.51 2155.99,4133.19 2177.74,4170.87 2221.25,4170.87 2243.01,4133.19 
+					"/>
+		<polygon class="st4" points="2285.83,4057.83 2242.32,4057.83 2220.57,4095.51 2242.32,4133.19 2285.83,4133.19 2307.59,4095.51 
+					"/>
+		<polygon class="st4" points="2221.25,4321.6 2177.74,4321.6 2155.99,4359.29 2177.74,4396.97 2221.25,4396.97 2243.01,4359.29 		
+			"/>
+		<polygon class="st4" points="2285.83,4359.29 2242.32,4359.29 2220.57,4396.97 2242.32,4434.65 2285.83,4434.65 2307.59,4396.97 
+					"/>
+		<polygon class="st4" points="2221.25,4472.34 2177.74,4472.34 2155.99,4510.02 2177.74,4547.7 2221.25,4547.7 2243.01,4510.02 		
+			"/>
+		<polygon class="st4" points="2221.25,4547.7 2177.74,4547.7 2155.99,4585.38 2177.74,4623.07 2221.25,4623.07 2243.01,4585.38 		
+			"/>
+		<polygon class="st4" points="1829.12,4547.05 1785.61,4547.05 1763.85,4584.73 1785.61,4622.41 1829.12,4622.41 1850.88,4584.73 
+					"/>
+		<polygon class="st4" points="2025.15,4585.38 1981.63,4585.38 1959.88,4623.07 1981.63,4660.75 2025.15,4660.75 2046.9,4623.07 		
+			"/>
+		<polygon class="st4" points="2090.47,4623.44 2046.95,4623.44 2025.2,4661.13 2046.95,4698.81 2090.47,4698.81 2112.22,4661.13 		
+			"/>
+		<polygon class="st4" points="1763.8,4434.65 1720.29,4434.65 1698.53,4472.34 1720.29,4510.02 1763.8,4510.02 1785.56,4472.34 		
+			"/>
+		<polygon class="st4" points="2025.15,4510.02 1981.63,4510.02 1959.88,4547.7 1981.63,4585.38 2025.15,4585.38 2046.9,4547.7 		
+			"/>
+		<polygon class="st4" points="1894.47,4359.29 1850.96,4359.29 1829.21,4396.97 1850.96,4434.65 1894.47,4434.65 1916.23,4396.97 
+					"/>
+		<polygon class="st4" points="1567.78,4396.97 1524.26,4396.97 1502.51,4434.65 1524.26,4472.34 1567.78,4472.34 1589.53,4434.65 
+					"/>
+	</g>
+	<g class="st140">
+		<polygon class="st129" points="1609.21,3872.57 1562.36,3872.57 1538.93,3913.15 1562.36,3953.72 1609.21,3953.72 
+			1632.64,3913.15 		"/>
+		<polygon class="st129" points="2242.36,3913.15 2195.51,3913.15 2172.08,3953.72 2195.51,3994.3 2242.36,3994.3 2265.79,3953.72 
+					"/>
+		<polygon class="st129" points="1749.92,3953.72 1703.06,3953.72 1679.64,3994.3 1703.06,4034.87 1749.92,4034.87 1773.34,3994.3 
+					"/>
+		<polygon class="st129" points="1820.25,4075.45 1773.4,4075.45 1749.97,4116.02 1773.4,4156.6 1820.25,4156.6 1843.68,4116.02 		
+			"/>
+		<polygon class="st129" points="2031.32,4034.87 1984.47,4034.87 1961.04,4075.45 1984.47,4116.02 2031.32,4116.02 
+			2054.75,4075.45 		"/>
+		<polygon class="st129" points="1960.95,3994.3 1914.1,3994.3 1890.68,4034.87 1914.1,4075.45 1960.95,4075.45 1984.38,4034.87 		
+			"/>
+		<polygon class="st129" points="1960.95,4156.6 1914.1,4156.6 1890.68,4197.17 1914.1,4237.75 1960.95,4237.75 1984.38,4197.17 		
+			"/>
+		<polygon class="st129" points="1960.95,4481.2 1914.1,4481.2 1890.68,4521.78 1914.1,4562.35 1960.95,4562.35 1984.38,4521.78 		
+			"/>
+		<polygon class="st129" points="2242.36,4156.6 2195.51,4156.6 2172.08,4197.17 2195.51,4237.75 2242.36,4237.75 2265.79,4197.17 
+					"/>
+		<polygon class="st129" points="2312.73,4034.87 2265.88,4034.87 2242.45,4075.45 2265.88,4116.02 2312.73,4116.02 
+			2336.16,4075.45 		"/>
+		<polygon class="st129" points="2242.36,3913.15 2195.51,3913.15 2172.08,3953.72 2195.51,3994.3 2242.36,3994.3 2265.79,3953.72 
+					"/>
+		<polygon class="st129" points="2242.36,4481.2 2195.51,4481.2 2172.08,4521.78 2195.51,4562.35 2242.36,4562.35 2265.79,4521.78 
+					"/>
+		<polygon class="st129" points="1960.95,4562.35 1914.1,4562.35 1890.68,4602.93 1914.1,4643.5 1960.95,4643.5 1984.38,4602.93 		
+			"/>
+		<polygon class="st129" points="1609.21,4116.02 1562.36,4116.02 1538.93,4156.6 1562.36,4197.17 1609.21,4197.17 1632.64,4156.6 
+					"/>
+		<polygon class="st129" points="2383.07,3994.3 2336.21,3994.3 2312.79,4034.87 2336.21,4075.45 2383.07,4075.45 2406.49,4034.87 
+					"/>
+		<polygon class="st129" points="1538.84,4156.6 1491.99,4156.6 1468.56,4197.17 1491.99,4237.75 1538.84,4237.75 1562.27,4197.17 
+					"/>
+		<polygon class="st129" points="1749.92,4197.17 1703.06,4197.17 1679.64,4237.75 1703.06,4278.33 1749.92,4278.33 
+			1773.34,4237.75 		"/>
+		<polygon class="st129" points="2101.66,4156.6 2054.81,4156.6 2031.38,4197.17 2054.81,4237.75 2101.66,4237.75 2125.08,4197.17 
+					"/>
+		<polygon class="st129" points="1890.41,4197.17 1843.56,4197.17 1820.13,4237.75 1843.56,4278.33 1890.41,4278.33 
+			1913.84,4237.75 		"/>
+		<polygon class="st129" points="1609.81,4278.33 1562.96,4278.33 1539.53,4318.9 1562.96,4359.48 1609.81,4359.48 1633.24,4318.9 
+					"/>
+		<polygon class="st129" points="1680.14,4318.9 1633.29,4318.9 1609.87,4359.48 1633.29,4400.05 1680.14,4400.05 1703.57,4359.48 
+					"/>
+		<polygon class="st129" points="1890.41,4359.48 1843.56,4359.48 1820.13,4400.05 1843.56,4440.63 1890.41,4440.63 
+			1913.84,4400.05 		"/>
+		<polygon class="st129" points="2030.56,4278.33 1983.71,4278.33 1960.28,4318.9 1983.71,4359.48 2030.56,4359.48 2053.99,4318.9 
+					"/>
+		<polygon class="st129" points="2383.07,4237.75 2336.21,4237.75 2312.79,4278.33 2336.21,4318.9 2383.07,4318.9 2406.49,4278.33 
+					"/>
+		<polygon class="st129" points="1538.84,4318.9 1491.99,4318.9 1468.56,4359.48 1491.99,4400.05 1538.84,4400.05 1562.27,4359.48 
+					"/>
+		<polygon class="st129" points="1749.92,4440.63 1703.06,4440.63 1679.64,4481.2 1703.06,4521.78 1749.92,4521.78 1773.34,4481.2 
+					"/>
+		<polygon class="st129" points="1679.55,4562.35 1632.69,4562.35 1609.27,4602.93 1632.69,4643.5 1679.55,4643.5 1702.97,4602.93 
+					"/>
+		<polygon class="st129" points="1820.25,4562.35 1773.4,4562.35 1749.97,4602.93 1773.4,4643.5 1820.25,4643.5 1843.68,4602.93 		
+			"/>
+		<polygon class="st129" points="2031.32,4521.78 1984.47,4521.78 1961.04,4562.35 1984.47,4602.93 2031.32,4602.93 
+			2054.75,4562.35 		"/>
+		<polygon class="st129" points="2312.73,4602.93 2265.88,4602.93 2242.45,4643.5 2265.88,4684.08 2312.73,4684.08 2336.16,4643.5 
+					"/>
+		<polygon class="st129" points="2523.89,3913.15 2477.04,3913.15 2453.61,3953.72 2477.04,3994.3 2523.89,3994.3 2547.32,3953.72 
+					"/>
+		<polygon class="st129" points="2523.89,4075.45 2477.04,4075.45 2453.61,4116.02 2477.04,4156.6 2523.89,4156.6 2547.32,4116.02 
+					"/>
+		<polygon class="st129" points="2523.89,4237.75 2477.04,4237.75 2453.61,4278.33 2477.04,4318.9 2523.89,4318.9 2547.32,4278.33 
+					"/>
+		<polygon class="st129" points="2594.69,4278.33 2547.84,4278.33 2524.41,4318.9 2547.84,4359.48 2594.69,4359.48 2618.12,4318.9 
+					"/>
+		<polygon class="st129" points="2453.56,4521.78 2406.7,4521.78 2383.28,4562.35 2406.7,4602.93 2453.56,4602.93 2476.98,4562.35 
+					"/>
+		<polygon class="st129" points="2594.26,4521.78 2547.41,4521.78 2523.98,4562.35 2547.41,4602.93 2594.26,4602.93 
+			2617.69,4562.35 		"/>
+		<polygon class="st129" points="2171.19,4278.33 2124.34,4278.33 2100.91,4318.9 2124.34,4359.48 2171.19,4359.48 2194.61,4318.9 
+					"/>
+		<polygon class="st129" points="2171.19,4359.48 2124.34,4359.48 2100.91,4400.05 2124.34,4440.63 2171.19,4440.63 
+			2194.61,4400.05 		"/>
+		<polygon class="st129" points="2381.88,4318.9 2335.03,4318.9 2311.6,4359.48 2335.03,4400.05 2381.88,4400.05 2405.31,4359.48 		
+			"/>
+		<polygon class="st129" points="2311.34,4278.33 2264.49,4278.33 2241.06,4318.9 2264.49,4359.48 2311.34,4359.48 2334.76,4318.9 
+					"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="380.14,2032.98 322.1,2032.98 293.08,2083.24 322.1,2133.51 380.14,2133.51 409.16,2083.24 		"/>
+		<polygon class="st4" points="990.24,1982.71 932.2,1982.71 903.18,2032.98 932.2,2083.24 990.24,2083.24 1019.26,2032.98 		"/>
+		<polygon class="st4" points="815.93,2083.24 757.89,2083.24 728.87,2133.51 757.89,2183.77 815.93,2183.77 844.95,2133.51 		"/>
+		<polygon class="st4" points="1077.37,2032.98 1019.33,2032.98 990.31,2083.24 1019.33,2133.51 1077.37,2133.51 1106.39,2083.24 		
+			"/>
+		<polygon class="st4" points="205.83,2133.51 147.79,2133.51 118.77,2183.77 147.79,2234.04 205.83,2234.04 234.85,2183.77 		"/>
+		<polygon class="st4" points="118.7,2183.77 60.66,2183.77 31.64,2234.04 60.66,2284.31 118.7,2284.31 147.72,2234.04 		"/>
+		<polygon class="st4" points="31.98,2133.51 -26.07,2133.51 -55.09,2183.77 -26.07,2234.04 31.98,2234.04 61,2183.77 		"/>
+		<polygon class="st4" points="815.93,2284.31 757.89,2284.31 728.87,2334.57 757.89,2384.84 815.93,2384.84 844.95,2334.57 		"/>
+		<polygon class="st4" points="641.62,2888 583.58,2888 554.56,2938.27 583.58,2988.53 641.62,2988.53 670.64,2938.27 		"/>
+		<polygon class="st4" points="990.24,2183.77 932.2,2183.77 903.18,2234.04 932.2,2284.31 990.24,2284.31 1019.26,2234.04 		"/>
+		<polygon class="st4" points="293.01,2284.31 234.97,2284.31 205.95,2334.57 234.97,2384.84 293.01,2384.84 322.03,2334.57 		"/>
+		<polygon class="st4" points="118.7,2384.84 60.66,2384.84 31.64,2435.1 60.66,2485.37 118.7,2485.37 147.72,2435.1 		"/>
+		<polygon class="st4" points="31.98,2435.1 -26.07,2435.1 -55.09,2485.37 -26.07,2535.64 31.98,2535.64 61,2485.37 		"/>
+		<polygon class="st4" points="467.32,2384.84 409.27,2384.84 380.25,2435.1 409.27,2485.37 467.32,2485.37 496.34,2435.1 		"/>
+		<polygon class="st4" points="1077.37,2334.57 1019.33,2334.57 990.31,2384.84 1019.33,2435.1 1077.37,2435.1 1106.39,2384.84 		
+			"/>
+		<polygon class="st4" points="205.83,2636.17 147.79,2636.17 118.77,2686.43 147.79,2736.7 205.83,2736.7 234.85,2686.43 		"/>
+		<polygon class="st4" points="641.62,2384.84 583.58,2384.84 554.56,2435.1 583.58,2485.37 641.62,2485.37 670.64,2435.1 		"/>
+		<polygon class="st4" points="467.32,2183.77 409.27,2183.77 380.25,2234.04 409.27,2284.31 467.32,2284.31 496.34,2234.04 		"/>
+		<polygon class="st4" points="118.7,2686.43 60.66,2686.43 31.64,2736.7 60.66,2786.96 118.7,2786.96 147.72,2736.7 		"/>
+		<polygon class="st4" points="1077.37,2535.64 1019.33,2535.64 990.31,2585.9 1019.33,2636.17 1077.37,2636.17 1106.39,2585.9 		
+			"/>
+		<polygon class="st4" points="118.7,2786.96 60.66,2786.96 31.64,2837.23 60.66,2887.5 118.7,2887.5 147.72,2837.23 		"/>
+		<polygon class="st4" points="467.32,2786.96 409.27,2786.96 380.25,2837.23 409.27,2887.5 467.32,2887.5 496.34,2837.23 		"/>
+		<polygon class="st4" points="1251.83,2133.51 1193.79,2133.51 1164.77,2183.77 1193.79,2234.04 1251.83,2234.04 1280.85,2183.77 
+					"/>
+		<polygon class="st4" points="1337.98,2083.24 1279.93,2083.24 1250.91,2133.51 1279.93,2183.77 1337.98,2183.77 1367,2133.51 		
+			"/>
+		<polygon class="st4" points="1251.83,2435.1 1193.79,2435.1 1164.77,2485.37 1193.79,2535.64 1251.83,2535.64 1280.85,2485.37 		
+			"/>
+		<polygon class="st4" points="1337.98,2485.37 1279.93,2485.37 1250.91,2535.64 1279.93,2585.9 1337.98,2585.9 1367,2535.64 		"/>
+		<polygon class="st4" points="1251.83,2636.17 1193.79,2636.17 1164.77,2686.43 1193.79,2736.7 1251.83,2736.7 1280.85,2686.43 		
+			"/>
+		<polygon class="st4" points="1251.83,2736.7 1193.79,2736.7 1164.77,2786.96 1193.79,2837.23 1251.83,2837.23 1280.85,2786.96 		
+			"/>
+		<polygon class="st4" points="728.76,2735.83 670.71,2735.83 641.69,2786.09 670.71,2836.36 728.76,2836.36 757.78,2786.09 		"/>
+		<polygon class="st4" points="990.24,2786.96 932.2,2786.96 903.18,2837.23 932.2,2887.5 990.24,2887.5 1019.26,2837.23 		"/>
+		<polygon class="st4" points="1077.37,2837.73 1019.33,2837.73 990.31,2888 1019.33,2938.27 1077.37,2938.27 1106.39,2888 		"/>
+		<polygon class="st4" points="641.62,2585.9 583.58,2585.9 554.56,2636.17 583.58,2686.43 641.62,2686.43 670.64,2636.17 		"/>
+		<polygon class="st4" points="990.24,2686.43 932.2,2686.43 903.18,2736.7 932.2,2786.96 990.24,2786.96 1019.26,2736.7 		"/>
+		<polygon class="st4" points="815.93,2485.37 757.89,2485.37 728.87,2535.64 757.89,2585.9 815.93,2585.9 844.95,2535.64 		"/>
+		<polygon class="st4" points="380.14,2535.64 322.1,2535.64 293.08,2585.9 322.1,2636.17 380.14,2636.17 409.16,2585.9 		"/>
+	</g>
+	<g class="st140">
+		<polygon class="st129" points="190.48,1921.82 127.98,1921.82 96.73,1975.95 127.98,2030.07 190.48,2030.07 221.72,1975.95 		"/>
+		<polygon class="st129" points="1035.05,1975.95 972.55,1975.95 941.3,2030.07 972.55,2084.19 1035.05,2084.19 1066.3,2030.07 		
+			"/>
+		<polygon class="st129" points="378.16,2030.07 315.67,2030.07 284.42,2084.19 315.67,2138.32 378.16,2138.32 409.41,2084.19 		"/>
+		<polygon class="st129" points="471.98,2192.44 409.49,2192.44 378.24,2246.57 409.49,2300.69 471.98,2300.69 503.23,2246.57 		"/>
+		<polygon class="st129" points="753.54,2138.32 691.04,2138.32 659.79,2192.44 691.04,2246.57 753.54,2246.57 784.79,2192.44 		"/>
+		<polygon class="st129" points="659.67,2084.19 597.18,2084.19 565.93,2138.32 597.18,2192.44 659.67,2192.44 690.92,2138.32 		"/>
+		<polygon class="st129" points="659.67,2300.69 597.18,2300.69 565.93,2354.82 597.18,2408.94 659.67,2408.94 690.92,2354.82 		"/>
+		<polygon class="st129" points="659.67,2733.69 597.18,2733.69 565.93,2787.81 597.18,2841.94 659.67,2841.94 690.92,2787.81 		"/>
+		<polygon class="st129" points="1035.05,2300.69 972.55,2300.69 941.3,2354.82 972.55,2408.94 1035.05,2408.94 1066.3,2354.82 		
+			"/>
+		<polygon class="st129" points="1128.92,2138.32 1066.42,2138.32 1035.17,2192.44 1066.42,2246.57 1128.92,2246.57 
+			1160.17,2192.44 		"/>
+		<polygon class="st129" points="1035.05,1975.95 972.55,1975.95 941.3,2030.07 972.55,2084.19 1035.05,2084.19 1066.3,2030.07 		
+			"/>
+		<polygon class="st129" points="1035.05,2733.69 972.55,2733.69 941.3,2787.81 972.55,2841.94 1035.05,2841.94 1066.3,2787.81 		
+			"/>
+		<polygon class="st129" points="659.67,2841.94 597.18,2841.94 565.93,2896.06 597.18,2950.19 659.67,2950.19 690.92,2896.06 		"/>
+		<polygon class="st129" points="190.48,2246.57 127.98,2246.57 96.73,2300.69 127.98,2354.82 190.48,2354.82 221.72,2300.69 		"/>
+		<polygon class="st129" points="1222.74,2084.19 1160.24,2084.19 1128.99,2138.32 1160.24,2192.44 1222.74,2192.44 
+			1253.99,2138.32 		"/>
+		<polygon class="st129" points="96.61,2300.69 34.11,2300.69 2.86,2354.82 34.11,2408.94 96.61,2408.94 127.86,2354.82 		"/>
+		<polygon class="st129" points="378.16,2354.82 315.67,2354.82 284.42,2408.94 315.67,2463.07 378.16,2463.07 409.41,2408.94 		"/>
+		<polygon class="st129" points="847.36,2300.69 784.86,2300.69 753.61,2354.82 784.86,2408.94 847.36,2408.94 878.61,2354.82 		"/>
+		<polygon class="st129" points="565.57,2354.82 503.08,2354.82 471.83,2408.94 503.08,2463.07 565.57,2463.07 596.82,2408.94 		"/>
+		<polygon class="st129" points="191.27,2463.07 128.78,2463.07 97.53,2517.19 128.78,2571.31 191.27,2571.31 222.52,2517.19 		"/>
+		<polygon class="st129" points="285.09,2517.19 222.6,2517.19 191.35,2571.31 222.6,2625.44 285.09,2625.44 316.34,2571.31 		"/>
+		<polygon class="st129" points="565.57,2571.31 503.08,2571.31 471.83,2625.44 503.08,2679.56 565.57,2679.56 596.82,2625.44 		"/>
+		<polygon class="st129" points="752.52,2463.07 690.03,2463.07 658.78,2517.19 690.03,2571.31 752.52,2571.31 783.77,2517.19 		"/>
+		<polygon class="st129" points="1222.74,2408.94 1160.24,2408.94 1128.99,2463.07 1160.24,2517.19 1222.74,2517.19 
+			1253.99,2463.07 		"/>
+		<polygon class="st129" points="96.61,2517.19 34.11,2517.19 2.86,2571.31 34.11,2625.44 96.61,2625.44 127.86,2571.31 		"/>
+		<polygon class="st129" points="378.16,2679.56 315.67,2679.56 284.42,2733.69 315.67,2787.81 378.16,2787.81 409.41,2733.69 		"/>
+		<polygon class="st129" points="284.3,2841.94 221.8,2841.94 190.55,2896.06 221.8,2950.19 284.3,2950.19 315.55,2896.06 		"/>
+		<polygon class="st129" points="471.98,2841.94 409.49,2841.94 378.24,2896.06 409.49,2950.19 471.98,2950.19 503.23,2896.06 		"/>
+		<polygon class="st129" points="753.54,2787.81 691.04,2787.81 659.79,2841.94 691.04,2896.06 753.54,2896.06 784.79,2841.94 		"/>
+		<polygon class="st129" points="1128.92,2896.06 1066.42,2896.06 1035.17,2950.19 1066.42,3004.31 1128.92,3004.31 
+			1160.17,2950.19 		"/>
+		<polygon class="st129" points="1410.59,1975.95 1348.09,1975.95 1316.84,2030.07 1348.09,2084.19 1410.59,2084.19 
+			1441.84,2030.07 		"/>
+		<polygon class="st129" points="1410.59,2192.44 1348.09,2192.44 1316.84,2246.57 1348.09,2300.69 1410.59,2300.69 
+			1441.84,2246.57 		"/>
+		<polygon class="st129" points="1410.59,2408.94 1348.09,2408.94 1316.84,2463.07 1348.09,2517.19 1410.59,2517.19 
+			1441.84,2463.07 		"/>
+		<polygon class="st129" points="1505.03,2463.07 1442.53,2463.07 1411.28,2517.19 1442.53,2571.31 1505.03,2571.31 
+			1536.28,2517.19 		"/>
+		<polygon class="st129" points="1316.77,2787.81 1254.27,2787.81 1223.02,2841.94 1254.27,2896.06 1316.77,2896.06 
+			1348.02,2841.94 		"/>
+		<polygon class="st129" points="1504.46,2787.81 1441.96,2787.81 1410.71,2841.94 1441.96,2896.06 1504.46,2896.06 1535.7,2841.94 
+					"/>
+		<polygon class="st129" points="940.11,2463.07 877.61,2463.07 846.36,2517.19 877.61,2571.31 940.11,2571.31 971.36,2517.19 		"/>
+		<polygon class="st129" points="940.11,2571.31 877.61,2571.31 846.36,2625.44 877.61,2679.56 940.11,2679.56 971.36,2625.44 		"/>
+		<polygon class="st129" points="1221.16,2517.19 1158.66,2517.19 1127.41,2571.31 1158.66,2625.44 1221.16,2625.44 
+			1252.41,2571.31 		"/>
+		<polygon class="st129" points="1127.06,2463.07 1064.56,2463.07 1033.31,2517.19 1064.56,2571.31 1127.06,2571.31 
+			1158.31,2517.19 		"/>
+	</g>
+	<g class="st136">
+		<polygon class="st1" points="2593.27,-31.56 2504.49,-31.56 2460.11,45.33 2504.49,122.21 2593.27,122.21 2637.66,45.33 		"/>
+		<polygon class="st1" points="1126.91,199.09 1038.13,199.09 993.74,275.97 1038.13,352.86 1126.91,352.86 1171.29,275.97 		"/>
+		<polygon class="st1" points="1393.51,199.09 1304.74,199.09 1260.35,275.97 1304.74,352.86 1393.51,352.86 1437.9,275.97 		"/>
+		<polygon class="st1" points="1526.85,122.21 1438.07,122.21 1393.68,199.09 1438.07,275.97 1526.85,275.97 1571.24,199.09 		"/>
+		<polygon class="st1" points="2593.27,275.97 2504.49,275.97 2460.11,352.86 2504.49,429.74 2593.27,429.74 2637.66,352.86 		"/>
+		<polygon class="st1" points="1126.91,506.62 1038.13,506.62 993.74,583.5 1038.13,660.38 1126.91,660.38 1171.29,583.5 		"/>
+		<polygon class="st1" points="1393.51,506.62 1304.74,506.62 1260.35,583.5 1304.74,660.38 1393.51,660.38 1437.9,583.5 		"/>
+		<polygon class="st1" points="1660.12,352.86 1571.34,352.86 1526.95,429.74 1571.34,506.62 1660.12,506.62 1704.51,429.74 		"/>
+		<polygon class="st1" points="1926.72,352.86 1837.95,352.86 1793.56,429.74 1837.95,506.62 1926.72,506.62 1971.11,429.74 		"/>
+		<polygon class="st1" points="2326.66,429.74 2237.89,429.74 2193.5,506.62 2237.89,583.5 2326.66,583.5 2371.05,506.62 		"/>
+		<polygon class="st1" points="2060.06,583.5 1971.28,583.5 1926.9,660.38 1971.28,737.27 2060.06,737.27 2104.45,660.38 		"/>
+		<polygon class="st1" points="1126.91,814.15 1038.13,814.15 993.74,891.03 1038.13,967.91 1126.91,967.91 1171.29,891.03 		"/>
+		<polygon class="st1" points="2459.93,814.15 2371.16,814.15 2326.77,891.03 2371.16,967.91 2459.93,967.91 2504.32,891.03 		"/>
+		<polygon class="st1" points="1526.85,1044.8 1438.07,1044.8 1393.68,1121.68 1438.07,1198.56 1526.85,1198.56 1571.24,1121.68 		
+			"/>
+		<polygon class="st1" points="1926.72,967.91 1837.95,967.91 1793.56,1044.8 1837.95,1121.68 1926.72,1121.68 1971.11,1044.8 		"/>
+		<polygon class="st1" points="2326.66,1044.8 2237.89,1044.8 2193.5,1121.68 2237.89,1198.56 2326.66,1198.56 2371.05,1121.68 		
+			"/>
+		<polygon class="st1" points="2593.27,1044.8 2504.49,1044.8 2460.11,1121.68 2504.49,1198.56 2593.27,1198.56 2637.66,1121.68 		
+			"/>
+		<polygon class="st1" points="1526.85,1198.56 1438.07,1198.56 1393.68,1275.44 1438.07,1352.32 1526.85,1352.32 1571.24,1275.44 
+					"/>
+		<polygon class="st1" points="1793.45,1198.56 1704.68,1198.56 1660.29,1275.44 1704.68,1352.32 1793.45,1352.32 1837.84,1275.44 
+					"/>
+		<polygon class="st1" points="2060.06,1198.56 1971.28,1198.56 1926.9,1275.44 1971.28,1352.32 2060.06,1352.32 2104.45,1275.44 		
+			"/>
+	</g>
+	<g class="st136">
+		<polygon class="st1" points="1399.2,1446.38 1310.42,1446.38 1266.04,1523.26 1310.42,1600.14 1399.2,1600.14 1443.59,1523.26 		
+			"/>
+		<polygon class="st1" points="199.44,1677.03 110.66,1677.03 66.28,1753.91 110.66,1830.79 199.44,1830.79 243.83,1753.91 		"/>
+		<polygon class="st1" points="332.78,1600.14 244,1600.14 199.61,1677.03 244,1753.91 332.78,1753.91 377.16,1677.03 		"/>
+		<polygon class="st1" points="1399.2,1753.91 1310.42,1753.91 1266.04,1830.79 1310.42,1907.67 1399.2,1907.67 1443.59,1830.79 		
+			"/>
+		<polygon class="st1" points="199.44,1984.55 110.66,1984.55 66.28,2061.44 110.66,2138.32 199.44,2138.32 243.83,2061.44 		"/>
+		<polygon class="st1" points="466.05,1830.79 377.27,1830.79 332.88,1907.67 377.27,1984.55 466.05,1984.55 510.43,1907.67 		"/>
+		<polygon class="st1" points="732.65,1830.79 643.88,1830.79 599.49,1907.67 643.88,1984.55 732.65,1984.55 777.04,1907.67 		"/>
+		<polygon class="st1" points="1132.59,1907.67 1043.82,1907.67 999.43,1984.55 1043.82,2061.44 1132.59,2061.44 1176.98,1984.55 		
+			"/>
+		<polygon class="st1" points="865.99,2061.44 777.21,2061.44 732.82,2138.32 777.21,2215.2 865.99,2215.2 910.38,2138.32 		"/>
+		<polygon class="st1" points="1265.86,2292.08 1177.09,2292.08 1132.7,2368.97 1177.09,2445.85 1265.86,2445.85 1310.25,2368.97 		
+			"/>
+		<polygon class="st1" points="332.78,2522.73 244,2522.73 199.61,2599.61 244,2676.49 332.78,2676.49 377.16,2599.61 		"/>
+		<polygon class="st1" points="732.65,2445.85 643.88,2445.85 599.49,2522.73 643.88,2599.61 732.65,2599.61 777.04,2522.73 		"/>
+		<polygon class="st1" points="1132.59,2522.73 1043.82,2522.73 999.43,2599.61 1043.82,2676.49 1132.59,2676.49 1176.98,2599.61 		
+			"/>
+		<polygon class="st1" points="1399.2,2522.73 1310.42,2522.73 1266.04,2599.61 1310.42,2676.49 1399.2,2676.49 1443.59,2599.61 		
+			"/>
+		<polygon class="st1" points="332.78,2676.49 244,2676.49 199.61,2753.38 244,2830.26 332.78,2830.26 377.16,2753.38 		"/>
+		<polygon class="st1" points="599.38,2676.49 510.61,2676.49 466.22,2753.38 510.61,2830.26 599.38,2830.26 643.77,2753.38 		"/>
+		<polygon class="st1" points="865.99,2676.49 777.21,2676.49 732.82,2753.38 777.21,2830.26 865.99,2830.26 910.38,2753.38 		"/>
+		<polygon class="st1" points="1666.04,1446.38 1577.26,1446.38 1532.87,1523.26 1577.26,1600.14 1666.04,1600.14 1710.43,1523.26 
+					"/>
+		<polygon class="st1" points="1666.04,1907.67 1577.26,1907.67 1532.87,1984.55 1577.26,2061.44 1666.04,2061.44 1710.43,1984.55 
+					"/>
+		<polygon class="st1" points="1666.04,2368.97 1577.26,2368.97 1532.87,2445.85 1577.26,2522.73 1666.04,2522.73 1710.43,2445.85 
+					"/>
+		<polygon class="st1" points="1799.31,2599.61 1710.53,2599.61 1666.14,2676.49 1710.53,2753.38 1799.31,2753.38 1843.69,2676.49 
+					"/>
+	</g>
+	<g class="st136">
+		<polygon class="st1" points="2480.89,2979.96 2392.12,2979.96 2347.73,3056.84 2392.12,3133.72 2480.89,3133.72 2525.28,3056.84 
+					"/>
+		<polygon class="st1" points="1014.53,3210.61 925.75,3210.61 881.37,3287.49 925.75,3364.37 1014.53,3364.37 1058.92,3287.49 		
+			"/>
+		<polygon class="st1" points="1281.13,3210.61 1192.36,3210.61 1147.97,3287.49 1192.36,3364.37 1281.13,3364.37 1325.52,3287.49 
+					"/>
+		<polygon class="st1" points="1414.47,3133.72 1325.69,3133.72 1281.31,3210.61 1325.69,3287.49 1414.47,3287.49 1458.86,3210.61 
+					"/>
+		<polygon class="st1" points="2480.89,3287.49 2392.12,3287.49 2347.73,3364.37 2392.12,3441.25 2480.89,3441.25 2525.28,3364.37 
+					"/>
+		<polygon class="st1" points="1014.53,3518.13 925.75,3518.13 881.37,3595.02 925.75,3671.9 1014.53,3671.9 1058.92,3595.02 		"/>
+		<polygon class="st1" points="1281.13,3518.13 1192.36,3518.13 1147.97,3595.02 1192.36,3671.9 1281.13,3671.9 1325.52,3595.02 		
+			"/>
+		<polygon class="st1" points="1547.74,3364.37 1458.96,3364.37 1414.58,3441.25 1458.96,3518.13 1547.74,3518.13 1592.13,3441.25 
+					"/>
+		<polygon class="st1" points="1814.35,3364.37 1725.57,3364.37 1681.18,3441.25 1725.57,3518.13 1814.35,3518.13 1858.73,3441.25 
+					"/>
+		<polygon class="st1" points="2214.29,3441.25 2125.51,3441.25 2081.12,3518.13 2125.51,3595.02 2214.29,3595.02 2258.68,3518.13 
+					"/>
+		<polygon class="st1" points="1947.68,3595.02 1858.91,3595.02 1814.52,3671.9 1858.91,3748.78 1947.68,3748.78 1992.07,3671.9 		
+			"/>
+		<polygon class="st1" points="1014.53,3825.66 925.75,3825.66 881.37,3902.54 925.75,3979.43 1014.53,3979.43 1058.92,3902.54 		
+			"/>
+		<polygon class="st1" points="2347.56,3825.66 2258.78,3825.66 2214.39,3902.54 2258.78,3979.43 2347.56,3979.43 2391.95,3902.54 
+					"/>
+		<polygon class="st1" points="1414.47,4056.31 1325.69,4056.31 1281.31,4133.19 1325.69,4210.07 1414.47,4210.07 1458.86,4133.19 
+					"/>
+		<polygon class="st1" points="1814.35,3979.43 1725.57,3979.43 1681.18,4056.31 1725.57,4133.19 1814.35,4133.19 1858.73,4056.31 
+					"/>
+		<polygon class="st1" points="2214.29,4056.31 2125.51,4056.31 2081.12,4133.19 2125.51,4210.07 2214.29,4210.07 2258.68,4133.19 
+					"/>
+		<polygon class="st1" points="2480.89,4056.31 2392.12,4056.31 2347.73,4133.19 2392.12,4210.07 2480.89,4210.07 2525.28,4133.19 
+					"/>
+		<polygon class="st1" points="1414.47,4210.07 1325.69,4210.07 1281.31,4286.96 1325.69,4363.84 1414.47,4363.84 1458.86,4286.96 
+					"/>
+		<polygon class="st1" points="1681.08,4210.07 1592.3,4210.07 1547.91,4286.96 1592.3,4363.84 1681.08,4363.84 1725.46,4286.96 		
+			"/>
+		<polygon class="st1" points="1947.68,4210.07 1858.91,4210.07 1814.52,4286.96 1858.91,4363.84 1947.68,4363.84 1992.07,4286.96 
+					"/>
+	</g>
+	<g class="st136">
+		<polygon class="st1" points="1011.67,4270.11 922.9,4270.11 878.51,4347 922.9,4423.88 1011.67,4423.88 1056.06,4347 		"/>
+		<polygon class="st1" points="1011.67,4577.64 922.9,4577.64 878.51,4654.53 922.9,4731.41 1011.67,4731.41 1056.06,4654.53 		"/>
+		<polygon class="st1" points="78.52,4654.53 -10.26,4654.53 -54.64,4731.41 -10.26,4808.29 78.52,4808.29 122.91,4731.41 		"/>
+		<polygon class="st1" points="345.13,4654.53 256.35,4654.53 211.96,4731.41 256.35,4808.29 345.13,4808.29 389.51,4731.41 		"/>
+		<polygon class="st1" points="745.07,4731.41 656.29,4731.41 611.9,4808.29 656.29,4885.17 745.07,4885.17 789.46,4808.29 		"/>
+		<polygon class="st1" points="478.46,4885.17 389.69,4885.17 345.3,4962.05 389.69,5038.94 478.46,5038.94 522.85,4962.05 		"/>
+		<polygon class="st1" points="878.34,5115.82 789.56,5115.82 745.17,5192.7 789.56,5269.58 878.34,5269.58 922.73,5192.7 		"/>
+		<polygon class="st1" points="345.13,5269.58 256.35,5269.58 211.96,5346.46 256.35,5423.35 345.13,5423.35 389.51,5346.46 		"/>
+		<polygon class="st1" points="745.07,5346.46 656.29,5346.46 611.9,5423.35 656.29,5500.23 745.07,5500.23 789.46,5423.35 		"/>
+		<polygon class="st1" points="1011.67,5346.46 922.9,5346.46 878.51,5423.35 922.9,5500.23 1011.67,5500.23 1056.06,5423.35 		"/>
+		<polygon class="st1" points="211.86,5500.23 123.08,5500.23 78.69,5577.11 123.08,5653.99 211.86,5653.99 256.24,5577.11 		"/>
+		<polygon class="st1" points="478.46,5500.23 389.69,5500.23 345.3,5577.11 389.69,5653.99 478.46,5653.99 522.85,5577.11 		"/>
+		<polygon class="st1" points="1278.51,4270.11 1189.73,4270.11 1145.35,4347 1189.73,4423.88 1278.51,4423.88 1322.9,4347 		"/>
+		<polygon class="st1" points="1278.51,4731.41 1189.73,4731.41 1145.35,4808.29 1189.73,4885.17 1278.51,4885.17 1322.9,4808.29 		
+			"/>
+		<polygon class="st1" points="1278.51,5192.7 1189.73,5192.7 1145.35,5269.58 1189.73,5346.46 1278.51,5346.46 1322.9,5269.58 		
+			"/>
+		<polygon class="st1" points="1411.78,5423.35 1323,5423.35 1278.62,5500.23 1323,5577.11 1411.78,5577.11 1456.17,5500.23 		"/>
+	</g>
+	<g class="st136">
+		<polygon class="st1" points="2480.81,4808.29 2392.04,4808.29 2347.65,4885.17 2392.04,4962.05 2480.81,4962.05 2525.2,4885.17 		
+			"/>
+		<polygon class="st1" points="1014.45,5038.94 925.67,5038.94 881.28,5115.82 925.67,5192.7 1014.45,5192.7 1058.83,5115.82 		"/>
+		<polygon class="st1" points="1281.05,5038.94 1192.28,5038.94 1147.89,5115.82 1192.28,5192.7 1281.05,5192.7 1325.44,5115.82 		
+			"/>
+		<polygon class="st1" points="1414.39,4962.05 1325.61,4962.05 1281.22,5038.94 1325.61,5115.82 1414.39,5115.82 1458.78,5038.94 
+					"/>
+		<polygon class="st1" points="2480.81,5115.82 2392.04,5115.82 2347.65,5192.7 2392.04,5269.58 2480.81,5269.58 2525.2,5192.7 		
+			"/>
+		<polygon class="st1" points="1014.45,5346.46 925.67,5346.46 881.28,5423.35 925.67,5500.23 1014.45,5500.23 1058.83,5423.35 		
+			"/>
+		<polygon class="st1" points="1281.05,5346.46 1192.28,5346.46 1147.89,5423.35 1192.28,5500.23 1281.05,5500.23 1325.44,5423.35 
+					"/>
+		<polygon class="st1" points="1547.66,5192.7 1458.88,5192.7 1414.49,5269.58 1458.88,5346.46 1547.66,5346.46 1592.05,5269.58 		
+			"/>
+		<polygon class="st1" points="1814.26,5192.7 1725.49,5192.7 1681.1,5269.58 1725.49,5346.46 1814.26,5346.46 1858.65,5269.58 		
+			"/>
+		<polygon class="st1" points="2214.21,5269.58 2125.43,5269.58 2081.04,5346.46 2125.43,5423.35 2214.21,5423.35 2258.59,5346.46 
+					"/>
+		<polygon class="st1" points="1947.6,5423.35 1858.82,5423.35 1814.44,5500.23 1858.82,5577.11 1947.6,5577.11 1991.99,5500.23 		
+			"/>
+		<polygon class="st1" points="1014.45,5653.99 925.67,5653.99 881.28,5730.88 925.67,5807.76 1014.45,5807.76 1058.83,5730.88 		
+			"/>
+		<polygon class="st1" points="2347.48,5653.99 2258.7,5653.99 2214.31,5730.88 2258.7,5807.76 2347.48,5807.76 2391.86,5730.88 		
+			"/>
+		<polygon class="st1" points="1414.39,5884.64 1325.61,5884.64 1281.22,5961.52 1325.61,6038.4 1414.39,6038.4 1458.78,5961.52 		
+			"/>
+		<polygon class="st1" points="1814.26,5807.76 1725.49,5807.76 1681.1,5884.64 1725.49,5961.52 1814.26,5961.52 1858.65,5884.64 		
+			"/>
+		<polygon class="st1" points="2214.21,5884.64 2125.43,5884.64 2081.04,5961.52 2125.43,6038.4 2214.21,6038.4 2258.59,5961.52 		
+			"/>
+		<polygon class="st1" points="2480.81,5884.64 2392.04,5884.64 2347.65,5961.52 2392.04,6038.4 2480.81,6038.4 2525.2,5961.52 		
+			"/>
+		<polygon class="st1" points="1414.39,6038.4 1325.61,6038.4 1281.22,6115.29 1325.61,6192.17 1414.39,6192.17 1458.78,6115.29 		
+			"/>
+		<polygon class="st1" points="1680.99,6038.4 1592.22,6038.4 1547.83,6115.29 1592.22,6192.17 1680.99,6192.17 1725.38,6115.29 		
+			"/>
+		<polygon class="st1" points="1947.6,6038.4 1858.82,6038.4 1814.44,6115.29 1858.82,6192.17 1947.6,6192.17 1991.99,6115.29 		"/>
+	</g>
+	<g class="st140">
+		<polygon class="st129" points="481.01,6595.49 418.51,6595.49 387.26,6649.61 418.51,6703.73 481.01,6703.73 512.26,6649.61 		"/>
+		<polygon class="st129" points="199.5,6757.86 137,6757.86 105.76,6811.98 137,6866.11 199.5,6866.11 230.75,6811.98 		"/>
+		<polygon class="st129" points="105.63,6703.73 43.14,6703.73 11.89,6757.86 43.14,6811.98 105.63,6811.98 136.88,6757.86 		"/>
+		<polygon class="st129" points="105.63,6920.23 43.14,6920.23 11.89,6974.36 43.14,7028.48 105.63,7028.48 136.88,6974.36 		"/>
+		<polygon class="st129" points="105.63,7353.23 43.14,7353.23 11.89,7407.35 43.14,7461.48 105.63,7461.48 136.88,7407.35 		"/>
+		<polygon class="st129" points="481.01,6920.23 418.51,6920.23 387.26,6974.36 418.51,7028.48 481.01,7028.48 512.26,6974.36 		"/>
+		<polygon class="st129" points="574.88,6757.86 512.38,6757.86 481.13,6811.98 512.38,6866.11 574.88,6866.11 606.13,6811.98 		"/>
+		<polygon class="st129" points="481.01,6595.49 418.51,6595.49 387.26,6649.61 418.51,6703.73 481.01,6703.73 512.26,6649.61 		"/>
+		<polygon class="st129" points="481.01,7353.23 418.51,7353.23 387.26,7407.35 418.51,7461.48 481.01,7461.48 512.26,7407.35 		"/>
+		<polygon class="st129" points="668.7,6703.73 606.2,6703.73 574.95,6757.86 606.2,6811.98 668.7,6811.98 699.95,6757.86 		"/>
+		<polygon class="st129" points="293.32,6920.23 230.83,6920.23 199.58,6974.36 230.83,7028.48 293.32,7028.48 324.57,6974.36 		"/>
+		<polygon class="st129" points="11.54,6974.36 -50.96,6974.36 -82.21,7028.48 -50.96,7082.61 11.54,7082.61 42.78,7028.48 		"/>
+		<polygon class="st129" points="11.54,7190.85 -50.96,7190.85 -82.21,7244.98 -50.96,7299.1 11.54,7299.1 42.78,7244.98 		"/>
+		<polygon class="st129" points="198.49,7082.61 135.99,7082.61 104.74,7136.73 135.99,7190.85 198.49,7190.85 229.73,7136.73 		"/>
+		<polygon class="st129" points="668.7,7028.48 606.2,7028.48 574.95,7082.61 606.2,7136.73 668.7,7136.73 699.95,7082.61 		"/>
+		<polygon class="st129" points="199.5,7407.35 137,7407.35 105.76,7461.48 137,7515.6 199.5,7515.6 230.75,7461.48 		"/>
+		<polygon class="st129" points="856.55,6595.49 794.05,6595.49 762.8,6649.61 794.05,6703.73 856.55,6703.73 887.8,6649.61 		"/>
+		<polygon class="st129" points="856.55,6811.98 794.05,6811.98 762.8,6866.11 794.05,6920.23 856.55,6920.23 887.8,6866.11 		"/>
+		<polygon class="st129" points="856.55,7028.48 794.05,7028.48 762.8,7082.61 794.05,7136.73 856.55,7136.73 887.8,7082.61 		"/>
+		<polygon class="st129" points="950.99,7082.61 888.49,7082.61 857.25,7136.73 888.49,7190.85 950.99,7190.85 982.24,7136.73 		"/>
+		<polygon class="st129" points="762.73,7407.35 700.23,7407.35 668.98,7461.48 700.23,7515.6 762.73,7515.6 793.98,7461.48 		"/>
+		<polygon class="st129" points="950.42,7407.35 887.92,7407.35 856.67,7461.48 887.92,7515.6 950.42,7515.6 981.67,7461.48 		"/>
+		<polygon class="st129" points="386.07,7082.61 323.57,7082.61 292.32,7136.73 323.57,7190.85 386.07,7190.85 417.32,7136.73 		"/>
+		<polygon class="st129" points="386.07,7190.85 323.57,7190.85 292.32,7244.98 323.57,7299.1 386.07,7299.1 417.32,7244.98 		"/>
+		<polygon class="st129" points="667.12,7136.73 604.62,7136.73 573.37,7190.85 604.62,7244.98 667.12,7244.98 698.37,7190.85 		"/>
+		<polygon class="st129" points="573.02,7082.61 510.52,7082.61 479.27,7136.73 510.52,7190.85 573.02,7190.85 604.27,7136.73 		"/>
+	</g>
+	<g class="st140">
+		<polygon class="st129" points="1282.65,6358.44 1220.15,6358.44 1188.91,6412.57 1220.15,6466.69 1282.65,6466.69 1313.9,6412.57 
+					"/>
+		<polygon class="st129" points="2127.23,6412.57 2064.73,6412.57 2033.48,6466.69 2064.73,6520.81 2127.23,6520.81 
+			2158.47,6466.69 		"/>
+		<polygon class="st129" points="1470.34,6466.69 1407.84,6466.69 1376.59,6520.81 1407.84,6574.94 1470.34,6574.94 
+			1501.59,6520.81 		"/>
+		<polygon class="st129" points="1564.16,6629.06 1501.66,6629.06 1470.41,6683.19 1501.66,6737.31 1564.16,6737.31 
+			1595.41,6683.19 		"/>
+		<polygon class="st129" points="1845.72,6574.94 1783.22,6574.94 1751.97,6629.06 1783.22,6683.19 1845.72,6683.19 
+			1876.97,6629.06 		"/>
+		<polygon class="st129" points="1751.85,6520.81 1689.35,6520.81 1658.1,6574.94 1689.35,6629.06 1751.85,6629.06 1783.1,6574.94 
+					"/>
+		<polygon class="st129" points="1751.85,6737.31 1689.35,6737.31 1658.1,6791.44 1689.35,6845.56 1751.85,6845.56 1783.1,6791.44 
+					"/>
+		<polygon class="st129" points="1751.85,7170.31 1689.35,7170.31 1658.1,7224.43 1689.35,7278.56 1751.85,7278.56 1783.1,7224.43 
+					"/>
+		<polygon class="st129" points="2127.23,6737.31 2064.73,6737.31 2033.48,6791.44 2064.73,6845.56 2127.23,6845.56 
+			2158.47,6791.44 		"/>
+		<polygon class="st129" points="2221.09,6574.94 2158.6,6574.94 2127.35,6629.06 2158.6,6683.19 2221.09,6683.19 2252.34,6629.06 
+					"/>
+		<polygon class="st129" points="2127.23,6412.57 2064.73,6412.57 2033.48,6466.69 2064.73,6520.81 2127.23,6520.81 
+			2158.47,6466.69 		"/>
+		<polygon class="st129" points="2127.23,7170.31 2064.73,7170.31 2033.48,7224.43 2064.73,7278.56 2127.23,7278.56 
+			2158.47,7224.43 		"/>
+		<polygon class="st129" points="1751.85,7278.56 1689.35,7278.56 1658.1,7332.68 1689.35,7386.81 1751.85,7386.81 1783.1,7332.68 
+					"/>
+		<polygon class="st129" points="1282.65,6683.19 1220.15,6683.19 1188.91,6737.31 1220.15,6791.44 1282.65,6791.44 1313.9,6737.31 
+					"/>
+		<polygon class="st129" points="2314.91,6520.81 2252.42,6520.81 2221.17,6574.94 2252.42,6629.06 2314.91,6629.06 
+			2346.16,6574.94 		"/>
+		<polygon class="st129" points="1188.78,6737.31 1126.29,6737.31 1095.04,6791.44 1126.29,6845.56 1188.78,6845.56 
+			1220.03,6791.44 		"/>
+		<polygon class="st129" points="1470.34,6791.44 1407.84,6791.44 1376.59,6845.56 1407.84,6899.69 1470.34,6899.69 
+			1501.59,6845.56 		"/>
+		<polygon class="st129" points="1939.54,6737.31 1877.04,6737.31 1845.79,6791.44 1877.04,6845.56 1939.54,6845.56 
+			1970.79,6791.44 		"/>
+		<polygon class="st129" points="1657.75,6791.44 1595.25,6791.44 1564,6845.56 1595.25,6899.69 1657.75,6899.69 1689,6845.56 		"/>
+		<polygon class="st129" points="1283.45,6899.69 1220.95,6899.69 1189.7,6953.81 1220.95,7007.93 1283.45,7007.93 1314.7,6953.81 
+					"/>
+		<polygon class="st129" points="1377.27,6953.81 1314.77,6953.81 1283.52,7007.93 1314.77,7062.06 1377.27,7062.06 
+			1408.52,7007.93 		"/>
+		<polygon class="st129" points="1657.75,7007.93 1595.25,7007.93 1564,7062.06 1595.25,7116.18 1657.75,7116.18 1689,7062.06 		"/>
+		<polygon class="st129" points="1844.7,6899.69 1782.2,6899.69 1750.95,6953.81 1782.2,7007.93 1844.7,7007.93 1875.95,6953.81 		
+			"/>
+		<polygon class="st129" points="2314.91,6845.56 2252.42,6845.56 2221.17,6899.69 2252.42,6953.81 2314.91,6953.81 
+			2346.16,6899.69 		"/>
+		<polygon class="st129" points="1188.78,6953.81 1126.29,6953.81 1095.04,7007.93 1126.29,7062.06 1188.78,7062.06 
+			1220.03,7007.93 		"/>
+		<polygon class="st129" points="1470.34,7116.18 1407.84,7116.18 1376.59,7170.31 1407.84,7224.43 1470.34,7224.43 
+			1501.59,7170.31 		"/>
+		<polygon class="st129" points="1376.47,7278.56 1313.97,7278.56 1282.73,7332.68 1313.97,7386.81 1376.47,7386.81 
+			1407.72,7332.68 		"/>
+		<polygon class="st129" points="1564.16,7278.56 1501.66,7278.56 1470.41,7332.68 1501.66,7386.81 1564.16,7386.81 
+			1595.41,7332.68 		"/>
+		<polygon class="st129" points="1845.72,7224.43 1783.22,7224.43 1751.97,7278.56 1783.22,7332.68 1845.72,7332.68 
+			1876.97,7278.56 		"/>
+		<polygon class="st129" points="2221.09,7332.68 2158.6,7332.68 2127.35,7386.81 2158.6,7440.93 2221.09,7440.93 2252.34,7386.81 
+					"/>
+		<polygon class="st129" points="2502.76,6412.57 2440.27,6412.57 2409.02,6466.69 2440.27,6520.81 2502.76,6520.81 
+			2534.01,6466.69 		"/>
+		<polygon class="st129" points="2502.76,6629.06 2440.27,6629.06 2409.02,6683.19 2440.27,6737.31 2502.76,6737.31 
+			2534.01,6683.19 		"/>
+		<polygon class="st129" points="2502.76,6845.56 2440.27,6845.56 2409.02,6899.69 2440.27,6953.81 2502.76,6953.81 
+			2534.01,6899.69 		"/>
+		<polygon class="st129" points="2597.21,6899.69 2534.71,6899.69 2503.46,6953.81 2534.71,7007.93 2597.21,7007.93 
+			2628.46,6953.81 		"/>
+		<polygon class="st129" points="2408.94,7224.43 2346.45,7224.43 2315.2,7278.56 2346.45,7332.68 2408.94,7332.68 2440.19,7278.56 
+					"/>
+		<polygon class="st129" points="2596.63,7224.43 2534.13,7224.43 2502.89,7278.56 2534.13,7332.68 2596.63,7332.68 
+			2627.88,7278.56 		"/>
+		<polygon class="st129" points="2032.28,6899.69 1969.79,6899.69 1938.54,6953.81 1969.79,7007.93 2032.28,7007.93 
+			2063.53,6953.81 		"/>
+		<polygon class="st129" points="2032.28,7007.93 1969.79,7007.93 1938.54,7062.06 1969.79,7116.18 2032.28,7116.18 
+			2063.53,7062.06 		"/>
+		<polygon class="st129" points="2313.33,6953.81 2250.84,6953.81 2219.59,7007.93 2250.84,7062.06 2313.33,7062.06 
+			2344.58,7007.93 		"/>
+		<polygon class="st129" points="2219.23,6899.69 2156.74,6899.69 2125.49,6953.81 2156.74,7007.93 2219.23,7007.93 
+			2250.48,6953.81 		"/>
+	</g>
+	<g class="st140">
+		<polygon class="st129" points="805.37,7116.18 742.87,7116.18 711.62,7170.31 742.87,7224.43 805.37,7224.43 836.61,7170.31 		"/>
+		<polygon class="st129" points="1649.94,7170.31 1587.44,7170.31 1556.19,7224.43 1587.44,7278.56 1649.94,7278.56 
+			1681.19,7224.43 		"/>
+		<polygon class="st129" points="993.05,7224.43 930.56,7224.43 899.31,7278.56 930.56,7332.68 993.05,7332.68 1024.3,7278.56 		"/>
+		<polygon class="st129" points="1086.87,7386.81 1024.38,7386.81 993.13,7440.93 1024.38,7495.05 1086.87,7495.05 1118.12,7440.93 
+					"/>
+		<polygon class="st129" points="1368.43,7332.68 1305.93,7332.68 1274.68,7386.81 1305.93,7440.93 1368.43,7440.93 
+			1399.68,7386.81 		"/>
+		<polygon class="st129" points="1274.56,7278.56 1212.07,7278.56 1180.82,7332.68 1212.07,7386.81 1274.56,7386.81 
+			1305.81,7332.68 		"/>
+		<polygon class="st129" points="1743.81,7332.68 1681.31,7332.68 1650.06,7386.81 1681.31,7440.93 1743.81,7440.93 
+			1775.06,7386.81 		"/>
+		<polygon class="st129" points="1649.94,7170.31 1587.44,7170.31 1556.19,7224.43 1587.44,7278.56 1649.94,7278.56 
+			1681.19,7224.43 		"/>
+		<polygon class="st129" points="1837.63,7278.56 1775.13,7278.56 1743.88,7332.68 1775.13,7386.81 1837.63,7386.81 
+			1868.88,7332.68 		"/>
+		<polygon class="st129" points="2025.48,7170.31 1962.98,7170.31 1931.73,7224.43 1962.98,7278.56 2025.48,7278.56 
+			2056.73,7224.43 		"/>
+		<polygon class="st129" points="2025.48,7386.81 1962.98,7386.81 1931.73,7440.93 1962.98,7495.05 2025.48,7495.05 
+			2056.73,7440.93 		"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="190.59,6215.85 132.54,6215.85 103.52,6266.11 132.54,6316.38 190.59,6316.38 219.61,6266.11 		"/>
+		<polygon class="st4" points="16.28,6316.38 -41.76,6316.38 -70.78,6366.64 -41.76,6416.91 16.28,6416.91 45.3,6366.64 		"/>
+		<polygon class="st4" points="277.72,6266.11 219.68,6266.11 190.66,6316.38 219.68,6366.64 277.72,6366.64 306.74,6316.38 		"/>
+		<polygon class="st4" points="16.28,6517.44 -41.76,6517.44 -70.78,6567.71 -41.76,6617.97 16.28,6617.97 45.3,6567.71 		"/>
+		<polygon class="st4" points="190.59,6416.91 132.54,6416.91 103.52,6467.18 132.54,6517.44 190.59,6517.44 219.61,6467.18 		"/>
+		<polygon class="st4" points="277.72,6567.71 219.68,6567.71 190.66,6617.97 219.68,6668.24 277.72,6668.24 306.74,6617.97 		"/>
+		<polygon class="st4" points="277.72,6768.77 219.68,6768.77 190.66,6819.04 219.68,6869.3 277.72,6869.3 306.74,6819.04 		"/>
+		<polygon class="st4" points="452.18,6366.64 394.14,6366.64 365.11,6416.91 394.14,6467.18 452.18,6467.18 481.2,6416.91 		"/>
+		<polygon class="st4" points="538.32,6316.38 480.28,6316.38 451.26,6366.64 480.28,6416.91 538.32,6416.91 567.34,6366.64 		"/>
+		<polygon class="st4" points="452.18,6668.24 394.14,6668.24 365.11,6718.5 394.14,6768.77 452.18,6768.77 481.2,6718.5 		"/>
+		<polygon class="st4" points="538.32,6718.5 480.28,6718.5 451.26,6768.77 480.28,6819.04 538.32,6819.04 567.34,6768.77 		"/>
+		<polygon class="st4" points="452.18,6869.3 394.14,6869.3 365.11,6919.57 394.14,6969.83 452.18,6969.83 481.2,6919.57 		"/>
+		<polygon class="st4" points="452.18,6969.83 394.14,6969.83 365.11,7020.1 394.14,7070.36 452.18,7070.36 481.2,7020.1 		"/>
+		<polygon class="st4" points="190.59,7020.1 132.54,7020.1 103.52,7070.36 132.54,7120.63 190.59,7120.63 219.61,7070.36 		"/>
+		<polygon class="st4" points="277.72,7070.87 219.68,7070.87 190.66,7121.13 219.68,7171.4 277.72,7171.4 306.74,7121.13 		"/>
+		<polygon class="st4" points="190.59,6919.57 132.54,6919.57 103.52,6969.83 132.54,7020.1 190.59,7020.1 219.61,6969.83 		"/>
+		<polygon class="st4" points="16.28,6718.5 -41.76,6718.5 -70.78,6768.77 -41.76,6819.04 16.28,6819.04 45.3,6768.77 		"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="1310.43,6366.64 1252.39,6366.64 1223.37,6416.91 1252.39,6467.18 1310.43,6467.18 1339.45,6416.91 
+					"/>
+		<polygon class="st4" points="1920.53,6316.38 1862.49,6316.38 1833.47,6366.64 1862.49,6416.91 1920.53,6416.91 1949.55,6366.64 
+					"/>
+		<polygon class="st4" points="1746.22,6416.91 1688.18,6416.91 1659.16,6467.18 1688.18,6517.44 1746.22,6517.44 1775.25,6467.18 
+					"/>
+		<polygon class="st4" points="2007.66,6366.64 1949.62,6366.64 1920.6,6416.91 1949.62,6467.18 2007.66,6467.18 2036.68,6416.91 		
+			"/>
+		<polygon class="st4" points="1136.13,6467.18 1078.08,6467.18 1049.06,6517.44 1078.08,6567.71 1136.13,6567.71 1165.15,6517.44 
+					"/>
+		<polygon class="st4" points="1048.99,6517.44 990.95,6517.44 961.93,6567.71 990.95,6617.97 1048.99,6617.97 1078.02,6567.71 		
+			"/>
+		<polygon class="st4" points="962.27,6467.18 904.23,6467.18 875.21,6517.44 904.23,6567.71 962.27,6567.71 991.29,6517.44 		"/>
+		<polygon class="st4" points="1746.22,6617.97 1688.18,6617.97 1659.16,6668.24 1688.18,6718.5 1746.22,6718.5 1775.25,6668.24 		
+			"/>
+		<polygon class="st4" points="1571.92,7221.67 1513.87,7221.67 1484.85,7271.93 1513.87,7322.2 1571.92,7322.2 1600.94,7271.93 		
+			"/>
+		<polygon class="st4" points="1920.53,6517.44 1862.49,6517.44 1833.47,6567.71 1862.49,6617.97 1920.53,6617.97 1949.55,6567.71 
+					"/>
+		<polygon class="st4" points="1223.3,6617.97 1165.26,6617.97 1136.24,6668.24 1165.26,6718.5 1223.3,6718.5 1252.32,6668.24 		"/>
+		<polygon class="st4" points="1048.99,6718.5 990.95,6718.5 961.93,6768.77 990.95,6819.04 1048.99,6819.04 1078.02,6768.77 		"/>
+		<polygon class="st4" points="962.27,6768.77 904.23,6768.77 875.21,6819.04 904.23,6869.3 962.27,6869.3 991.29,6819.04 		"/>
+		<polygon class="st4" points="1397.61,6718.5 1339.57,6718.5 1310.55,6768.77 1339.57,6819.04 1397.61,6819.04 1426.63,6768.77 		
+			"/>
+		<polygon class="st4" points="2007.66,6668.24 1949.62,6668.24 1920.6,6718.5 1949.62,6768.77 2007.66,6768.77 2036.68,6718.5 		
+			"/>
+		<polygon class="st4" points="1136.13,6969.83 1078.08,6969.83 1049.06,7020.1 1078.08,7070.36 1136.13,7070.36 1165.15,7020.1 		
+			"/>
+		<polygon class="st4" points="1571.92,6718.5 1513.87,6718.5 1484.85,6768.77 1513.87,6819.04 1571.92,6819.04 1600.94,6768.77 		
+			"/>
+		<polygon class="st4" points="1397.61,6517.44 1339.57,6517.44 1310.55,6567.71 1339.57,6617.97 1397.61,6617.97 1426.63,6567.71 
+					"/>
+		<polygon class="st4" points="1048.99,7020.1 990.95,7020.1 961.93,7070.36 990.95,7120.63 1048.99,7120.63 1078.02,7070.36 		"/>
+		<polygon class="st4" points="2007.66,6869.3 1949.62,6869.3 1920.6,6919.57 1949.62,6969.83 2007.66,6969.83 2036.68,6919.57 		
+			"/>
+		<polygon class="st4" points="1048.99,7120.63 990.95,7120.63 961.93,7170.9 990.95,7221.16 1048.99,7221.16 1078.02,7170.9 		"/>
+		<polygon class="st4" points="1397.61,7120.63 1339.57,7120.63 1310.55,7170.9 1339.57,7221.16 1397.61,7221.16 1426.63,7170.9 		
+			"/>
+		<polygon class="st4" points="2182.12,6467.18 2124.08,6467.18 2095.06,6517.44 2124.08,6567.71 2182.12,6567.71 2211.14,6517.44 
+					"/>
+		<polygon class="st4" points="2268.27,6416.91 2210.23,6416.91 2181.21,6467.18 2210.23,6517.44 2268.27,6517.44 2297.29,6467.18 
+					"/>
+		<polygon class="st4" points="2182.12,6768.77 2124.08,6768.77 2095.06,6819.04 2124.08,6869.3 2182.12,6869.3 2211.14,6819.04 		
+			"/>
+		<polygon class="st4" points="2268.27,6819.04 2210.23,6819.04 2181.21,6869.3 2210.23,6919.57 2268.27,6919.57 2297.29,6869.3 		
+			"/>
+		<polygon class="st4" points="2182.12,6969.83 2124.08,6969.83 2095.06,7020.1 2124.08,7070.36 2182.12,7070.36 2211.14,7020.1 		
+			"/>
+		<polygon class="st4" points="2182.12,7070.36 2124.08,7070.36 2095.06,7120.63 2124.08,7170.9 2182.12,7170.9 2211.14,7120.63 		
+			"/>
+		<polygon class="st4" points="1659.05,7069.5 1601.01,7069.5 1571.99,7119.76 1601.01,7170.03 1659.05,7170.03 1688.07,7119.76 		
+			"/>
+		<polygon class="st4" points="1920.53,7120.63 1862.49,7120.63 1833.47,7170.9 1862.49,7221.16 1920.53,7221.16 1949.55,7170.9 		
+			"/>
+		<polygon class="st4" points="2007.66,7171.4 1949.62,7171.4 1920.6,7221.67 1949.62,7271.93 2007.66,7271.93 2036.68,7221.67 		
+			"/>
+		<polygon class="st4" points="1571.92,6919.57 1513.87,6919.57 1484.85,6969.83 1513.87,7020.1 1571.92,7020.1 1600.94,6969.83 		
+			"/>
+		<polygon class="st4" points="1920.53,7020.1 1862.49,7020.1 1833.47,7070.36 1862.49,7120.63 1920.53,7120.63 1949.55,7070.36 		
+			"/>
+		<polygon class="st4" points="1746.22,6819.04 1688.18,6819.04 1659.16,6869.3 1688.18,6919.57 1746.22,6919.57 1775.25,6869.3 		
+			"/>
+		<polygon class="st4" points="1310.43,6869.3 1252.39,6869.3 1223.37,6919.57 1252.39,6969.83 1310.43,6969.83 1339.45,6919.57 		
+			"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="1451.41,7245.02 1393.37,7245.02 1364.35,7295.28 1393.37,7345.55 1451.41,7345.55 1480.43,7295.28 
+					"/>
+		<polygon class="st4" points="2061.51,7194.75 2003.47,7194.75 1974.44,7245.02 2003.47,7295.28 2061.51,7295.28 2090.53,7245.02 
+					"/>
+		<polygon class="st4" points="1887.2,7295.28 1829.16,7295.28 1800.14,7345.55 1829.16,7395.82 1887.2,7395.82 1916.22,7345.55 		
+			"/>
+		<polygon class="st4" points="2148.64,7245.02 2090.6,7245.02 2061.58,7295.28 2090.6,7345.55 2148.64,7345.55 2177.66,7295.28 		
+			"/>
+		<polygon class="st4" points="1277.1,7345.55 1219.06,7345.55 1190.04,7395.82 1219.06,7446.08 1277.1,7446.08 1306.12,7395.82 		
+			"/>
+		<polygon class="st4" points="1189.97,7395.82 1131.93,7395.82 1102.91,7446.08 1131.93,7496.35 1189.97,7496.35 1218.99,7446.08 
+					"/>
+		<polygon class="st4" points="1103.24,7345.55 1045.2,7345.55 1016.18,7395.82 1045.2,7446.08 1103.24,7446.08 1132.27,7395.82 		
+			"/>
+		<polygon class="st4" points="2061.51,7395.82 2003.47,7395.82 1974.44,7446.08 2003.47,7496.35 2061.51,7496.35 2090.53,7446.08 
+					"/>
+		<polygon class="st4" points="1538.58,7395.82 1480.54,7395.82 1451.52,7446.08 1480.54,7496.35 1538.58,7496.35 1567.61,7446.08 
+					"/>
+		<polygon class="st4" points="2323.1,7345.55 2265.06,7345.55 2236.04,7395.82 2265.06,7446.08 2323.1,7446.08 2352.12,7395.82 		
+			"/>
+		<polygon class="st4" points="2409.24,7295.28 2351.2,7295.28 2322.18,7345.55 2351.2,7395.82 2409.24,7395.82 2438.26,7345.55 		
+			"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="428.14,7112.19 370.09,7112.19 341.07,7162.46 370.09,7212.72 428.14,7212.72 457.16,7162.46 		"/>
+		<polygon class="st4" points="253.83,7212.72 195.79,7212.72 166.77,7262.99 195.79,7313.25 253.83,7313.25 282.85,7262.99 		"/>
+		<polygon class="st4" points="515.27,7162.46 457.23,7162.46 428.21,7212.72 457.23,7262.99 515.27,7262.99 544.29,7212.72 		"/>
+		<polygon class="st4" points="253.83,7413.78 195.79,7413.78 166.77,7464.05 195.79,7514.31 253.83,7514.31 282.85,7464.05 		"/>
+		<polygon class="st4" points="428.14,7313.25 370.09,7313.25 341.07,7363.52 370.09,7413.78 428.14,7413.78 457.16,7363.52 		"/>
+		<polygon class="st4" points="689.73,7262.99 631.69,7262.99 602.66,7313.25 631.69,7363.52 689.73,7363.52 718.75,7313.25 		"/>
+		<polygon class="st4" points="775.87,7212.72 717.83,7212.72 688.81,7262.99 717.83,7313.25 775.87,7313.25 804.89,7262.99 		"/>
+	</g>
+	<g class="st136">
+		<polygon class="st1" points="2317.36,6390.67 2228.58,6390.67 2184.2,6467.55 2228.58,6544.43 2317.36,6544.43 2361.75,6467.55 		
+			"/>
+		<polygon class="st1" points="850.99,6621.31 762.22,6621.31 717.83,6698.19 762.22,6775.08 850.99,6775.08 895.38,6698.19 		"/>
+		<polygon class="st1" points="1117.6,6621.31 1028.82,6621.31 984.44,6698.19 1028.82,6775.08 1117.6,6775.08 1161.99,6698.19 		
+			"/>
+		<polygon class="st1" points="1250.94,6544.43 1162.16,6544.43 1117.77,6621.31 1162.16,6698.19 1250.94,6698.19 1295.32,6621.31 
+					"/>
+		<polygon class="st1" points="2317.36,6698.19 2228.58,6698.19 2184.2,6775.08 2228.58,6851.96 2317.36,6851.96 2361.75,6775.08 		
+			"/>
+		<polygon class="st1" points="850.99,6928.84 762.22,6928.84 717.83,7005.72 762.22,7082.61 850.99,7082.61 895.38,7005.72 		"/>
+		<polygon class="st1" points="1117.6,6928.84 1028.82,6928.84 984.44,7005.72 1028.82,7082.61 1117.6,7082.61 1161.99,7005.72 		
+			"/>
+		<polygon class="st1" points="1384.21,6775.08 1295.43,6775.08 1251.04,6851.96 1295.43,6928.84 1384.21,6928.84 1428.59,6851.96 
+					"/>
+		<polygon class="st1" points="1650.81,6775.08 1562.04,6775.08 1517.65,6851.96 1562.04,6928.84 1650.81,6928.84 1695.2,6851.96 		
+			"/>
+		<polygon class="st1" points="2050.75,6851.96 1961.98,6851.96 1917.59,6928.84 1961.98,7005.72 2050.75,7005.72 2095.14,6928.84 
+					"/>
+		<polygon class="st1" points="1784.15,7005.72 1695.37,7005.72 1650.98,7082.61 1695.37,7159.49 1784.15,7159.49 1828.54,7082.61 
+					"/>
+		<polygon class="st1" points="850.99,7236.37 762.22,7236.37 717.83,7313.25 762.22,7390.13 850.99,7390.13 895.38,7313.25 		"/>
+		<polygon class="st1" points="2184.02,7236.37 2095.25,7236.37 2050.86,7313.25 2095.25,7390.13 2184.02,7390.13 2228.41,7313.25 
+					"/>
+		<polygon class="st1" points="1650.81,7390.13 1562.04,7390.13 1517.65,7467.02 1562.04,7543.9 1650.81,7543.9 1695.2,7467.02 		
+			"/>
+		<polygon class="st1" points="2584.2,6390.67 2495.42,6390.67 2451.03,6467.55 2495.42,6544.43 2584.2,6544.43 2628.58,6467.55 		
+			"/>
+		<polygon class="st1" points="2584.2,6851.96 2495.42,6851.96 2451.03,6928.84 2495.42,7005.72 2584.2,7005.72 2628.58,6928.84 		
+			"/>
+		<polygon class="st1" points="2584.2,7313.25 2495.42,7313.25 2451.03,7390.13 2495.42,7467.02 2584.2,7467.02 2628.58,7390.13 		
+			"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="2144.66,21.41 2083.06,21.41 2052.26,74.75 2083.06,128.1 2144.66,128.1 2175.46,74.75 		"/>
+		<polygon class="st4" points="2607.16,74.75 2545.56,74.75 2514.76,128.1 2545.56,181.44 2607.16,181.44 2637.96,128.1 		"/>
+		<polygon class="st4" points="1959.67,128.1 1898.07,128.1 1867.27,181.44 1898.07,234.79 1959.67,234.79 1990.47,181.44 		"/>
+		<polygon class="st4" points="1867.2,181.44 1805.6,181.44 1774.8,234.79 1805.6,288.14 1867.2,288.14 1898,234.79 		"/>
+		<polygon class="st4" points="1775.16,128.1 1713.56,128.1 1682.76,181.44 1713.56,234.79 1775.16,234.79 1805.96,181.44 		"/>
+		<polygon class="st4" points="2607.16,288.14 2545.56,288.14 2514.76,341.48 2545.56,394.83 2607.16,394.83 2637.96,341.48 		"/>
+		<polygon class="st4" points="2422.17,928.83 2360.57,928.83 2329.77,982.17 2360.57,1035.52 2422.17,1035.52 2452.97,982.17 		"/>
+		<polygon class="st4" points="2052.19,288.14 1990.59,288.14 1959.79,341.48 1990.59,394.83 2052.19,394.83 2082.99,341.48 		"/>
+		<polygon class="st4" points="1867.2,394.83 1805.6,394.83 1774.8,448.18 1805.6,501.52 1867.2,501.52 1898,448.18 		"/>
+		<polygon class="st4" points="1775.16,448.18 1713.56,448.18 1682.76,501.52 1713.56,554.87 1775.16,554.87 1805.96,501.52 		"/>
+		<polygon class="st4" points="2237.18,394.83 2175.58,394.83 2144.78,448.18 2175.58,501.52 2237.18,501.52 2267.98,448.18 		"/>
+		<polygon class="st4" points="1959.67,661.56 1898.07,661.56 1867.27,714.91 1898.07,768.25 1959.67,768.25 1990.47,714.91 		"/>
+		<polygon class="st4" points="2422.17,394.83 2360.57,394.83 2329.77,448.18 2360.57,501.52 2422.17,501.52 2452.97,448.18 		"/>
+		<polygon class="st4" points="2237.18,181.44 2175.58,181.44 2144.78,234.79 2175.58,288.14 2237.18,288.14 2267.98,234.79 		"/>
+		<polygon class="st4" points="1867.2,714.91 1805.6,714.91 1774.8,768.25 1805.6,821.6 1867.2,821.6 1898,768.25 		"/>
+		<polygon class="st4" points="1867.2,821.6 1805.6,821.6 1774.8,874.95 1805.6,928.29 1867.2,928.29 1898,874.95 		"/>
+		<polygon class="st4" points="2237.18,821.6 2175.58,821.6 2144.78,874.95 2175.58,928.29 2237.18,928.29 2267.98,874.95 		"/>
+		<polygon class="st4" points="2514.64,767.33 2453.04,767.33 2422.24,820.68 2453.04,874.02 2514.64,874.02 2545.44,820.68 		"/>
+		<polygon class="st4" points="2422.17,608.22 2360.57,608.22 2329.77,661.56 2360.57,714.91 2422.17,714.91 2452.97,661.56 		"/>
+		<polygon class="st4" points="2607.16,501.52 2545.56,501.52 2514.76,554.87 2545.56,608.22 2607.16,608.22 2637.96,554.87 		"/>
+		<polygon class="st4" points="2144.66,554.87 2083.06,554.87 2052.26,608.22 2083.06,661.56 2144.66,661.56 2175.46,608.22 		"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="1855.06,1086.38 1797.02,1086.38 1768,1136.65 1797.02,1186.91 1855.06,1186.91 1884.08,1136.65 		
+			"/>
+		<polygon class="st4" points="2465.16,1036.12 2407.12,1036.12 2378.1,1086.38 2407.12,1136.65 2465.16,1136.65 2494.18,1086.38 		
+			"/>
+		<polygon class="st4" points="2290.85,1136.65 2232.81,1136.65 2203.79,1186.91 2232.81,1237.18 2290.85,1237.18 2319.87,1186.91 
+					"/>
+		<polygon class="st4" points="2552.29,1086.38 2494.25,1086.38 2465.23,1136.65 2494.25,1186.91 2552.29,1186.91 2581.31,1136.65 
+					"/>
+		<polygon class="st4" points="1680.75,1186.91 1622.71,1186.91 1593.69,1237.18 1622.71,1287.45 1680.75,1287.45 1709.77,1237.18 
+					"/>
+		<polygon class="st4" points="1593.62,1237.18 1535.58,1237.18 1506.56,1287.45 1535.58,1337.71 1593.62,1337.71 1622.64,1287.45 
+					"/>
+		<polygon class="st4" points="1506.9,1186.91 1448.85,1186.91 1419.83,1237.18 1448.85,1287.45 1506.9,1287.45 1535.92,1237.18 		
+			"/>
+		<polygon class="st4" points="2290.85,1337.71 2232.81,1337.71 2203.79,1387.98 2232.81,1438.24 2290.85,1438.24 2319.87,1387.98 
+					"/>
+		<polygon class="st4" points="2116.54,1941.41 2058.5,1941.41 2029.48,1991.67 2058.5,2041.94 2116.54,2041.94 2145.56,1991.67 		
+			"/>
+		<polygon class="st4" points="2465.16,1237.18 2407.12,1237.18 2378.1,1287.45 2407.12,1337.71 2465.16,1337.71 2494.18,1287.45 		
+			"/>
+		<polygon class="st4" points="1767.93,1337.71 1709.89,1337.71 1680.87,1387.98 1709.89,1438.24 1767.93,1438.24 1796.95,1387.98 
+					"/>
+		<polygon class="st4" points="1593.62,1438.24 1535.58,1438.24 1506.56,1488.51 1535.58,1538.78 1593.62,1538.78 1622.64,1488.51 
+					"/>
+		<polygon class="st4" points="1506.9,1488.51 1448.85,1488.51 1419.83,1538.78 1448.85,1589.04 1506.9,1589.04 1535.92,1538.78 		
+			"/>
+		<polygon class="st4" points="1942.24,1438.24 1884.19,1438.24 1855.17,1488.51 1884.19,1538.78 1942.24,1538.78 1971.26,1488.51 
+					"/>
+		<polygon class="st4" points="2552.29,1387.98 2494.25,1387.98 2465.23,1438.24 2494.25,1488.51 2552.29,1488.51 2581.31,1438.24 
+					"/>
+		<polygon class="st4" points="1680.75,1689.57 1622.71,1689.57 1593.69,1739.84 1622.71,1790.1 1680.75,1790.1 1709.77,1739.84 		
+			"/>
+		<polygon class="st4" points="2116.54,1438.24 2058.5,1438.24 2029.48,1488.51 2058.5,1538.78 2116.54,1538.78 2145.56,1488.51 		
+			"/>
+		<polygon class="st4" points="1942.24,1237.18 1884.19,1237.18 1855.17,1287.45 1884.19,1337.71 1942.24,1337.71 1971.26,1287.45 
+					"/>
+		<polygon class="st4" points="1593.62,1739.84 1535.58,1739.84 1506.56,1790.1 1535.58,1840.37 1593.62,1840.37 1622.64,1790.1 		
+			"/>
+		<polygon class="st4" points="2552.29,1589.04 2494.25,1589.04 2465.23,1639.31 2494.25,1689.57 2552.29,1689.57 2581.31,1639.31 
+					"/>
+		<polygon class="st4" points="1593.62,1840.37 1535.58,1840.37 1506.56,1890.64 1535.58,1940.9 1593.62,1940.9 1622.64,1890.64 		
+			"/>
+		<polygon class="st4" points="1942.24,1840.37 1884.19,1840.37 1855.17,1890.64 1884.19,1940.9 1942.24,1940.9 1971.26,1890.64 		
+			"/>
+		<polygon class="st4" points="2203.68,1789.24 2145.63,1789.24 2116.61,1839.5 2145.63,1889.77 2203.68,1889.77 2232.7,1839.5 		
+			"/>
+		<polygon class="st4" points="2465.16,1840.37 2407.12,1840.37 2378.1,1890.64 2407.12,1940.9 2465.16,1940.9 2494.18,1890.64 		
+			"/>
+		<polygon class="st4" points="2552.29,1891.14 2494.25,1891.14 2465.23,1941.41 2494.25,1991.67 2552.29,1991.67 2581.31,1941.41 
+					"/>
+		<polygon class="st4" points="2116.54,1639.31 2058.5,1639.31 2029.48,1689.57 2058.5,1739.84 2116.54,1739.84 2145.56,1689.57 		
+			"/>
+		<polygon class="st4" points="2465.16,1739.84 2407.12,1739.84 2378.1,1790.1 2407.12,1840.37 2465.16,1840.37 2494.18,1790.1 		
+			"/>
+		<polygon class="st4" points="2290.85,1538.78 2232.81,1538.78 2203.79,1589.04 2232.81,1639.31 2290.85,1639.31 2319.87,1589.04 
+					"/>
+		<polygon class="st4" points="1855.06,1589.04 1797.02,1589.04 1768,1639.31 1797.02,1689.57 1855.06,1689.57 1884.08,1639.31 		
+			"/>
+	</g>
+	<g class="st140">
+		<polygon class="st129" points="1857.19,-6.43 1794.81,-6.43 1763.63,47.59 1794.81,101.61 1857.19,101.61 1888.38,47.59 		"/>
+		<polygon class="st129" points="2044.51,101.61 1982.13,101.61 1950.95,155.63 1982.13,209.65 2044.51,209.65 2075.7,155.63 		"/>
+		<polygon class="st129" points="2138.15,263.66 2075.77,263.66 2044.58,317.68 2075.77,371.7 2138.15,371.7 2169.33,317.68 		"/>
+		<polygon class="st129" points="2419.15,209.65 2356.78,209.65 2325.59,263.66 2356.78,317.68 2419.15,317.68 2450.34,263.66 		"/>
+		<polygon class="st129" points="2325.47,155.63 2263.09,155.63 2231.9,209.65 2263.09,263.66 2325.47,263.66 2356.65,209.65 		"/>
+		<polygon class="st129" points="2325.47,371.7 2263.09,371.7 2231.9,425.72 2263.09,479.74 2325.47,479.74 2356.65,425.72 		"/>
+		<polygon class="st129" points="2325.47,803.85 2263.09,803.85 2231.9,857.87 2263.09,911.89 2325.47,911.89 2356.65,857.87 		"/>
+		<polygon class="st129" points="2325.47,911.89 2263.09,911.89 2231.9,965.9 2263.09,1019.92 2325.47,1019.92 2356.65,965.9 		"/>
+		<polygon class="st129" points="1857.19,317.68 1794.81,317.68 1763.63,371.7 1794.81,425.72 1857.19,425.72 1888.38,371.7 		"/>
+		<polygon class="st129" points="1763.5,371.7 1701.13,371.7 1669.94,425.72 1701.13,479.74 1763.5,479.74 1794.69,425.72 		"/>
+		<polygon class="st129" points="2044.51,425.72 1982.13,425.72 1950.95,479.74 1982.13,533.76 2044.51,533.76 2075.7,479.74 		"/>
+		<polygon class="st129" points="2512.79,371.7 2450.41,371.7 2419.22,425.72 2450.41,479.74 2512.79,479.74 2543.98,425.72 		"/>
+		<polygon class="st129" points="2231.55,425.72 2169.18,425.72 2137.99,479.74 2169.18,533.76 2231.55,533.76 2262.74,479.74 		"/>
+		<polygon class="st129" points="1857.98,533.76 1795.61,533.76 1764.42,587.77 1795.61,641.79 1857.98,641.79 1889.17,587.77 		"/>
+		<polygon class="st129" points="1951.62,587.77 1889.25,587.77 1858.06,641.79 1889.25,695.81 1951.62,695.81 1982.81,641.79 		"/>
+		<polygon class="st129" points="2231.55,641.79 2169.18,641.79 2137.99,695.81 2169.18,749.83 2231.55,749.83 2262.74,695.81 		"/>
+		<polygon class="st129" points="2418.14,533.76 2355.76,533.76 2324.57,587.77 2355.76,641.79 2418.14,641.79 2449.32,587.77 		"/>
+		<polygon class="st129" points="1763.5,587.77 1701.13,587.77 1669.94,641.79 1701.13,695.81 1763.5,695.81 1794.69,641.79 		"/>
+		<polygon class="st129" points="2044.51,749.83 1982.13,749.83 1950.95,803.85 1982.13,857.87 2044.51,857.87 2075.7,803.85 		"/>
+		<polygon class="st129" points="1950.82,911.89 1888.45,911.89 1857.26,965.9 1888.45,1019.92 1950.82,1019.92 1982.01,965.9 		"/>
+		<polygon class="st129" points="2138.15,911.89 2075.77,911.89 2044.58,965.9 2075.77,1019.92 2138.15,1019.92 2169.33,965.9 		"/>
+		<polygon class="st129" points="2419.15,857.87 2356.78,857.87 2325.59,911.89 2356.78,965.9 2419.15,965.9 2450.34,911.89 		"/>
+		<polygon class="st129" points="2605.35,533.76 2542.98,533.76 2511.79,587.77 2542.98,641.79 2605.35,641.79 2636.54,587.77 		"/>
+		<polygon class="st129" points="2605.35,641.79 2542.98,641.79 2511.79,695.81 2542.98,749.83 2605.35,749.83 2636.54,695.81 		"/>
+	</g>
+	<g class="st140">
+		<polygon class="st129" points="1917.02,967.91 1854.52,967.91 1823.27,1022.04 1854.52,1076.16 1917.02,1076.16 1948.27,1022.04 
+					"/>
+		<polygon class="st129" points="2104.71,1076.16 2042.21,1076.16 2010.96,1130.29 2042.21,1184.41 2104.71,1184.41 
+			2135.96,1130.29 		"/>
+		<polygon class="st129" points="2198.53,1238.54 2136.03,1238.54 2104.78,1292.66 2136.03,1346.78 2198.53,1346.78 
+			2229.78,1292.66 		"/>
+		<polygon class="st129" points="2480.08,1184.41 2417.59,1184.41 2386.34,1238.54 2417.59,1292.66 2480.08,1292.66 
+			2511.33,1238.54 		"/>
+		<polygon class="st129" points="2386.22,1130.29 2323.72,1130.29 2292.47,1184.41 2323.72,1238.54 2386.22,1238.54 
+			2417.47,1184.41 		"/>
+		<polygon class="st129" points="2386.22,1346.78 2323.72,1346.78 2292.47,1400.91 2323.72,1455.03 2386.22,1455.03 
+			2417.47,1400.91 		"/>
+		<polygon class="st129" points="2386.22,1779.78 2323.72,1779.78 2292.47,1833.9 2323.72,1888.03 2386.22,1888.03 2417.47,1833.9 
+					"/>
+		<polygon class="st129" points="2386.22,1888.03 2323.72,1888.03 2292.47,1942.15 2323.72,1996.28 2386.22,1996.28 
+			2417.47,1942.15 		"/>
+		<polygon class="st129" points="1917.02,1292.66 1854.52,1292.66 1823.27,1346.78 1854.52,1400.91 1917.02,1400.91 
+			1948.27,1346.78 		"/>
+		<polygon class="st129" points="1823.15,1346.78 1760.65,1346.78 1729.41,1400.91 1760.65,1455.03 1823.15,1455.03 1854.4,1400.91 
+					"/>
+		<polygon class="st129" points="2104.71,1400.91 2042.21,1400.91 2010.96,1455.03 2042.21,1509.16 2104.71,1509.16 
+			2135.96,1455.03 		"/>
+		<polygon class="st129" points="2573.91,1346.78 2511.41,1346.78 2480.16,1400.91 2511.41,1455.03 2573.91,1455.03 
+			2605.15,1400.91 		"/>
+		<polygon class="st129" points="2292.12,1400.91 2229.62,1400.91 2198.37,1455.03 2229.62,1509.16 2292.12,1509.16 
+			2323.37,1455.03 		"/>
+		<polygon class="st129" points="1917.82,1509.16 1855.32,1509.16 1824.07,1563.28 1855.32,1617.41 1917.82,1617.41 
+			1949.07,1563.28 		"/>
+		<polygon class="st129" points="2011.64,1563.28 1949.14,1563.28 1917.89,1617.41 1949.14,1671.53 2011.64,1671.53 
+			2042.89,1617.41 		"/>
+		<polygon class="st129" points="2292.12,1617.41 2229.62,1617.41 2198.37,1671.53 2229.62,1725.65 2292.12,1725.65 
+			2323.37,1671.53 		"/>
+		<polygon class="st129" points="2479.07,1509.16 2416.57,1509.16 2385.32,1563.28 2416.57,1617.41 2479.07,1617.41 
+			2510.32,1563.28 		"/>
+		<polygon class="st129" points="1823.15,1563.28 1760.65,1563.28 1729.41,1617.41 1760.65,1671.53 1823.15,1671.53 1854.4,1617.41 
+					"/>
+		<polygon class="st129" points="2104.71,1725.65 2042.21,1725.65 2010.96,1779.78 2042.21,1833.9 2104.71,1833.9 2135.96,1779.78 
+					"/>
+		<polygon class="st129" points="2010.84,1888.03 1948.34,1888.03 1917.09,1942.15 1948.34,1996.28 2010.84,1996.28 
+			2042.09,1942.15 		"/>
+		<polygon class="st129" points="2198.53,1888.03 2136.03,1888.03 2104.78,1942.15 2136.03,1996.28 2198.53,1996.28 
+			2229.78,1942.15 		"/>
+		<polygon class="st129" points="2480.08,1833.9 2417.59,1833.9 2386.34,1888.03 2417.59,1942.15 2480.08,1942.15 2511.33,1888.03 
+					"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="2093.69,3021.57 2035.65,3021.57 2006.63,3071.84 2035.65,3122.1 2093.69,3122.1 2122.71,3071.84 		
+			"/>
+		<polygon class="st4" points="2529.48,3071.84 2471.44,3071.84 2442.42,3122.1 2471.44,3172.37 2529.48,3172.37 2558.5,3122.1 		
+			"/>
+		<polygon class="st4" points="1919.38,3122.1 1861.34,3122.1 1832.32,3172.37 1861.34,3222.63 1919.38,3222.63 1948.4,3172.37 		
+			"/>
+		<polygon class="st4" points="1832.25,3172.37 1774.21,3172.37 1745.19,3222.63 1774.21,3272.9 1832.25,3272.9 1861.27,3222.63 		
+			"/>
+		<polygon class="st4" points="1745.52,3122.1 1687.48,3122.1 1658.46,3172.37 1687.48,3222.63 1745.52,3222.63 1774.54,3172.37 		
+			"/>
+		<polygon class="st4" points="2529.48,3272.9 2471.44,3272.9 2442.42,3323.16 2471.44,3373.43 2529.48,3373.43 2558.5,3323.16 		
+			"/>
+		<polygon class="st4" points="2355.17,3876.59 2297.13,3876.59 2268.11,3926.86 2297.13,3977.12 2355.17,3977.12 2384.19,3926.86 
+					"/>
+		<polygon class="st4" points="2006.56,3272.9 1948.51,3272.9 1919.49,3323.16 1948.51,3373.43 2006.56,3373.43 2035.58,3323.16 		
+			"/>
+		<polygon class="st4" points="1832.25,3373.43 1774.21,3373.43 1745.19,3423.7 1774.21,3473.96 1832.25,3473.96 1861.27,3423.7 		
+			"/>
+		<polygon class="st4" points="1745.52,3423.7 1687.48,3423.7 1658.46,3473.96 1687.48,3524.23 1745.52,3524.23 1774.54,3473.96 		
+			"/>
+		<polygon class="st4" points="2180.86,3373.43 2122.82,3373.43 2093.8,3423.7 2122.82,3473.96 2180.86,3473.96 2209.88,3423.7 		
+			"/>
+		<polygon class="st4" points="1919.38,3624.76 1861.34,3624.76 1832.32,3675.02 1861.34,3725.29 1919.38,3725.29 1948.4,3675.02 		
+			"/>
+		<polygon class="st4" points="2355.17,3373.43 2297.13,3373.43 2268.11,3423.7 2297.13,3473.96 2355.17,3473.96 2384.19,3423.7 		
+			"/>
+		<polygon class="st4" points="2180.86,3172.37 2122.82,3172.37 2093.8,3222.63 2122.82,3272.9 2180.86,3272.9 2209.88,3222.63 		
+			"/>
+		<polygon class="st4" points="1832.25,3675.02 1774.21,3675.02 1745.19,3725.29 1774.21,3775.56 1832.25,3775.56 1861.27,3725.29 
+					"/>
+		<polygon class="st4" points="1832.25,3775.56 1774.21,3775.56 1745.19,3825.82 1774.21,3876.09 1832.25,3876.09 1861.27,3825.82 
+					"/>
+		<polygon class="st4" points="2180.86,3775.56 2122.82,3775.56 2093.8,3825.82 2122.82,3876.09 2180.86,3876.09 2209.88,3825.82 		
+			"/>
+		<polygon class="st4" points="2442.3,3724.42 2384.26,3724.42 2355.24,3774.69 2384.26,3824.95 2442.3,3824.95 2471.32,3774.69 		
+			"/>
+		<polygon class="st4" points="2355.17,3574.49 2297.13,3574.49 2268.11,3624.76 2297.13,3675.02 2355.17,3675.02 2384.19,3624.76 
+					"/>
+		<polygon class="st4" points="2529.48,3473.96 2471.44,3473.96 2442.42,3524.23 2471.44,3574.49 2529.48,3574.49 2558.5,3524.23 		
+			"/>
+		<polygon class="st4" points="2093.69,3524.23 2035.65,3524.23 2006.63,3574.49 2035.65,3624.76 2093.69,3624.76 2122.71,3574.49 
+					"/>
+	</g>
+	<g class="st140">
+		<polygon class="st129" points="1763.29,2860.4 1700.79,2860.4 1669.54,2914.52 1700.79,2968.65 1763.29,2968.65 1794.54,2914.52 
+					"/>
+		<polygon class="st129" points="2607.86,2914.52 2545.37,2914.52 2514.12,2968.65 2545.37,3022.77 2607.86,3022.77 
+			2639.11,2968.65 		"/>
+		<polygon class="st129" points="1950.98,2968.65 1888.48,2968.65 1857.23,3022.77 1888.48,3076.9 1950.98,3076.9 1982.23,3022.77 
+					"/>
+		<polygon class="st129" points="2044.8,3131.02 1982.3,3131.02 1951.05,3185.15 1982.3,3239.27 2044.8,3239.27 2076.05,3185.15 		
+			"/>
+		<polygon class="st129" points="2326.35,3076.9 2263.86,3076.9 2232.61,3131.02 2263.86,3185.15 2326.35,3185.15 2357.6,3131.02 		
+			"/>
+		<polygon class="st129" points="2232.49,3022.77 2169.99,3022.77 2138.74,3076.9 2169.99,3131.02 2232.49,3131.02 2263.74,3076.9 
+					"/>
+		<polygon class="st129" points="2232.49,3239.27 2169.99,3239.27 2138.74,3293.39 2169.99,3347.52 2232.49,3347.52 
+			2263.74,3293.39 		"/>
+		<polygon class="st129" points="2232.49,3672.27 2169.99,3672.27 2138.74,3726.39 2169.99,3780.51 2232.49,3780.51 
+			2263.74,3726.39 		"/>
+		<polygon class="st129" points="2607.86,3239.27 2545.37,3239.27 2514.12,3293.39 2545.37,3347.52 2607.86,3347.52 
+			2639.11,3293.39 		"/>
+		<polygon class="st129" points="2607.86,2914.52 2545.37,2914.52 2514.12,2968.65 2545.37,3022.77 2607.86,3022.77 
+			2639.11,2968.65 		"/>
+		<polygon class="st129" points="2607.86,3672.27 2545.37,3672.27 2514.12,3726.39 2545.37,3780.51 2607.86,3780.51 
+			2639.11,3726.39 		"/>
+		<polygon class="st129" points="2232.49,3780.51 2169.99,3780.51 2138.74,3834.64 2169.99,3888.76 2232.49,3888.76 
+			2263.74,3834.64 		"/>
+		<polygon class="st129" points="1763.29,3185.15 1700.79,3185.15 1669.54,3239.27 1700.79,3293.39 1763.29,3293.39 
+			1794.54,3239.27 		"/>
+		<polygon class="st129" points="1669.42,3239.27 1606.92,3239.27 1575.68,3293.39 1606.92,3347.52 1669.42,3347.52 
+			1700.67,3293.39 		"/>
+		<polygon class="st129" points="1950.98,3293.39 1888.48,3293.39 1857.23,3347.52 1888.48,3401.64 1950.98,3401.64 
+			1982.23,3347.52 		"/>
+		<polygon class="st129" points="2420.18,3239.27 2357.68,3239.27 2326.43,3293.39 2357.68,3347.52 2420.18,3347.52 
+			2451.42,3293.39 		"/>
+		<polygon class="st129" points="2138.39,3293.39 2075.89,3293.39 2044.64,3347.52 2075.89,3401.64 2138.39,3401.64 
+			2169.64,3347.52 		"/>
+		<polygon class="st129" points="1764.09,3401.64 1701.59,3401.64 1670.34,3455.77 1701.59,3509.89 1764.09,3509.89 
+			1795.34,3455.77 		"/>
+		<polygon class="st129" points="1857.91,3455.77 1795.41,3455.77 1764.16,3509.89 1795.41,3564.02 1857.91,3564.02 
+			1889.16,3509.89 		"/>
+		<polygon class="st129" points="2138.39,3509.89 2075.89,3509.89 2044.64,3564.02 2075.89,3618.14 2138.39,3618.14 
+			2169.64,3564.02 		"/>
+		<polygon class="st129" points="2325.34,3401.64 2262.84,3401.64 2231.59,3455.77 2262.84,3509.89 2325.34,3509.89 
+			2356.59,3455.77 		"/>
+		<polygon class="st129" points="1669.42,3455.77 1606.92,3455.77 1575.68,3509.89 1606.92,3564.02 1669.42,3564.02 
+			1700.67,3509.89 		"/>
+		<polygon class="st129" points="1950.98,3618.14 1888.48,3618.14 1857.23,3672.27 1888.48,3726.39 1950.98,3726.39 
+			1982.23,3672.27 		"/>
+		<polygon class="st129" points="1857.11,3780.51 1794.61,3780.51 1763.36,3834.64 1794.61,3888.76 1857.11,3888.76 
+			1888.36,3834.64 		"/>
+		<polygon class="st129" points="2044.8,3780.51 1982.3,3780.51 1951.05,3834.64 1982.3,3888.76 2044.8,3888.76 2076.05,3834.64 		
+			"/>
+		<polygon class="st129" points="2326.35,3726.39 2263.86,3726.39 2232.61,3780.51 2263.86,3834.64 2326.35,3834.64 2357.6,3780.51 
+					"/>
+		<polygon class="st129" points="2512.92,3401.64 2450.43,3401.64 2419.18,3455.77 2450.43,3509.89 2512.92,3509.89 
+			2544.17,3455.77 		"/>
+		<polygon class="st129" points="2512.92,3509.89 2450.43,3509.89 2419.18,3564.02 2450.43,3618.14 2512.92,3618.14 
+			2544.17,3564.02 		"/>
+	</g>
+	<g class="st138">
+		<polygon class="st4" points="1891.97,2044.74 1833.92,2044.74 1804.9,2095.01 1833.92,2145.28 1891.97,2145.28 1920.99,2095.01 		
+			"/>
+		<polygon class="st4" points="2502.06,1994.48 2444.02,1994.48 2415,2044.74 2444.02,2095.01 2502.06,2095.01 2531.09,2044.74 		
+			"/>
+		<polygon class="st4" points="2327.76,2095.01 2269.72,2095.01 2240.69,2145.28 2269.72,2195.54 2327.76,2195.54 2356.78,2145.28 
+					"/>
+		<polygon class="st4" points="2589.2,2044.74 2531.16,2044.74 2502.13,2095.01 2531.16,2145.28 2589.2,2145.28 2618.22,2095.01 		
+			"/>
+		<polygon class="st4" points="1717.66,2145.28 1659.62,2145.28 1630.6,2195.54 1659.62,2245.81 1717.66,2245.81 1746.68,2195.54 		
+			"/>
+		<polygon class="st4" points="1630.53,2195.54 1572.49,2195.54 1543.46,2245.81 1572.49,2296.07 1630.53,2296.07 1659.55,2245.81 
+					"/>
+		<polygon class="st4" points="1543.8,2145.28 1485.76,2145.28 1456.74,2195.54 1485.76,2245.81 1543.8,2245.81 1572.82,2195.54 		
+			"/>
+		<polygon class="st4" points="2327.76,2296.07 2269.72,2296.07 2240.69,2346.34 2269.72,2396.6 2327.76,2396.6 2356.78,2346.34 		
+			"/>
+		<polygon class="st4" points="2153.45,2899.77 2095.41,2899.77 2066.39,2950.03 2095.41,3000.3 2153.45,3000.3 2182.47,2950.03 		
+			"/>
+		<polygon class="st4" points="2502.06,2195.54 2444.02,2195.54 2415,2245.81 2444.02,2296.07 2502.06,2296.07 2531.09,2245.81 		
+			"/>
+		<polygon class="st4" points="1804.83,2296.07 1746.79,2296.07 1717.77,2346.34 1746.79,2396.6 1804.83,2396.6 1833.86,2346.34 		
+			"/>
+		<polygon class="st4" points="1630.53,2396.6 1572.49,2396.6 1543.46,2446.87 1572.49,2497.14 1630.53,2497.14 1659.55,2446.87 		
+			"/>
+		<polygon class="st4" points="1543.8,2446.87 1485.76,2446.87 1456.74,2497.14 1485.76,2547.4 1543.8,2547.4 1572.82,2497.14 		"/>
+		<polygon class="st4" points="1979.14,2396.6 1921.1,2396.6 1892.08,2446.87 1921.1,2497.14 1979.14,2497.14 2008.16,2446.87 		"/>
+		<polygon class="st4" points="2589.2,2346.34 2531.16,2346.34 2502.13,2396.6 2531.16,2446.87 2589.2,2446.87 2618.22,2396.6 		"/>
+		<polygon class="st4" points="1717.66,2647.93 1659.62,2647.93 1630.6,2698.2 1659.62,2748.46 1717.66,2748.46 1746.68,2698.2 		
+			"/>
+		<polygon class="st4" points="2153.45,2396.6 2095.41,2396.6 2066.39,2446.87 2095.41,2497.14 2153.45,2497.14 2182.47,2446.87 		
+			"/>
+		<polygon class="st4" points="1979.14,2195.54 1921.1,2195.54 1892.08,2245.81 1921.1,2296.07 1979.14,2296.07 2008.16,2245.81 		
+			"/>
+		<polygon class="st4" points="1630.53,2698.2 1572.49,2698.2 1543.46,2748.46 1572.49,2798.73 1630.53,2798.73 1659.55,2748.46 		
+			"/>
+		<polygon class="st4" points="2589.2,2547.4 2531.16,2547.4 2502.13,2597.67 2531.16,2647.93 2589.2,2647.93 2618.22,2597.67 		"/>
+		<polygon class="st4" points="1630.53,2798.73 1572.49,2798.73 1543.46,2849 1572.49,2899.26 1630.53,2899.26 1659.55,2849 		"/>
+		<polygon class="st4" points="1979.14,2798.73 1921.1,2798.73 1892.08,2849 1921.1,2899.26 1979.14,2899.26 2008.16,2849 		"/>
+		<polygon class="st4" points="2240.58,2747.6 2182.54,2747.6 2153.52,2797.86 2182.54,2848.13 2240.58,2848.13 2269.6,2797.86 		
+			"/>
+		<polygon class="st4" points="2502.06,2798.73 2444.02,2798.73 2415,2849 2444.02,2899.26 2502.06,2899.26 2531.09,2849 		"/>
+		<polygon class="st4" points="2589.2,2849.5 2531.16,2849.5 2502.13,2899.77 2531.16,2950.03 2589.2,2950.03 2618.22,2899.77 		"/>
+		<polygon class="st4" points="2153.45,2597.67 2095.41,2597.67 2066.39,2647.93 2095.41,2698.2 2153.45,2698.2 2182.47,2647.93 		
+			"/>
+		<polygon class="st4" points="2502.06,2698.2 2444.02,2698.2 2415,2748.46 2444.02,2798.73 2502.06,2798.73 2531.09,2748.46 		"/>
+		<polygon class="st4" points="2327.76,2497.14 2269.72,2497.14 2240.69,2547.4 2269.72,2597.67 2327.76,2597.67 2356.78,2547.4 		
+			"/>
+		<polygon class="st4" points="1891.97,2547.4 1833.92,2547.4 1804.9,2597.67 1833.92,2647.93 1891.97,2647.93 1920.99,2597.67 		
+			"/>
+	</g>
+	<g class="st140">
+		<polygon class="st129" points="1818.12,1933.59 1755.62,1933.59 1724.37,1987.71 1755.62,2041.84 1818.12,2041.84 
+			1849.37,1987.71 		"/>
+		<polygon class="st129" points="2005.8,2041.84 1943.31,2041.84 1912.06,2095.96 1943.31,2150.08 2005.8,2150.08 2037.05,2095.96 
+					"/>
+		<polygon class="st129" points="2099.63,2204.21 2037.13,2204.21 2005.88,2258.33 2037.13,2312.46 2099.63,2312.46 
+			2130.87,2258.33 		"/>
+		<polygon class="st129" points="2381.18,2150.08 2318.68,2150.08 2287.44,2204.21 2318.68,2258.33 2381.18,2258.33 
+			2412.43,2204.21 		"/>
+		<polygon class="st129" points="2287.31,2095.96 2224.82,2095.96 2193.57,2150.08 2224.82,2204.21 2287.31,2204.21 
+			2318.56,2150.08 		"/>
+		<polygon class="st129" points="2287.31,2312.46 2224.82,2312.46 2193.57,2366.58 2224.82,2420.71 2287.31,2420.71 
+			2318.56,2366.58 		"/>
+		<polygon class="st129" points="2287.31,2745.45 2224.82,2745.45 2193.57,2799.58 2224.82,2853.7 2287.31,2853.7 2318.56,2799.58 
+					"/>
+		<polygon class="st129" points="2287.31,2853.7 2224.82,2853.7 2193.57,2907.83 2224.82,2961.95 2287.31,2961.95 2318.56,2907.83 
+					"/>
+		<polygon class="st129" points="1818.12,2258.33 1755.62,2258.33 1724.37,2312.46 1755.62,2366.58 1818.12,2366.58 
+			1849.37,2312.46 		"/>
+		<polygon class="st129" points="1724.25,2312.46 1661.75,2312.46 1630.5,2366.58 1661.75,2420.71 1724.25,2420.71 1755.5,2366.58 
+					"/>
+		<polygon class="st129" points="2005.8,2366.58 1943.31,2366.58 1912.06,2420.71 1943.31,2474.83 2005.8,2474.83 2037.05,2420.71 
+					"/>
+		<polygon class="st129" points="2475,2312.46 2412.5,2312.46 2381.26,2366.58 2412.5,2420.71 2475,2420.71 2506.25,2366.58 		"/>
+		<polygon class="st129" points="2193.22,2366.58 2130.72,2366.58 2099.47,2420.71 2130.72,2474.83 2193.22,2474.83 
+			2224.46,2420.71 		"/>
+		<polygon class="st129" points="1818.91,2474.83 1756.42,2474.83 1725.17,2528.96 1756.42,2583.08 1818.91,2583.08 
+			1850.16,2528.96 		"/>
+		<polygon class="st129" points="1912.74,2528.96 1850.24,2528.96 1818.99,2583.08 1850.24,2637.2 1912.74,2637.2 1943.98,2583.08 
+					"/>
+		<polygon class="st129" points="2193.22,2583.08 2130.72,2583.08 2099.47,2637.2 2130.72,2691.33 2193.22,2691.33 2224.46,2637.2 
+					"/>
+		<polygon class="st129" points="2380.17,2474.83 2317.67,2474.83 2286.42,2528.96 2317.67,2583.08 2380.17,2583.08 
+			2411.41,2528.96 		"/>
+		<polygon class="st129" points="1724.25,2528.96 1661.75,2528.96 1630.5,2583.08 1661.75,2637.2 1724.25,2637.2 1755.5,2583.08 		
+			"/>
+		<polygon class="st129" points="2005.8,2691.33 1943.31,2691.33 1912.06,2745.45 1943.31,2799.58 2005.8,2799.58 2037.05,2745.45 
+					"/>
+		<polygon class="st129" points="1911.94,2853.7 1849.44,2853.7 1818.19,2907.83 1849.44,2961.95 1911.94,2961.95 1943.19,2907.83 
+					"/>
+		<polygon class="st129" points="2099.63,2853.7 2037.13,2853.7 2005.88,2907.83 2037.13,2961.95 2099.63,2961.95 2130.87,2907.83 
+					"/>
+		<polygon class="st129" points="2381.18,2799.58 2318.68,2799.58 2287.44,2853.7 2318.68,2907.83 2381.18,2907.83 2412.43,2853.7 
+					"/>
+		<polygon class="st129" points="2567.75,2474.83 2505.25,2474.83 2474,2528.96 2505.25,2583.08 2567.75,2583.08 2599,2528.96 		"/>
+		<polygon class="st129" points="2567.75,2583.08 2505.25,2583.08 2474,2637.2 2505.25,2691.33 2567.75,2691.33 2599,2637.2 		"/>
+	</g>
+	<rect x="1517.6" y="9.74" class="st139" width="1555.03" height="2034.48"/>
+</g>
+<g id="OBJETOS">
+</g>
+<g id="CONTENIDO">
+</g>
+</svg>
